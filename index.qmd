@@ -1,11 +1,36 @@
 ---
-title: "Buitrago-Yepes-Karla-portfolio"
+title: "Karla Buitrago-Yepes"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/karla-buitrago-yepes-5a278a28b/
+    - icon: github
+      text: Github
+      href: https://github.com/Karlabuye
 ---
 
-This is a Quarto website.
+Karla Buitrago- Yepes is a fourth year Marine Science Major and Statistics Minor at Cal State- Monterey Bay
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I intend to obtain a Marine Science PhD concentrated on invertebrate ecology, through a career employing cohesive field and lab models informing conservation through progressive effects of climate change.
 
-```{r}
-1 + 1
-```
+## Education
+
+CSU Monterey Bay | Marina, CA 
+B.S. in Marine Science | 2021 - 2025
+
+## Experience
+
+Summer Intern | Oregon State University | June 2024 - August 2024
+
+Dive Locker Technician  | CSU- Monterey Bay | August 2023 - December 2024
+
+Summer Intern | NOAA - Protected Resources Division | June 2023 - August 2023
+
+Research Intern | CSU- Monterey Bay & Moss Landing Marine Labs | January 2023 - June 2024
+
+Research Assistant | Moss Landing Marine Labs | September 2022 - December 2022
+
+Teaching Assistant | CSU- Monterey Bay | August 2022 - Present
