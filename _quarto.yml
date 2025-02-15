@@ -1,19 +1,29 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Buitrago-Yepes-Karla-portfolio"
+  title: "Karla Buitrago-Yepes' ePortfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+    right: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/karla-buitrago-yepes-5a278a28b/
+    - icon: github
+      text: Github
+      href: https://github.com/Karlabuye
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
+    linkcolor:  red
 
 editor: visual
 

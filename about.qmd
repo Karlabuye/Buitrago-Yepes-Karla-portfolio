@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "Me"
 ---
 
-As a Marine Science student with a minor in statistics, I pursue a career as a researcher informing conservation efforts through the progressive effects of climate change on marine ecosystems. I intend to complete a marine science PhD on invertebrate ecology particularly in temperate ecosystems. As an ecologist, I will study the manner ecological relations between environmental conditions, invertebrates, and habitat-building organisms will be affected particularly within the remaining fragile kelp forest ecosystem. My combined Colombian and American values afford me bilingualism and familiarity with individuals of diverse heritages broadening my ability to connect with peers within the scientific community. I strive to represent my Latin community within professional sciences promoting our recognition and inclusion within historically underrepresented fields and advocating for diverse perspectives within academia. 
+I intend to complete a marine science PhD in invertebrate ecology particularly in temperate ecosystems. As an ecologist, I will study the manner ecological relations between environmental conditions, invertebrates, and habitat-building organisms will be affected particularly within the remaining fragile kelp forest ecosystem.
 
-```{r}
-1 + 1
-```
+My combined Colombian and American values afford me bilingualism and familiarity with individuals of diverse heritages broadening my ability to connect with peers within the scientific community. I strive to represent my Latin community within professional sciences promoting our recognition and inclusion within historically underrepresented fields and advocating for diverse perspectives within academia.
+
+As a Member of the Federal Ronald E. McNair Post-baccalaureate Achievement Program I am ​working to develop my research capabilities mentored by Dr. Cheryl Logan and Dr. Lydia Baker at CSU Monterey Bay.
+
+Obtaining a professional Dive Master certification I support students' success in SCUBA classes of varying levels, with over 200 hours of instruction
