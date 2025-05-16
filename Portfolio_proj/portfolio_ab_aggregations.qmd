@@ -189,9 +189,9 @@ both%>%
               se = FALSE, 
               inherit.aes = FALSE)+
   labs(
-    title = "Abalone Agreggation Sizes with Urchin Densities per Transect",
+    title = "Abalone Aggreggation Sizes with Urchin Densities per Transect",
     y = expression(italic("S. purpuratus")~"Density (m"^2*")"),
-    x = expression("Agregation Size"),
+    x = expression("Aggregation Size"),
     color = "Site") +
   theme_minimal() +
   theme(
