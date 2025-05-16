@@ -32,21 +32,21 @@
     "href": "Portfolio_proj/portfolio_ab_aggregations.html",
     "title": "Abalone Aggregations",
     "section": "",
-    "text": "Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, but have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in many species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes.\nThe projects in Marine Ecology Course at CSU- Monterey Bay utilized invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data between 2002 and 2025 is used to asses environmental drivers of black abalone aggregations.\nAggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. We measured crevice depth and width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density to assess their influence on abalone aggregation sizes."
+    "text": "Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, that have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in these species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes.\nThe projects in Marine Ecology Course at CSU- Monterey Bay conducted invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data spanning from 2002 to 2025 was used to asses environmental drivers of black abalone aggregations.\nAggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. Competitive purple sea urchin (Strongylocentrotus purpuratus) densities was measured to assess their influence on abalone aggregation sizes."
   },
   {
     "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#data-description",
     "href": "Portfolio_proj/portfolio_ab_aggregations.html#data-description",
     "title": "Abalone Aggregations",
     "section": "",
-    "text": "Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, but have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in many species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes.\nThe projects in Marine Ecology Course at CSU- Monterey Bay utilized invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data between 2002 and 2025 is used to asses environmental drivers of black abalone aggregations.\nAggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. We measured crevice depth and width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density to assess their influence on abalone aggregation sizes."
+    "text": "Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, that have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in these species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes.\nThe projects in Marine Ecology Course at CSU- Monterey Bay conducted invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data spanning from 2002 to 2025 was used to asses environmental drivers of black abalone aggregations.\nAggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. Competitive purple sea urchin (Strongylocentrotus purpuratus) densities was measured to assess their influence on abalone aggregation sizes."
   },
   {
     "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#data-cleaning",
     "href": "Portfolio_proj/portfolio_ab_aggregations.html#data-cleaning",
     "title": "Abalone Aggregations",
     "section": "Data Cleaning",
-    "text": "Data Cleaning\nWe determined aggregation sizes as the sum of abalones within a meter position of each other—aggregations with more than four abalones were considered as having aggregations present, while aggregations with fewer than four abalones were not considered as viable aggregations."
+    "text": "Data Cleaning\nThe amalgamation of data from 2002 to 2025 created challenges in data uniformity. Site, Species, and excess variables were cleaned ensuring comparisons between sites surveys were possible in all years of surveying.\nWe determined abalone aggregation sizes as the sum of abalones within a meter position of each other along an individual transect. An aggregations size variable was created by matching the site, date, transect number,and position (rounded to the nearest meter) of each abalone surveyed. Viable abalone aggregation presence was assessed creating a binary presence variable for —aggregations with more than four abalones considered as “yes” having aggregations present, while aggregations with fewer than four abalones considered as “no” viable aggregation present.\nUrchin density was calculated as the number of urchins witnessed per transect divided by the area of the transect.To determining transect area the transect lengths recorded were multiplied by 2 for 1 meter swaths conducted on each side of the transects (following the parameters set by researchers)."
   },
   {
     "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#visualization-1",
@@ -54,5 +54,12 @@
     "title": "Abalone Aggregations",
     "section": "Visualization 1",
     "text": "Visualization 1\nThe proportion of abalone aggregations at each survey site are expressed with aggregations being the presence of abalone within a meter position of each other along the transects. Aggregations, or groupings of abalone, were categorized as either 4 or more abalone or fewer than 4 abalone. Previous studies have found that aggregations of at least 4 abalones are needed to have a beneficial impact on survival.\n\n\n\n\n\nOf 1,972 abalones found, 115 were found at Cannery Row, 966 were found at Carmel Point, 210 were found at Hopkins Marine Station, 328 were found at Point Pinos, and 353 were found at Soberanes."
+  },
+  {
+    "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#visualization-2",
+    "href": "Portfolio_proj/portfolio_ab_aggregations.html#visualization-2",
+    "title": "Abalone Aggregations",
+    "section": "Visualization 2",
+    "text": "Visualization 2"
   }
 ]

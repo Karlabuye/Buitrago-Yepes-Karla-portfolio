@@ -22,11 +22,16 @@ Black abalone (Haliotis cracherodii) are an ecologically and culturally importan
 
 The projects in Marine Ecology Course at CSU- Monterey Bay conducted invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data spanning from 2002 to 2025 was used to asses environmental drivers of black abalone aggregations. 
 
-Aggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. Crevice depth, width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density was measured to assess their influence on abalone aggregation sizes. 
+Aggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. Competitive purple sea urchin (Strongylocentrotus purpuratus) densities was measured to assess their influence on abalone aggregation sizes. 
 
 ## Data Cleaning 
 
-We determined aggregation sizes as the sum of abalones within a meter position of each other—aggregations with more than four abalones were considered as having aggregations present, while aggregations with fewer than four abalones were not considered as viable aggregations.
+The amalgamation of data from 2002 to 2025 created challenges in data uniformity. Site, Species, and excess variables were cleaned ensuring comparisons between sites surveys were possible in all years of surveying. 
+
+We determined abalone aggregation sizes as the sum of abalones within a meter position of each other along an individual transect. An aggregations size variable was created by matching the site, date, transect number,and position (rounded to the nearest meter) of each abalone surveyed. Viable abalone aggregation presence was assessed creating a binary presence variable for —aggregations with more than four abalones considered as "yes" having aggregations present, while aggregations with fewer than four abalones considered as "no" viable aggregation present.
+
+Urchin density was calculated as the number of urchins witnessed per transect divided by the area of the transect.To determining transect area the transect lengths recorded were multiplied by 2 for 1 meter swaths conducted on each side of the transects (following the parameters set by researchers). 
+
 
 
 ```{r}
@@ -117,7 +122,7 @@ write_csv(urchin, "data/clean_urchin.csv")#save clean urchin data set as a .csv
 #| include: false
 ab_aggs <- read_csv("data/clean_transects.csv")
 
-urchin <- read_csv("data/clean_transects.csv")
+urchin <- read_csv("data/clean_urchin.csv")
 ```
 
 ## Visualization 1 
@@ -130,18 +135,17 @@ The proportion of abalone aggregations at each survey site are expressed with ag
 #| fig-align: center
 
 # Prepare summary data with proportions
-ab_aggs <- ab_aggs|>
+ab_propaggs <- ab_aggs|>
   distinct(agg_name, presence, site)|>
   group_by(site, presence)|>
   summarise(n = n(), .groups = "drop")|>
   group_by(site)|>
   mutate(
     prop = n / sum(n),
-    ypos = cumsum(prop) - 0.5 * prop  # for label position inside each bar
-  )
+    ypos = cumsum(prop) - 0.5 * prop)  # for label position inside each bar
 
 # plot of aggregation proportions at different sites
-ggplot(ab_aggs, aes(x = fct_infreq(site), y = prop, fill = presence)) +
+ggplot(ab_propaggs, aes(x = fct_infreq(site), y = prop, fill = presence)) +
   geom_bar(stat = "identity", position = "stack") +
   geom_text(aes(label = round(prop, 2)), 
           position = position_stack(vjust = 0.5),  # top of segment
@@ -150,15 +154,46 @@ ggplot(ab_aggs, aes(x = fct_infreq(site), y = prop, fill = presence)) +
     x = "Site",
     y = "Proportion",
     fill = "Aggregation Size",
-    title = "Proportion of Aggregation Presences"
-  ) +
+    title = "Proportion of Aggregation Presences") +
   scale_fill_manual(labels = c("< 4", "≥ 4"), , values = c("#F8766D", "#00BFC4"))+
   theme_minimal() +
   theme(
     axis.line = element_line(color = "black"),
     axis.ticks = element_line(color = "black"),
     panel.grid = element_blank(),
-    panel.border = element_blank()
-  )
+    panel.border = element_blank())
+```
+
+## Visualization 2 
+
+ Purple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negtaive realtaionship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habiatat. Therfore with increasing urchin densities this could be outcompeting already volnurable abalone populations. 
+
+```{r}
+#| label: urchin desnity to aggregation size
+#| fig-cap: "Aggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled"
+#| fig-align: center
+both <- ab_aggs|>
+  distinct(agg_name, .keep_all = TRUE)|>
+  select(-c(size_cm, agg_number))|>
+  left_join(urchin , by = c("date","transect", "site"))#join urchin and abalone aggregations for urchin visualization
+
+both%>%
+  ggplot(aes(y= density, 
+             x= agg_counts,
+             color = site))+
+  geom_point(alpha = 0.8)+
+  geom_smooth(aes(y= density, x= agg_counts),
+              method = "lm", 
+              color = "black", 
+              se = FALSE, 
+              inherit.aes = FALSE)+
+  labs(
+    title = "Abalone Agreggation Sizes with Urchin Densities per Transect",
+    y = expression(italic("S. purpuratus")~"Density (m"^2*")"),
+    x = expression("Agregation Size"),
+    color = "Site") +
+  theme_classic() +
+  theme(axis.line = element_line(color = "black"))
+
 ```
 
