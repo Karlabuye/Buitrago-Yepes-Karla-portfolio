@@ -1,0 +1,16 @@
+---
+title: "Project: Example for Class"
+format: html
+execute: 
+  echo: false
+  warning: false
+  message: false
+embed-resources: true
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+```
+---
