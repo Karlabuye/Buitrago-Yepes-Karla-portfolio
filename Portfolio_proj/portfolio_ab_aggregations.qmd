@@ -125,7 +125,7 @@ ab_aggs <- read_csv("data/clean_transects.csv")
 urchin <- read_csv("data/clean_urchin.csv")
 ```
 
-## Visualization 1 
+## Abalone Presence at Sites 
 
 The proportion of abalone aggregations at each survey site are expressed with aggregations being the presence of abalone within a meter position of each other along the transects. Aggregations, or groupings of abalone, were categorized as either 4 or more abalone or fewer than 4 abalone. Previous studies have found that aggregations of at least 4 abalones are needed to have a beneficial impact on survival. 
 
@@ -164,13 +164,14 @@ ggplot(ab_propaggs, aes(x = fct_infreq(site), y = prop, fill = presence)) +
     panel.border = element_blank())
 ```
 
-## Visualization 2 
+## Aggregation Sizes with Competition 
 
- Purple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negtaive realtaionship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habiatat. Therfore with increasing urchin densities this could be outcompeting already volnurable abalone populations. 
+Purple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negative relationship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habitat. Therefore with increasing urchin densities this could be outcompeting already vulnerable abalone populations. 
 
 ```{r}
 #| label: urchin desnity to aggregation size
-#| fig-cap: "Aggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled"
+#| fig-cap: "Aggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled.There is not a strong relationship between sea urchin density and abalone aggregation size (p-value: 0.091, Adjusted R-squared: 0.003)"
+#| fig-width: 8
 #| fig-align: center
 both <- ab_aggs|>
   distinct(agg_name, .keep_all = TRUE)|>
@@ -192,8 +193,12 @@ both%>%
     y = expression(italic("S. purpuratus")~"Density (m"^2*")"),
     x = expression("Agregation Size"),
     color = "Site") +
-  theme_classic() +
-  theme(axis.line = element_line(color = "black"))
+  theme_minimal() +
+  theme(
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    panel.grid = element_blank(),
+    panel.border = element_blank())
 
 ```
 

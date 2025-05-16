@@ -60,6 +60,20 @@
     "href": "Portfolio_proj/portfolio_ab_aggregations.html#visualization-2",
     "title": "Abalone Aggregations",
     "section": "Visualization 2",
-    "text": "Visualization 2\nPurple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negtaive realtaionship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habiatat. Therfore with increasing urchin densities this could be outcompeting already volnurable abalone populations.\n\n\n\n\n\nAggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled"
+    "text": "Visualization 2\nPurple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negative relationship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habitat. Therefore with increasing urchin densities this could be outcompeting already vulnerable abalone populations.\n\n\n\n\n\nAggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled"
+  },
+  {
+    "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#abalone-presence-at-sites",
+    "href": "Portfolio_proj/portfolio_ab_aggregations.html#abalone-presence-at-sites",
+    "title": "Abalone Aggregations",
+    "section": "Abalone Presence at Sites",
+    "text": "Abalone Presence at Sites\nThe proportion of abalone aggregations at each survey site are expressed with aggregations being the presence of abalone within a meter position of each other along the transects. Aggregations, or groupings of abalone, were categorized as either 4 or more abalone or fewer than 4 abalone. Previous studies have found that aggregations of at least 4 abalones are needed to have a beneficial impact on survival.\n\n\n\n\n\nOf 1,972 abalones found, 115 were found at Cannery Row, 966 were found at Carmel Point, 210 were found at Hopkins Marine Station, 328 were found at Point Pinos, and 353 were found at Soberanes."
+  },
+  {
+    "objectID": "Portfolio_proj/portfolio_ab_aggregations.html#aggregation-sizes-with-competition",
+    "href": "Portfolio_proj/portfolio_ab_aggregations.html#aggregation-sizes-with-competition",
+    "title": "Abalone Aggregations",
+    "section": "Aggregation Sizes with Competition",
+    "text": "Aggregation Sizes with Competition\nPurple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negative relationship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habitat. Therefore with increasing urchin densities this could be outcompeting already vulnerable abalone populations.\n\n\n\n\n\nAggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled.There is not a strong relationship between sea urchin density and abalone aggregation size (p-value: 0.091, Adjusted R-squared: 0.003)"
   }
 ]
