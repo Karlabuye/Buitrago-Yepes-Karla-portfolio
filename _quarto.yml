@@ -10,6 +10,8 @@ website:
         text: "Home"
       - href: about.qmd
         text: "About Me"
+      - href: portfolio_ab_aggregations.qmd
+        text: "Portfolio"
     right: 
     - icon: linkedin
       text: LinkedIn
