@@ -1,7 +1,6 @@
 ---
 title: "Abalone Aggregations"
 format: html
-image: 
 execute: 
   echo: false
   warning: false
@@ -19,11 +18,11 @@ library(janitor)
 
 ## Data Description
 
-Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, but have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in many species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes. 
+Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, that have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in these species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes. 
 
-The projects in Marine Ecology Course at CSU- Monterey Bay utilized invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data between 2002 and 2025 is used to asses environmental drivers of black abalone aggregations. 
+The projects in Marine Ecology Course at CSU- Monterey Bay conducted invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data spanning from 2002 to 2025 was used to asses environmental drivers of black abalone aggregations. 
 
-Aggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. We measured crevice depth and width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density to assess their influence on abalone aggregation sizes. 
+Aggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. Crevice depth, width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density was measured to assess their influence on abalone aggregation sizes. 
 
 ## Data Cleaning 
 
@@ -37,16 +36,20 @@ all_unclean <- read_csv("data/Transects - all.csv")
 all_unclean <- all_unclean|>
   clean_names() #cleans the names
 
-all_unclean$position_m <- ceiling(all_unclean$position_m)#rounds position up to the nearest m if they are a meter apart they can still reproduce
+all_unclean$position_m <- ceiling(all_unclean$position_m) #rounds position up to the nearest m if they are a meter apart they can still reproduce
 
 #clean site names
 all <- all_unclean|>
-  mutate(site = case_when(
-    site %in% c("Carmel Bay", "Carmel Pt.", "Carmel Pt","Carmel Point", "Carmel") ~ "Carmel Pt",TRUE ~ site))|>
-  mutate(site = case_when(site %in% c("Pt. Pinos","Point Pinos") ~ "Pt Pinos", TRUE ~ site))|>
-  mutate(site = case_when(site %in% c("HMS","Hopkins") ~ "Hopkins", TRUE ~ site))|>
-  mutate(site = case_when(site %in% c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|>
-  filter(!site %in% c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|> #take out unwanted sites
+  mutate(site = case_when(site %in% 
+                            c("Carmel Bay", "Carmel Pt.", "Carmel Pt","Carmel Point", "Carmel") ~ "Carmel Pt",TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("Pt. Pinos","Point Pinos") ~ "Pt Pinos", TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("HMS","Hopkins") ~ "Hopkins", TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|>
+  filter(!site %in% 
+           c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|> #take out unwanted sites
   select(-c(start_lat, start_long,end_lat,end_long,notes,habitat)) # get rid of variables dont need
 
 ```
@@ -89,13 +92,12 @@ urchin <- urchin|>
   mutate(site = case_when(site %in% 
                             c("HMS","Hopkins") ~ "Hopkins", TRUE ~ site))|>
   mutate(site = case_when(site %in% 
-                            c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|>#clean site names
-  mutate(species = case_when(
-    species %in% 
+                            c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|> #clean site names
+  mutate(species = case_when(species %in% 
             c("S. purpuratus", "S.purpuratus", "S. purpurarus","S_purpuratus") ~ "S_purpuratus",TRUE ~ species))|> #clean species variable
   filter(!site %in% 
-           c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|>#take out unwanted sites
-  select(-c(start_lat, start_long,end_lat,end_long,x11))#rid of variables dont need
+           c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|> #take out unwanted sites
+  select(-c(start_lat, start_long,end_lat,end_long,x11)) #rid of variables dont need
 
 ```
 
@@ -108,5 +110,55 @@ urchin <- urchin|>
   mutate(density = number/transect_area_m)  #density variable
 
 write_csv(urchin, "data/clean_urchin.csv")#save clean urchin data set as a .csv
+```
+
+```{r}
+#| label: read-in clean data
+#| include: false
+ab_aggs <- read_csv("data/clean_transects.csv")
+
+urchin <- read_csv("data/clean_transects.csv")
+```
+
+## Visualization 1 
+
+The proportion of abalone aggregations at each survey site are expressed with aggregations being the presence of abalone within a meter position of each other along the transects. Aggregations, or groupings of abalone, were categorized as either 4 or more abalone or fewer than 4 abalone. Previous studies have found that aggregations of at least 4 abalones are needed to have a beneficial impact on survival. 
+
+```{r}
+#| label: viz-1
+#| fig-cap: "Of 1,972 abalones found, 115 were found at Cannery Row, 966 were found at Carmel Point, 210 were found at Hopkins Marine Station, 328 were found at Point Pinos, and 353 were found at Soberanes. 	"
+#| fig-align: center
+
+# Prepare summary data with proportions
+ab_aggs <- ab_aggs|>
+  distinct(agg_name, presence, site)|>
+  group_by(site, presence)|>
+  summarise(n = n(), .groups = "drop")|>
+  group_by(site)|>
+  mutate(
+    prop = n / sum(n),
+    ypos = cumsum(prop) - 0.5 * prop  # for label position inside each bar
+  )
+
+# plot of aggregation proportions at different sites
+ggplot(ab_aggs, aes(x = fct_infreq(site), y = prop, fill = presence)) +
+  geom_bar(stat = "identity", position = "stack") +
+  geom_text(aes(label = round(prop, 2)), 
+          position = position_stack(vjust = 0.5),  # top of segment
+          color = "white", size = 3) +
+  labs(
+    x = "Site",
+    y = "Proportion",
+    fill = "Aggregation Size",
+    title = "Proportion of Aggregation Presences"
+  ) +
+  scale_fill_manual(labels = c("< 4", "≥ 4"), , values = c("#F8766D", "#00BFC4"))+
+  theme_minimal() +
+  theme(
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    panel.grid = element_blank(),
+    panel.border = element_blank()
+  )
 ```
 
