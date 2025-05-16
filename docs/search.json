@@ -60,6 +60,6 @@
     "href": "Portfolio_proj/portfolio_ab_aggregations.html#visualization-2",
     "title": "Abalone Aggregations",
     "section": "Visualization 2",
-    "text": "Visualization 2"
+    "text": "Visualization 2\nPurple sea urchin density (m^2) compared to abalone aggregation sizes, as the count of abalone within the aggregation. Distinct colors represent Cannery Row, Carmel Pt, Hopkins, Pt Pinos, and Soberanes survey sites along the Monterey Peninsula. There does not seem to be a strong relationship between sea urchin density and abalone aggregation size although a slight negative trend seems possible. A negtaive realtaionship between aggregation sizes and purple urchin density would make sense as both of these organisms compete for the same food and habiatat. Therfore with increasing urchin densities this could be outcompeting already volnurable abalone populations.\n\n\n\n\n\nAggregation sizes and density were only considered if they appeared on corresponding dates and transects, with 347 comparisons modeled"
   }
 ]
