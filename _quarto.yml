@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: about.qmd
-        text: "About Me"
       - href: portfolio-proj/portfolio-ab-aggregations.qmd
         text: "Portfolio"
+      - href: about.qmd
+        text: "About Me"
     right: 
     - icon: linkedin
       text: LinkedIn
