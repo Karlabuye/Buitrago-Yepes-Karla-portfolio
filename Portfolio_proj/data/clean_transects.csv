@@ -1,0 +1,1974 @@
+site,date,transect,species,crevice_depth_cm,crevice_width_cm,position_m,size_cm,agg_counts,agg_id,agg_number,agg_name,presence
+Hopkins,20020908,1,H_cracherodii,25,10,21,3,2,404,4,agg_Hopkins_20020908_T1_4,No
+Hopkins,20020908,1,H_cracherodii,25,10,21,5,2,404,4,agg_Hopkins_20020908_T1_4,No
+Hopkins,20020908,1,H_cracherodii,35,8,20,5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,NA,NA,3,5.5,1,401,1,agg_Hopkins_20020908_T1_1,No
+Hopkins,20020908,1,H_cracherodii,24,5,25,6,2,405,5,agg_Hopkins_20020908_T1_5,No
+Hopkins,20020908,1,H_cracherodii,24,5,25,6,2,405,5,agg_Hopkins_20020908_T1_5,No
+Hopkins,20020908,1,H_cracherodii,35,8,20,6.5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,6.5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,6.5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,7,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,7.5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,8,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,20,6,6,8.5,1,402,2,agg_Hopkins_20020908_T1_2,No
+Hopkins,20020908,1,H_cracherodii,35,8,20,9.5,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,1,H_cracherodii,35,8,20,10,9,403,3,agg_Hopkins_20020908_T1_3,Yes
+Hopkins,20020908,2,H_cracherodii,50,10,1,6,3,406,1,agg_Hopkins_20020908_T2_1,No
+Hopkins,20020908,2,H_cracherodii,65,10,1,8,3,406,1,agg_Hopkins_20020908_T2_1,No
+Hopkins,20020908,2,H_cracherodii,50,10,1,10,3,406,1,agg_Hopkins_20020908_T2_1,No
+Hopkins,20020909,3,H_cracherodii,6,5,15,1.74,4,411,5,agg_Hopkins_20020909_T3_5,Yes
+Hopkins,20020909,3,H_cracherodii,15,5,4,2.5,3,407,1,agg_Hopkins_20020909_T3_1,No
+Hopkins,20020909,3,H_cracherodii,60,10,14,3,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,15,5,4,3,3,407,1,agg_Hopkins_20020909_T3_1,No
+Hopkins,20020909,3,H_cracherodii,60,10,14,3.5,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,20,5,16,3.5,2,412,6,agg_Hopkins_20020909_T3_6,No
+Hopkins,20020909,3,H_cracherodii,15,5,15,4,4,411,5,agg_Hopkins_20020909_T3_5,Yes
+Hopkins,20020909,3,H_cracherodii,75,10,13,4,3,409,3,agg_Hopkins_20020909_T3_3,No
+Hopkins,20020909,3,H_cracherodii,75,10,13,4.5,3,409,3,agg_Hopkins_20020909_T3_3,No
+Hopkins,20020909,3,H_cracherodii,60,10,14,5,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,15,5,15,5,4,411,5,agg_Hopkins_20020909_T3_5,Yes
+Hopkins,20020909,3,H_cracherodii,60,10,14,5.5,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,15,5,4,5.5,3,407,1,agg_Hopkins_20020909_T3_1,No
+Hopkins,20020909,3,H_cracherodii,20,10,5,6,1,408,2,agg_Hopkins_20020909_T3_2,No
+Hopkins,20020909,3,H_cracherodii,60,10,14,6,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,60,10,14,7,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,15,5,15,7,4,411,5,agg_Hopkins_20020909_T3_5,Yes
+Hopkins,20020909,3,H_cracherodii,20,5,16,7,2,412,6,agg_Hopkins_20020909_T3_6,No
+Hopkins,20020909,3,H_cracherodii,60,10,14,9.5,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,60,10,14,11.5,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,60,10,14,12,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,70,5,14,15.2,10,410,4,agg_Hopkins_20020909_T3_4,Yes
+Hopkins,20020909,3,H_cracherodii,75,10,13,18,3,409,3,agg_Hopkins_20020909_T3_3,No
+Hopkins,20020909,5,H_cracherodii,20,5,4,6,1,414,2,agg_Hopkins_20020909_T5_2,No
+Hopkins,20020909,5,H_cracherodii,20,5,15,8,1,417,5,agg_Hopkins_20020909_T5_5,No
+Hopkins,20020909,5,H_cracherodii,15,4,5,8,1,415,3,agg_Hopkins_20020909_T5_3,No
+Hopkins,20020909,5,H_cracherodii,40,10,3,9,1,413,1,agg_Hopkins_20020909_T5_1,No
+Hopkins,20020909,5,H_cracherodii,35,7,7,16,1,416,4,agg_Hopkins_20020909_T5_4,No
+Soberanes,20021005,1,H_cracherodii,35,5,21,2.5,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,1,H_cracherodii,35,5,21,2.5,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,1,H_cracherodii,35,5,21,4.5,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,1,H_cracherodii,35,5,21,5,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,1,H_cracherodii,35,5,21,7,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,1,H_cracherodii,35,5,21,7,6,636,1,agg_Soberanes_20021005_T1_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,4,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,5,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,5,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,6,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,6,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,7,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,7,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,2,H_cracherodii,30,5,14,8,8,637,1,agg_Soberanes_20021005_T2_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,3,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,3,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,4,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,4,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,4,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,10,5,21,4,2,640,3,agg_Soberanes_20021005_T3_3,No
+Soberanes,20021005,3,H_cracherodii,23,6,2,5,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,10,5,16,5,3,639,2,agg_Soberanes_20021005_T3_2,No
+Soberanes,20021005,3,H_cracherodii,15,6,16,5,3,639,2,agg_Soberanes_20021005_T3_2,No
+Soberanes,20021005,3,H_cracherodii,15,6,16,5,3,639,2,agg_Soberanes_20021005_T3_2,No
+Soberanes,20021005,3,H_cracherodii,20,7,25,5,2,641,4,agg_Soberanes_20021005_T3_4,No
+Soberanes,20021005,3,H_cracherodii,20,7,25,5,2,641,4,agg_Soberanes_20021005_T3_4,No
+Soberanes,20021005,3,H_cracherodii,20,10,27,5,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,5,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,30,5,4,644,7,agg_Soberanes_20021005_T3_7,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,30,5,4,644,7,agg_Soberanes_20021005_T3_7,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,6,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,23,6,2,6,8,638,1,agg_Soberanes_20021005_T3_1,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,6,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,6,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,30,6,4,644,7,agg_Soberanes_20021005_T3_7,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,6.5,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,10,5,21,7,2,640,3,agg_Soberanes_20021005_T3_3,No
+Soberanes,20021005,3,H_cracherodii,20,10,27,7,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,30,7,4,644,7,agg_Soberanes_20021005_T3_7,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,9,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,20,10,27,10,8,642,5,agg_Soberanes_20021005_T3_5,Yes
+Soberanes,20021005,3,H_cracherodii,6,6,29,5,1,643,6,agg_Soberanes_20021005_T3_6,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,0.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,0.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,0.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,0.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,10,5,30,2.5,2,657,13,agg_Soberanes_20021005_T4_13,No
+Soberanes,20021005,4,H_cracherodii,10,5,23,3,3,654,10,agg_Soberanes_20021005_T4_10,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,3.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,3.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,15,10,21,3.5,3,652,8,agg_Soberanes_20021005_T4_8,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,15,5,23,4,3,654,10,agg_Soberanes_20021005_T4_10,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,4.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,4.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,20,5,5,5,4,646,2,agg_Soberanes_20021005_T4_2,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,10,5,23,5,3,654,10,agg_Soberanes_20021005_T4_10,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,5.5,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,10,8,NA,6,1,658,14,agg_Soberanes_20021005_T4_14,No
+Soberanes,20021005,4,H_cracherodii,20,5,5,6,4,646,2,agg_Soberanes_20021005_T4_2,Yes
+Soberanes,20021005,4,H_cracherodii,20,5,5,6,4,646,2,agg_Soberanes_20021005_T4_2,Yes
+Soberanes,20021005,4,H_cracherodii,20,9,9,6,3,647,3,agg_Soberanes_20021005_T4_3,No
+Soberanes,20021005,4,H_cracherodii,20,9,9,6,3,647,3,agg_Soberanes_20021005_T4_3,No
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,6,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,30,7,19,6,2,650,6,agg_Soberanes_20021005_T4_6,No
+Soberanes,20021005,4,H_cracherodii,30,7,19,6,2,650,6,agg_Soberanes_20021005_T4_6,No
+Soberanes,20021005,4,H_cracherodii,10,5,20,6,2,651,7,agg_Soberanes_20021005_T4_7,No
+Soberanes,20021005,4,H_cracherodii,10,5,20,6,2,651,7,agg_Soberanes_20021005_T4_7,No
+Soberanes,20021005,4,H_cracherodii,10,5,30,6,2,657,13,agg_Soberanes_20021005_T4_13,No
+Soberanes,20021005,4,H_cracherodii,15,10,21,6,3,652,8,agg_Soberanes_20021005_T4_8,No
+Soberanes,20021005,4,H_cracherodii,15,10,21,6,3,652,8,agg_Soberanes_20021005_T4_8,No
+Soberanes,20021005,4,H_cracherodii,20,5,5,7,4,646,2,agg_Soberanes_20021005_T4_2,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,7,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,7,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,7,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,7,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,7,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,5,5,16,8,48,649,5,agg_Soberanes_20021005_T4_5,Yes
+Soberanes,20021005,4,H_cracherodii,NA,NA,9,7,3,647,3,agg_Soberanes_20021005_T4_3,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,22,4,2,653,9,agg_Soberanes_20021005_T4_9,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,22,4,2,653,9,agg_Soberanes_20021005_T4_9,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,27,4.5,1,656,12,agg_Soberanes_20021005_T4_12,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,24,4.5,2,655,11,agg_Soberanes_20021005_T4_11,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,24,5,2,655,11,agg_Soberanes_20021005_T4_11,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,15,6,1,648,4,agg_Soberanes_20021005_T4_4,No
+Soberanes,20021005,4,H_cracherodii,NA,NA,3,7,1,645,1,agg_Soberanes_20021005_T4_1,No
+Soberanes,20021005,5,H_cracherodii,30,5,25,6,2,659,1,agg_Soberanes_20021005_T5_1,No
+Soberanes,20021005,5,H_cracherodii,30,5,25,7,2,659,1,agg_Soberanes_20021005_T5_1,No
+Hopkins,20021021,7,H_cracherodii,30,10,1,7,1,418,1,agg_Hopkins_20021021_T7_1,No
+Hopkins,20021021,7,H_cracherodii,150,10,29,8,2,419,2,agg_Hopkins_20021021_T7_2,No
+Hopkins,20021021,7,H_cracherodii,150,10,29,9,2,419,2,agg_Hopkins_20021021_T7_2,No
+Soberanes,20021023,6,H_cracherodii,10,5,7,3,3,661,2,agg_Soberanes_20021023_T6_2,No
+Soberanes,20021023,6,H_cracherodii,15,5,3,4,5,660,1,agg_Soberanes_20021023_T6_1,Yes
+Soberanes,20021023,6,H_cracherodii,20,5,3,4,5,660,1,agg_Soberanes_20021023_T6_1,Yes
+Soberanes,20021023,6,H_cracherodii,15,3,8,5,2,662,3,agg_Soberanes_20021023_T6_3,No
+Soberanes,20021023,6,H_cracherodii,15,5,3,5,5,660,1,agg_Soberanes_20021023_T6_1,Yes
+Soberanes,20021023,6,H_cracherodii,20,5,3,5,5,660,1,agg_Soberanes_20021023_T6_1,Yes
+Soberanes,20021023,6,H_cracherodii,10,5,7,5,3,661,2,agg_Soberanes_20021023_T6_2,No
+Soberanes,20021023,6,H_cracherodii,15,3,8,6,2,662,3,agg_Soberanes_20021023_T6_3,No
+Soberanes,20021023,6,H_cracherodii,15,5,3,6,5,660,1,agg_Soberanes_20021023_T6_1,Yes
+Soberanes,20021023,6,H_cracherodii,10,5,7,7,3,661,2,agg_Soberanes_20021023_T6_2,No
+Soberanes,20021023,7,H_cracherodii,30,15,25,5,3,665,3,agg_Soberanes_20021023_T7_3,No
+Soberanes,20021023,7,H_cracherodii,30,10,2,4,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,10,2,5,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,10,2,5,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,15,10,5,2,664,2,agg_Soberanes_20021023_T7_2,No
+Soberanes,20021023,7,H_cracherodii,30,15,25,5,3,665,3,agg_Soberanes_20021023_T7_3,No
+Soberanes,20021023,7,H_cracherodii,30,10,2,6,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,10,2,6,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,10,2,6,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,15,25,6,3,665,3,agg_Soberanes_20021023_T7_3,No
+Soberanes,20021023,7,H_cracherodii,30,10,2,7,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Soberanes,20021023,7,H_cracherodii,30,15,10,8,2,664,2,agg_Soberanes_20021023_T7_2,No
+Soberanes,20021023,7,H_cracherodii,30,10,2,9,8,663,1,agg_Soberanes_20021023_T7_1,Yes
+Pt Pinos,20021103,1,H_cracherodii,40,5,28,5,1,490,2,agg_Pt Pinos_20021103_T1_2,No
+Pt Pinos,20021103,1,H_cracherodii,40,20,19,7,2,489,1,agg_Pt Pinos_20021103_T1_1,No
+Pt Pinos,20021103,1,H_cracherodii,40,20,19,11,2,489,1,agg_Pt Pinos_20021103_T1_1,No
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,4,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,25,5,5,5,2,491,1,agg_Pt Pinos_20021103_T3_1,No
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,5,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,6,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,25,5,5,7,2,491,1,agg_Pt Pinos_20021103_T3_1,No
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,7,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,7,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,30,5,10,8,6,492,2,agg_Pt Pinos_20021103_T3_2,Yes
+Pt Pinos,20021103,3,H_cracherodii,25,5,12,11,1,493,3,agg_Pt Pinos_20021103_T3_3,No
+Pt Pinos,20021103,3,H_cracherodii,15,5,30,3,1,496,6,agg_Pt Pinos_20021103_T3_6,No
+Pt Pinos,20021103,3,H_cracherodii,15,10,18,5,1,494,4,agg_Pt Pinos_20021103_T3_4,No
+Pt Pinos,20021103,3,H_cracherodii,20,5,25,6,1,495,5,agg_Pt Pinos_20021103_T3_5,No
+Pt Pinos,20021103,4,H_cracherodii,10,4,10,4,3,497,1,agg_Pt Pinos_20021103_T4_1,No
+Pt Pinos,20021103,4,H_cracherodii,10,4,10,4,3,497,1,agg_Pt Pinos_20021103_T4_1,No
+Pt Pinos,20021103,4,H_cracherodii,10,4,10,5,3,497,1,agg_Pt Pinos_20021103_T4_1,No
+Pt Pinos,20021103,4,H_cracherodii,20,5,16,5,3,498,2,agg_Pt Pinos_20021103_T4_2,No
+Pt Pinos,20021103,4,H_cracherodii,20,5,16,5,3,498,2,agg_Pt Pinos_20021103_T4_2,No
+Pt Pinos,20021103,4,H_cracherodii,30,5,22,5,1,499,3,agg_Pt Pinos_20021103_T4_3,No
+Pt Pinos,20021103,4,H_cracherodii,20,5,16,7,3,498,2,agg_Pt Pinos_20021103_T4_2,No
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,2,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,30,10,8,4,5,501,2,agg_Pt Pinos_20021103_T5_2,Yes
+Pt Pinos,20021103,5,H_cracherodii,30,10,8,4,5,501,2,agg_Pt Pinos_20021103_T5_2,Yes
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,4,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,4,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,4,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,4,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,6,5,2,500,1,agg_Pt Pinos_20021103_T5_1,No
+Pt Pinos,20021103,5,H_cracherodii,20,5,6,5,2,500,1,agg_Pt Pinos_20021103_T5_1,No
+Pt Pinos,20021103,5,H_cracherodii,10,10,22,5,1,502,3,agg_Pt Pinos_20021103_T5_3,No
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,5,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,5,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,5,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,5,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,30,10,8,6,5,501,2,agg_Pt Pinos_20021103_T5_2,Yes
+Pt Pinos,20021103,5,H_cracherodii,30,10,8,6,5,501,2,agg_Pt Pinos_20021103_T5_2,Yes
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,6,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,25,5,29,6,2,505,6,agg_Pt Pinos_20021103_T5_6,No
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,6,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,6,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021103,5,H_cracherodii,15,5,26,7,7,503,4,agg_Pt Pinos_20021103_T5_4,Yes
+Pt Pinos,20021103,5,H_cracherodii,25,5,29,7,2,505,6,agg_Pt Pinos_20021103_T5_6,No
+Pt Pinos,20021103,5,H_cracherodii,30,10,8,8,5,501,2,agg_Pt Pinos_20021103_T5_2,Yes
+Pt Pinos,20021103,5,H_cracherodii,20,5,28,8,7,504,5,agg_Pt Pinos_20021103_T5_5,Yes
+Pt Pinos,20021104,6,H_cracherodii,30,10,28,12,2,508,3,agg_Pt Pinos_20021104_T6_3,No
+Pt Pinos,20021104,6,H_cracherodii,40,10,28,6,2,508,3,agg_Pt Pinos_20021104_T6_3,No
+Pt Pinos,20021104,6,H_cracherodii,40,10,22,6,1,507,2,agg_Pt Pinos_20021104_T6_2,No
+Pt Pinos,20021104,6,H_cracherodii,10,3,18,7,1,506,1,agg_Pt Pinos_20021104_T6_1,No
+Cannery Row,20021116,3,H_cracherodii,20,10,26,10,1,1,1,agg_Cannery Row_20021116_T3_1,No
+Cannery Row,20021116,4,H_cracherodii,30,15,2,6,1,2,1,agg_Cannery Row_20021116_T4_1,No
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,4.5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,6,15,5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,6,15,5,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,5,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,5,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,5,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,5,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,5,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,5,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,5,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,5,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,4,21,6,3,56,5,agg_Carmel Pt_20021118_T1_5,No
+Carmel Pt,20021118,1,H_cracherodii,10,4,21,6,3,56,5,agg_Carmel Pt_20021118_T1_5,No
+Carmel Pt,20021118,1,H_cracherodii,10,4,21,6,3,56,5,agg_Carmel Pt_20021118_T1_5,No
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,28,22,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,6,15,7,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,7,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,7,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,7,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,8,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,8,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,8,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,10,5,18,8,9,54,3,agg_Carmel Pt_20021118_T1_3,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,8,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,9,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,18,5,17,9,11,53,2,agg_Carmel Pt_20021118_T1_2,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,10,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,10,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,10,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,10,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,23,10,15,10,32,52,1,agg_Carmel Pt_20021118_T1_1,Yes
+Carmel Pt,20021118,1,H_cracherodii,15,10,19,11,12,55,4,agg_Carmel Pt_20021118_T1_4,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,17,4,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,20,5,5,64,8,agg_Carmel Pt_20021118_T2_8,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,20,5,5,64,8,agg_Carmel Pt_20021118_T2_8,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,20,5,5,64,8,agg_Carmel Pt_20021118_T2_8,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,20,5,5,64,8,agg_Carmel Pt_20021118_T2_8,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,20,5,5,64,8,agg_Carmel Pt_20021118_T2_8,Yes
+Carmel Pt,20021118,2,H_cracherodii,14,7,13,5,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,14,7,13,5,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,5,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,15,7,3,6,5,57,1,agg_Carmel Pt_20021118_T2_1,Yes
+Carmel Pt,20021118,2,H_cracherodii,15,7,3,6,5,57,1,agg_Carmel Pt_20021118_T2_1,Yes
+Carmel Pt,20021118,2,H_cracherodii,15,7,3,6,5,57,1,agg_Carmel Pt_20021118_T2_1,Yes
+Carmel Pt,20021118,2,H_cracherodii,15,7,3,6,5,57,1,agg_Carmel Pt_20021118_T2_1,Yes
+Carmel Pt,20021118,2,H_cracherodii,15,7,3,6,5,57,1,agg_Carmel Pt_20021118_T2_1,Yes
+Carmel Pt,20021118,2,H_cracherodii,6,4,18,6,2,62,6,agg_Carmel Pt_20021118_T2_6,No
+Carmel Pt,20021118,2,H_cracherodii,10,5,17,6,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,17,6,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,2,H_cracherodii,13,4,16,6,2,60,4,agg_Carmel Pt_20021118_T2_4,No
+Carmel Pt,20021118,2,H_cracherodii,13,4,16,6,2,60,4,agg_Carmel Pt_20021118_T2_4,No
+Carmel Pt,20021118,2,H_cracherodii,14,7,13,6,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,14,7,13,6,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,7,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,7,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,7,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,12,15,19,8,2,63,7,agg_Carmel Pt_20021118_T2_7,No
+Carmel Pt,20021118,2,H_cracherodii,12,15,19,8,2,63,7,agg_Carmel Pt_20021118_T2_7,No
+Carmel Pt,20021118,2,H_cracherodii,10,5,17,8,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,2,H_cracherodii,14,7,13,8,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,12,5,22,9,1,65,9,agg_Carmel Pt_20021118_T2_9,No
+Carmel Pt,20021118,2,H_cracherodii,6,4,18,9,2,62,6,agg_Carmel Pt_20021118_T2_6,No
+Carmel Pt,20021118,2,H_cracherodii,13,4,17,10,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,10,13,10,6,59,3,agg_Carmel Pt_20021118_T2_3,Yes
+Carmel Pt,20021118,2,H_cracherodii,50,16,10,11,10,58,2,agg_Carmel Pt_20021118_T2_2,Yes
+Carmel Pt,20021118,2,H_cracherodii,10,5,17,12,6,61,5,agg_Carmel Pt_20021118_T2_5,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,4,29,5,2,75,10,agg_Carmel Pt_20021118_T3_10,No
+Carmel Pt,20021118,3,H_cracherodii,10,4,29,5,2,75,10,agg_Carmel Pt_20021118_T3_10,No
+Carmel Pt,20021118,3,H_cracherodii,6,3,7,6,2,66,1,agg_Carmel Pt_20021118_T3_1,No
+Carmel Pt,20021118,3,H_cracherodii,6,3,7,6,2,66,1,agg_Carmel Pt_20021118_T3_1,No
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,7,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,7,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,7,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,7,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,7,18,7,4,71,6,agg_Carmel Pt_20021118_T3_6,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,7,18,7,4,71,6,agg_Carmel Pt_20021118_T3_6,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,7,18,7,4,71,6,agg_Carmel Pt_20021118_T3_6,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,7,18,7,4,71,6,agg_Carmel Pt_20021118_T3_6,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,8,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,10,6,10,8,6,69,4,agg_Carmel Pt_20021118_T3_4,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,15,6,20,8,6,72,7,agg_Carmel Pt_20021118_T3_7,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,8,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,8,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,8,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,10,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,10,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,10,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,48,15,22,10,7,73,8,agg_Carmel Pt_20021118_T3_8,Yes
+Carmel Pt,20021118,3,H_cracherodii,12,8,24,10,1,74,9,agg_Carmel Pt_20021118_T3_9,No
+Carmel Pt,20021118,3,H_cracherodii,NA,NA,14,7,1,70,5,agg_Carmel Pt_20021118_T3_5,No
+Carmel Pt,20021118,3,H_cracherodii,NA,NA,8,8,1,67,2,agg_Carmel Pt_20021118_T3_2,No
+Carmel Pt,20021118,3,H_cracherodii,NA,NA,9,8,1,68,3,agg_Carmel Pt_20021118_T3_3,No
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,4,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,4,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,26,9,6,4,4,79,4,agg_Carmel Pt_20021118_T4_4,Yes
+Carmel Pt,20021118,4,H_cracherodii,26,9,6,4,4,79,4,agg_Carmel Pt_20021118_T4_4,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,4,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,4,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,4,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,4,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,20,8,1,5,3,76,1,agg_Carmel Pt_20021118_T4_1,No
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,5,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,5,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,6,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,6,4,3,6,1,78,3,agg_Carmel Pt_20021118_T4_3,No
+Carmel Pt,20021118,4,H_cracherodii,26,9,6,6,4,79,4,agg_Carmel Pt_20021118_T4_4,Yes
+Carmel Pt,20021118,4,H_cracherodii,26,9,6,6,4,79,4,agg_Carmel Pt_20021118_T4_4,Yes
+Carmel Pt,20021118,4,H_cracherodii,10,3,11,6,4,80,5,agg_Carmel Pt_20021118_T4_5,Yes
+Carmel Pt,20021118,4,H_cracherodii,10,3,11,6,4,80,5,agg_Carmel Pt_20021118_T4_5,Yes
+Carmel Pt,20021118,4,H_cracherodii,10,3,11,6,4,80,5,agg_Carmel Pt_20021118_T4_5,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,6,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,6,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,6,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,10,3,11,8,4,80,5,agg_Carmel Pt_20021118_T4_5,Yes
+Carmel Pt,20021118,4,H_cracherodii,20,10,21,8,2,81,6,agg_Carmel Pt_20021118_T4_6,No
+Carmel Pt,20021118,4,H_cracherodii,20,10,21,8,2,81,6,agg_Carmel Pt_20021118_T4_6,No
+Carmel Pt,20021118,4,H_cracherodii,80,30,25,8,5,82,7,agg_Carmel Pt_20021118_T4_7,Yes
+Carmel Pt,20021118,4,H_cracherodii,80,30,25,8,5,82,7,agg_Carmel Pt_20021118_T4_7,Yes
+Carmel Pt,20021118,4,H_cracherodii,80,30,25,8,5,82,7,agg_Carmel Pt_20021118_T4_7,Yes
+Carmel Pt,20021118,4,H_cracherodii,80,30,25,8,5,82,7,agg_Carmel Pt_20021118_T4_7,Yes
+Carmel Pt,20021118,4,H_cracherodii,80,30,25,8,5,82,7,agg_Carmel Pt_20021118_T4_7,Yes
+Carmel Pt,20021118,4,H_cracherodii,60,20,26,8,1,83,8,agg_Carmel Pt_20021118_T4_8,No
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,8,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,8,30,8,9,85,10,agg_Carmel Pt_20021118_T4_10,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,8,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,8,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,8,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,8,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,15,10,29,8,7,84,9,agg_Carmel Pt_20021118_T4_9,Yes
+Carmel Pt,20021118,4,H_cracherodii,20,8,1,9,3,76,1,agg_Carmel Pt_20021118_T4_1,No
+Carmel Pt,20021118,4,H_cracherodii,20,8,1,9,3,76,1,agg_Carmel Pt_20021118_T4_1,No
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,10,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,10,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,4,H_cracherodii,24,15,2,12,11,77,2,agg_Carmel Pt_20021118_T4_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,15,8,23,4,3,93,8,agg_Carmel Pt_20021118_T5_8,No
+Carmel Pt,20021118,5,H_cracherodii,20,10,18,5,4,92,7,agg_Carmel Pt_20021118_T5_7,Yes
+Carmel Pt,20021118,5,H_cracherodii,20,10,18,5,4,92,7,agg_Carmel Pt_20021118_T5_7,Yes
+Carmel Pt,20021118,5,H_cracherodii,20,10,18,5,4,92,7,agg_Carmel Pt_20021118_T5_7,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,30,5,1,96,11,agg_Carmel Pt_20021118_T5_11,No
+Carmel Pt,20021118,5,H_cracherodii,10,5,2,6,1,86,1,agg_Carmel Pt_20021118_T5_1,No
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,4,6,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,6,8,6,2,88,3,agg_Carmel Pt_20021118_T5_3,No
+Carmel Pt,20021118,5,H_cracherodii,10,6,8,6,2,88,3,agg_Carmel Pt_20021118_T5_3,No
+Carmel Pt,20021118,5,H_cracherodii,30,10,13,6,3,89,4,agg_Carmel Pt_20021118_T5_4,No
+Carmel Pt,20021118,5,H_cracherodii,30,10,13,6,3,89,4,agg_Carmel Pt_20021118_T5_4,No
+Carmel Pt,20021118,5,H_cracherodii,30,10,13,6,3,89,4,agg_Carmel Pt_20021118_T5_4,No
+Carmel Pt,20021118,5,H_cracherodii,30,10,15,6,4,90,5,agg_Carmel Pt_20021118_T5_5,Yes
+Carmel Pt,20021118,5,H_cracherodii,30,10,15,6,4,90,5,agg_Carmel Pt_20021118_T5_5,Yes
+Carmel Pt,20021118,5,H_cracherodii,30,10,15,6,4,90,5,agg_Carmel Pt_20021118_T5_5,Yes
+Carmel Pt,20021118,5,H_cracherodii,30,10,15,6,4,90,5,agg_Carmel Pt_20021118_T5_5,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,10,17,6,1,91,6,agg_Carmel Pt_20021118_T5_6,No
+Carmel Pt,20021118,5,H_cracherodii,15,8,23,6,3,93,8,agg_Carmel Pt_20021118_T5_8,No
+Carmel Pt,20021118,5,H_cracherodii,15,8,23,6,3,93,8,agg_Carmel Pt_20021118_T5_8,No
+Carmel Pt,20021118,5,H_cracherodii,30,20,27,6,1,94,9,agg_Carmel Pt_20021118_T5_9,No
+Carmel Pt,20021118,5,H_cracherodii,10,5,28,6,5,95,10,agg_Carmel Pt_20021118_T5_10,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,28,6,5,95,10,agg_Carmel Pt_20021118_T5_10,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,28,6,5,95,10,agg_Carmel Pt_20021118_T5_10,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,28,6,5,95,10,agg_Carmel Pt_20021118_T5_10,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,5,28,6,5,95,10,agg_Carmel Pt_20021118_T5_10,Yes
+Carmel Pt,20021118,5,H_cracherodii,10,4,4,8,10,87,2,agg_Carmel Pt_20021118_T5_2,Yes
+Carmel Pt,20021118,5,H_cracherodii,20,10,18,8,4,92,7,agg_Carmel Pt_20021118_T5_7,Yes
+Carmel Pt,20021118,6,H_cracherodii,20,7,28,4,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,10,6,28,5,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,18,4,14,6,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,6,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,6,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,5,4,28,6,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,5,4,28,6,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,10,6,28,6,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,20,7,28,6,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,18,4,14,7,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,18,4,14,7,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,18,4,14,7,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,7,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,10,6,28,7,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,15,7,14,8,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,15,7,14,8,6,97,1,agg_Carmel Pt_20021118_T6_1,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,8,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,8,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,20,7,28,8,8,99,3,agg_Carmel Pt_20021118_T6_3,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,9,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,6,H_cracherodii,80,5,27,9,7,98,2,agg_Carmel Pt_20021118_T6_2,Yes
+Carmel Pt,20021118,7,H_cracherodii,15,5,28,6,1,100,1,agg_Carmel Pt_20021118_T7_1,No
+Hopkins,20170210,1,H_cracherodii,20,6,27,8,2,420,1,agg_Hopkins_20170210_T1_1,No
+Hopkins,20170210,1,H_cracherodii,20,6,27,10,2,420,1,agg_Hopkins_20170210_T1_1,No
+Hopkins,20170210,2,H_cracherodii,15,5,21,7,2,421,1,agg_Hopkins_20170210_T2_1,No
+Hopkins,20170210,2,H_cracherodii,15,5,21,5,2,421,1,agg_Hopkins_20170210_T2_1,No
+Hopkins,20170210,4,H_cracherodii,15,5,21,7,2,422,1,agg_Hopkins_20170210_T4_1,No
+Hopkins,20170210,4,H_cracherodii,15,5,21,5,2,422,1,agg_Hopkins_20170210_T4_1,No
+Hopkins,20170210,7,H_cracherodii,30,20,23,10,1,423,1,agg_Hopkins_20170210_T7_1,No
+Hopkins,20170210,7,H_cracherodii,>30,>30,24,7,2,424,2,agg_Hopkins_20170210_T7_2,No
+Hopkins,20170210,7,H_cracherodii,>30,>30,24,13,2,424,2,agg_Hopkins_20170210_T7_2,No
+Hopkins,20170210,7,H_cracherodii,15,20,27,12,3,425,3,agg_Hopkins_20170210_T7_3,No
+Hopkins,20170210,7,H_cracherodii,15,20,27,15,3,425,3,agg_Hopkins_20170210_T7_3,No
+Hopkins,20170210,7,H_cracherodii,15,20,27,6,3,425,3,agg_Hopkins_20170210_T7_3,No
+Hopkins,20170210,8,H_cracherodii,15,3,5,15,2,426,1,agg_Hopkins_20170210_T8_1,No
+Hopkins,20170210,8,H_cracherodii,15,3,5,7,2,426,1,agg_Hopkins_20170210_T8_1,No
+Carmel Pt,20170226,1,H_cracherodii,15,5,6,16,1,102,2,agg_Carmel Pt_20170226_T1_2,No
+Carmel Pt,20170226,1,H_cracherodii,40,4.5,10,13,1,103,3,agg_Carmel Pt_20170226_T1_3,No
+Carmel Pt,20170226,1,H_cracherodii,30,25,5,10,3,101,1,agg_Carmel Pt_20170226_T1_1,No
+Carmel Pt,20170226,1,H_cracherodii,30,NA,5,15,3,101,1,agg_Carmel Pt_20170226_T1_1,No
+Carmel Pt,20170226,1,H_cracherodii,50,NA,5,15,3,101,1,agg_Carmel Pt_20170226_T1_1,No
+Carmel Pt,20170226,1,H_cracherodii,10,NA,NA,17,1,106,6,agg_Carmel Pt_20170226_T1_6,No
+Carmel Pt,20170226,1,H_cracherodii,55,15,27,17,1,104,4,agg_Carmel Pt_20170226_T1_4,No
+Carmel Pt,20170226,1,H_cracherodii,20,10,28,8,1,105,5,agg_Carmel Pt_20170226_T1_5,No
+Carmel Pt,20170226,2,H_cracherodii,30,4,4,12,1,107,1,agg_Carmel Pt_20170226_T2_1,No
+Carmel Pt,20170226,2,H_cracherodii,5,5,5,3,1,108,2,agg_Carmel Pt_20170226_T2_2,No
+Carmel Pt,20170226,2,H_cracherodii,5,10,30,15,1,109,3,agg_Carmel Pt_20170226_T2_3,No
+Carmel Pt,20170226,4,H_cracherodii,32,13,12,16,1,111,2,agg_Carmel Pt_20170226_T4_2,No
+Carmel Pt,20170226,4,H_cracherodii,6,5,19,15,1,113,4,agg_Carmel Pt_20170226_T4_4,No
+Carmel Pt,20170226,4,H_cracherodii,29,27,16,7,2,112,3,agg_Carmel Pt_20170226_T4_3,No
+Carmel Pt,20170226,4,H_cracherodii,31,27,16,8,2,112,3,agg_Carmel Pt_20170226_T4_3,No
+Carmel Pt,20170226,4,H_cracherodii,13,10,2,12,1,110,1,agg_Carmel Pt_20170226_T4_1,No
+Carmel Pt,20170226,5,H_cracherodii,13,15,5,12,1,114,1,agg_Carmel Pt_20170226_T5_1,No
+Carmel Pt,20170226,5,H_cracherodii,24,17,15,9,1,116,3,agg_Carmel Pt_20170226_T5_3,No
+Carmel Pt,20170226,5,H_cracherodii,17,10,12,19,1,115,2,agg_Carmel Pt_20170226_T5_2,No
+Carmel Pt,20170226,6,H_cracherodii,20,5,20,8,1,121,5,agg_Carmel Pt_20170226_T6_5,No
+Carmel Pt,20170226,6,H_cracherodii,45,35,6,10,2,120,4,agg_Carmel Pt_20170226_T6_4,No
+Carmel Pt,20170226,6,H_cracherodii,45,35,6,12,2,120,4,agg_Carmel Pt_20170226_T6_4,No
+Carmel Pt,20170226,6,H_cracherodii,28,10,5,14,1,119,3,agg_Carmel Pt_20170226_T6_3,No
+Carmel Pt,20170226,6,H_cracherodii,10,8,2,12,2,118,2,agg_Carmel Pt_20170226_T6_2,No
+Carmel Pt,20170226,6,H_cracherodii,10,6,2,10,2,118,2,agg_Carmel Pt_20170226_T6_2,No
+Carmel Pt,20170226,6,H_cracherodii,40,15,1,17,4,117,1,agg_Carmel Pt_20170226_T6_1,Yes
+Carmel Pt,20170226,6,H_cracherodii,80,7,1,18,4,117,1,agg_Carmel Pt_20170226_T6_1,Yes
+Carmel Pt,20170226,6,H_cracherodii,80,7,1,15,4,117,1,agg_Carmel Pt_20170226_T6_1,Yes
+Carmel Pt,20170226,6,H_cracherodii,80,7,1,14,4,117,1,agg_Carmel Pt_20170226_T6_1,Yes
+Carmel Pt,20170226,7,H_cracherodii,35,5,27,7,1,123,2,agg_Carmel Pt_20170226_T7_2,No
+Carmel Pt,20170226,7,H_cracherodii,35,5,30,14,1,124,3,agg_Carmel Pt_20170226_T7_3,No
+Carmel Pt,20170226,7,H_cracherodii,10,4,18,10,1,122,1,agg_Carmel Pt_20170226_T7_1,No
+Carmel Pt,20170226,8,H_cracherodii,10,3,27,12,1,125,1,agg_Carmel Pt_20170226_T8_1,No
+Carmel Pt,20170307,9,H_cracherodii,15,5,18,15,2,130,5,agg_Carmel Pt_20170307_T9_5,No
+Carmel Pt,20170307,9,H_cracherodii,15,5,18,N/A,2,130,5,agg_Carmel Pt_20170307_T9_5,No
+Carmel Pt,20170307,9,H_cracherodii,25,5,14,10,1,129,4,agg_Carmel Pt_20170307_T9_4,No
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,2,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,2,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,3,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,4,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,4,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,20,4,12,4,6,128,3,agg_Carmel Pt_20170307_T9_3,Yes
+Carmel Pt,20170307,9,H_cracherodii,4,15,8,5,1,127,2,agg_Carmel Pt_20170307_T9_2,No
+Carmel Pt,20170307,9,H_cracherodii,10,5,2,3,1,126,1,agg_Carmel Pt_20170307_T9_1,No
+Pt Pinos,20170310,1,H_cracherodii,30,0,5,3,1,509,1,agg_Pt Pinos_20170310_T1_1,No
+Pt Pinos,20170310,1,H_cracherodii,11,5,10,6,2,510,2,agg_Pt Pinos_20170310_T1_2,No
+Pt Pinos,20170310,1,H_cracherodii,20,10,10,9,2,510,2,agg_Pt Pinos_20170310_T1_2,No
+Pt Pinos,20170310,1,H_cracherodii,10,5,19,10,2,511,3,agg_Pt Pinos_20170310_T1_3,No
+Pt Pinos,20170310,1,H_cracherodii,10,5,19,8,2,511,3,agg_Pt Pinos_20170310_T1_3,No
+Pt Pinos,20170310,1,H_cracherodii,25,8,22,10,2,512,4,agg_Pt Pinos_20170310_T1_4,No
+Pt Pinos,20170310,1,H_cracherodii,30,9,22,12,2,512,4,agg_Pt Pinos_20170310_T1_4,No
+Pt Pinos,20170310,3,H_cracherodii,20,15,12,8,1,513,1,agg_Pt Pinos_20170310_T3_1,No
+Pt Pinos,20170310,4,H_cracherodii,22,7,12,15,1,514,1,agg_Pt Pinos_20170310_T4_1,No
+Pt Pinos,20170310,5,H_cracherodii,10,8,21,15,1,515,1,agg_Pt Pinos_20170310_T5_1,No
+Pt Pinos,20170310,5,H_cracherodii,7,3,23,4,1,516,2,agg_Pt Pinos_20170310_T5_2,No
+Pt Pinos,20170310,5,H_cracherodii,15,5,26,4,2,517,3,agg_Pt Pinos_20170310_T5_3,No
+Pt Pinos,20170310,5,H_cracherodii,10,7,26,7,2,517,3,agg_Pt Pinos_20170310_T5_3,No
+Pt Pinos,20170310,6,H_cracherodii,24,10,22,10,2,519,2,agg_Pt Pinos_20170310_T6_2,No
+Pt Pinos,20170310,6,H_cracherodii,22,10,22,9,2,519,2,agg_Pt Pinos_20170310_T6_2,No
+Pt Pinos,20170310,6,H_cracherodii,0,0,18,11,1,518,1,agg_Pt Pinos_20170310_T6_1,No
+Pt Pinos,20170310,6,H_cracherodii,25,11,23,7,2,520,3,agg_Pt Pinos_20170310_T6_3,No
+Pt Pinos,20170310,6,H_cracherodii,25,11,23,8,2,520,3,agg_Pt Pinos_20170310_T6_3,No
+Pt Pinos,20170310,7,H_cracherodii,25,10,15,10,3,521,1,agg_Pt Pinos_20170310_T7_1,No
+Pt Pinos,20170310,7,H_cracherodii,25,10,15,12,3,521,1,agg_Pt Pinos_20170310_T7_1,No
+Pt Pinos,20170310,7,H_cracherodii,25,10,15,10,3,521,1,agg_Pt Pinos_20170310_T7_1,No
+Cannery Row,20170404,1,H_cracherodii,15,10,30,6,1,3,1,agg_Cannery Row_20170404_T1_1,No
+Cannery Row,20170404,2,H_cracherodii,60,10,6,15,3,5,2,agg_Cannery Row_20170404_T2_2,No
+Cannery Row,20170404,2,H_cracherodii,11,12,7,10,1,6,3,agg_Cannery Row_20170404_T2_3,No
+Cannery Row,20170404,2,H_cracherodii,60,3,6,6,3,5,2,agg_Cannery Row_20170404_T2_2,No
+Cannery Row,20170404,2,H_cracherodii,60,10,6,5,3,5,2,agg_Cannery Row_20170404_T2_2,No
+Cannery Row,20170404,2,H_cracherodii,NA,NA,5,2,1,4,1,agg_Cannery Row_20170404_T2_1,No
+Cannery Row,20170404,4,H_cracherodii,15,5,28,5,3,7,1,agg_Cannery Row_20170404_T4_1,No
+Cannery Row,20170404,4,H_cracherodii,15,5,28,8,3,7,1,agg_Cannery Row_20170404_T4_1,No
+Cannery Row,20170404,4,H_cracherodii,15,5,28,7,3,7,1,agg_Cannery Row_20170404_T4_1,No
+Cannery Row,20170404,5,H_cracherodii,100,5,12,7,3,8,1,agg_Cannery Row_20170404_T5_1,No
+Cannery Row,20170404,5,H_cracherodii,100,5,12,4,3,8,1,agg_Cannery Row_20170404_T5_1,No
+Cannery Row,20170404,5,H_cracherodii,100,5,12,4,3,8,1,agg_Cannery Row_20170404_T5_1,No
+Hopkins,20180212,1,H_cracherodii,35,20,13,6,2,427,1,agg_Hopkins_20180212_T1_1,No
+Hopkins,20180212,1,H_cracherodii,35,20,13,8,2,427,1,agg_Hopkins_20180212_T1_1,No
+Hopkins,20180212,2,H_cracherodii,25,15,14,10.5,2,428,1,agg_Hopkins_20180212_T2_1,No
+Hopkins,20180212,2,H_cracherodii,25,15,14,9,2,428,1,agg_Hopkins_20180212_T2_1,No
+Hopkins,20180212,3,H_cracherodii,34,11,9,14,1,429,1,agg_Hopkins_20180212_T3_1,No
+Hopkins,20180212,3,H_cracherodii,50,12,30,16,3,430,2,agg_Hopkins_20180212_T3_2,No
+Hopkins,20180212,3,H_cracherodii,13,7,30,7,3,430,2,agg_Hopkins_20180212_T3_2,No
+Hopkins,20180212,3,H_cracherodii,8,10,30,7,3,430,2,agg_Hopkins_20180212_T3_2,No
+Hopkins,20180212,4,H_cracherodii,21,16,26,4,1,431,1,agg_Hopkins_20180212_T4_1,No
+Hopkins,20180212,5,H_cracherodii,65,3,5,7,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,65,3,5,4,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,65,3,5,10,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,10,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,6,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,3,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,4,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,2,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,2,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,77,4,25,6,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,5,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,8,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,9,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,2,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,70,4,26,7,2,435,4,agg_Hopkins_20180212_T5_4,No
+Hopkins,20180212,5,H_cracherodii,5,3,26,10,2,435,4,agg_Hopkins_20180212_T5_4,No
+Hopkins,20180212,5,H_cracherodii,45,5,25,5,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,4,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,2,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,65,5,24,2,6,433,2,agg_Hopkins_20180212_T5_2,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,2,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,73,4,25,7,8,434,3,agg_Hopkins_20180212_T5_3,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,10,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,6,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,63,3,5,3,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,65,3,5,7,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,65,3,5,4,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Hopkins,20180212,5,H_cracherodii,80,25,5,10,12,432,1,agg_Hopkins_20180212_T5_1,Yes
+Pt Pinos,20180226,2,H_cracherodii,20,10,7,11,1,522,1,agg_Pt Pinos_20180226_T2_1,No
+Pt Pinos,20180226,2,H_cracherodii,30,15,13,14,2,523,2,agg_Pt Pinos_20180226_T2_2,No
+Pt Pinos,20180226,2,H_cracherodii,12,8,23,12,2,524,3,agg_Pt Pinos_20180226_T2_3,No
+Pt Pinos,20180226,2,H_cracherodii,30,15,13,14,2,523,2,agg_Pt Pinos_20180226_T2_2,No
+Pt Pinos,20180226,2,H_cracherodii,25,6,23,8,2,524,3,agg_Pt Pinos_20180226_T2_3,No
+Pt Pinos,20180226,3,H_cracherodii,20,3,17,10,4,525,1,agg_Pt Pinos_20180226_T3_1,Yes
+Pt Pinos,20180226,3,H_cracherodii,20,3,17,8,4,525,1,agg_Pt Pinos_20180226_T3_1,Yes
+Pt Pinos,20180226,3,H_cracherodii,20,3,17,5,4,525,1,agg_Pt Pinos_20180226_T3_1,Yes
+Pt Pinos,20180226,3,H_cracherodii,40,6,28,8,1,528,4,agg_Pt Pinos_20180226_T3_4,No
+Pt Pinos,20180226,3,H_cracherodii,70,6,29,10,2,529,5,agg_Pt Pinos_20180226_T3_5,No
+Pt Pinos,20180226,3,H_cracherodii,70,6,29,7,2,529,5,agg_Pt Pinos_20180226_T3_5,No
+Pt Pinos,20180226,3,H_cracherodii,25,25,26,7,1,527,3,agg_Pt Pinos_20180226_T3_3,No
+Pt Pinos,20180226,3,H_cracherodii,45,25,22,5,1,526,2,agg_Pt Pinos_20180226_T3_2,No
+Pt Pinos,20180226,3,H_cracherodii,15,4,17,6,4,525,1,agg_Pt Pinos_20180226_T3_1,Yes
+Pt Pinos,20180226,4,H_cracherodii,18,6,6,9.8,2,530,1,agg_Pt Pinos_20180226_T4_1,No
+Pt Pinos,20180226,4,H_cracherodii,17,6,6,9,2,530,1,agg_Pt Pinos_20180226_T4_1,No
+Pt Pinos,20180226,4,H_cracherodii,35,5,27,6,2,531,2,agg_Pt Pinos_20180226_T4_2,No
+Pt Pinos,20180226,4,H_cracherodii,35,5,27,4,2,531,2,agg_Pt Pinos_20180226_T4_2,No
+Pt Pinos,20180226,5,H_cracherodii,20,8,1,10,1,532,1,agg_Pt Pinos_20180226_T5_1,No
+Pt Pinos,20180226,5,H_cracherodii,55,30,4,11,2,533,2,agg_Pt Pinos_20180226_T5_2,No
+Pt Pinos,20180226,5,H_cracherodii,55,30,4,12,2,533,2,agg_Pt Pinos_20180226_T5_2,No
+Pt Pinos,20180226,5,H_cracherodii,55,7,18,10,2,534,3,agg_Pt Pinos_20180226_T5_3,No
+Pt Pinos,20180226,5,H_cracherodii,55,7,18,12,2,534,3,agg_Pt Pinos_20180226_T5_3,No
+Pt Pinos,20180226,5,H_cracherodii,40,10,22,6,1,535,4,agg_Pt Pinos_20180226_T5_4,No
+Pt Pinos,20180227,4,H_cracherodii,10,4,10,6,1,536,1,agg_Pt Pinos_20180227_T4_1,No
+Carmel Pt,20180228,1,H_cracherodii,5,10,4,11,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,27,10,4,12,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,10,3,4,5,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,10,3,4,10,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,16,8,4,12,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,16,8,4,9,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,15,3,4,14,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,15,3,4,10,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,13,4,4,7,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,13,4,5,11,3,132,2,agg_Carmel Pt_20180228_T1_2,No
+Carmel Pt,20180228,1,H_cracherodii,13,4,5,8,3,132,2,agg_Carmel Pt_20180228_T1_2,No
+Carmel Pt,20180228,1,H_cracherodii,13,4,5,10,3,132,2,agg_Carmel Pt_20180228_T1_2,No
+Carmel Pt,20180228,1,H_cracherodii,30,5,4,13,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,30,5,4,6,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,30,5,4,8,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,30,5,4,16,13,131,1,agg_Carmel Pt_20180228_T1_1,Yes
+Carmel Pt,20180228,1,H_cracherodii,30,8,17,13,1,139,9,agg_Carmel Pt_20180228_T1_9,No
+Carmel Pt,20180228,1,H_cracherodii,20,5,20,14.3,1,140,10,agg_Carmel Pt_20180228_T1_10,No
+Carmel Pt,20180228,1,H_cracherodii,25,7,7,7,4,133,3,agg_Carmel Pt_20180228_T1_3,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,7,7,7,4,133,3,agg_Carmel Pt_20180228_T1_3,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,7,7,9,4,133,3,agg_Carmel Pt_20180228_T1_3,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,7,7,8,4,133,3,agg_Carmel Pt_20180228_T1_3,Yes
+Carmel Pt,20180228,1,H_cracherodii,4,5,9,6,1,134,4,agg_Carmel Pt_20180228_T1_4,No
+Carmel Pt,20180228,1,H_cracherodii,8,3,12,5,5,135,5,agg_Carmel Pt_20180228_T1_5,Yes
+Carmel Pt,20180228,1,H_cracherodii,5,2,12,6,5,135,5,agg_Carmel Pt_20180228_T1_5,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,10,12,8,5,135,5,agg_Carmel Pt_20180228_T1_5,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,10,12,13,5,135,5,agg_Carmel Pt_20180228_T1_5,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,10,12,14,5,135,5,agg_Carmel Pt_20180228_T1_5,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,13,13,6,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,13,13,N/A,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,35,6,13,6,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,35,6,13,15,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,35,6,13,11,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,35,6,13,6,6,136,6,agg_Carmel Pt_20180228_T1_6,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,10,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,3,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,17,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,10,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,15,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,14,8,6,137,7,agg_Carmel Pt_20180228_T1_7,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,15,6,4,138,8,agg_Carmel Pt_20180228_T1_8,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,15,5,4,138,8,agg_Carmel Pt_20180228_T1_8,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,15,6,4,138,8,agg_Carmel Pt_20180228_T1_8,Yes
+Carmel Pt,20180228,1,H_cracherodii,25,4,15,9,4,138,8,agg_Carmel Pt_20180228_T1_8,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,12,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,13,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,8,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,13,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,6,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,7,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,29,5,7,141,11,agg_Carmel Pt_20180228_T1_11,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,10,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,12,4,30,3,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,12,4,30,8,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,12,4,30,7,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,7,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,4,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,8,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,3,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,6,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,3,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,5,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,1,H_cracherodii,40,5,30,5,12,142,12,agg_Carmel Pt_20180228_T1_12,Yes
+Carmel Pt,20180228,2,H_cracherodii,21,3,4,15,1,143,1,agg_Carmel Pt_20180228_T2_1,No
+Carmel Pt,20180228,2,H_cracherodii,10,8,5,9,1,144,2,agg_Carmel Pt_20180228_T2_2,No
+Carmel Pt,20180228,2,H_cracherodii,35,10,11,12,3,145,3,agg_Carmel Pt_20180228_T2_3,No
+Carmel Pt,20180228,2,H_cracherodii,35,8,11,15,3,145,3,agg_Carmel Pt_20180228_T2_3,No
+Carmel Pt,20180228,2,H_cracherodii,35,8,11,13,3,145,3,agg_Carmel Pt_20180228_T2_3,No
+Carmel Pt,20180228,2,H_cracherodii,22,11,12,12,1,146,4,agg_Carmel Pt_20180228_T2_4,No
+Carmel Pt,20180228,2,H_cracherodii,15,3,21,4,1,147,5,agg_Carmel Pt_20180228_T2_5,No
+Carmel Pt,20180228,2,H_cracherodii,18,6,27,16,1,148,6,agg_Carmel Pt_20180228_T2_6,No
+Carmel Pt,20180228,3,H_cracherodii,30,6,9,7,1,149,1,agg_Carmel Pt_20180228_T3_1,No
+Carmel Pt,20180228,3,H_cracherodii,60,20,21,12,3,150,2,agg_Carmel Pt_20180228_T3_2,No
+Carmel Pt,20180228,3,H_cracherodii,60,20,21,10,3,150,2,agg_Carmel Pt_20180228_T3_2,No
+Carmel Pt,20180228,3,H_cracherodii,60,20,21,10,3,150,2,agg_Carmel Pt_20180228_T3_2,No
+Carmel Pt,20180228,3,H_cracherodii,50,10,22,15,2,151,3,agg_Carmel Pt_20180228_T3_3,No
+Carmel Pt,20180228,3,H_cracherodii,5,8,22,12,2,151,3,agg_Carmel Pt_20180228_T3_3,No
+Carmel Pt,20180228,4,H_cracherodii,50,15,1,8,1,152,1,agg_Carmel Pt_20180228_T4_1,No
+Carmel Pt,20180228,4,H_cracherodii,50,20,3,11,1,153,2,agg_Carmel Pt_20180228_T4_2,No
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,11,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,11.5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,12,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,10,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,5,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,10,4,8,11,154,3,agg_Carmel Pt_20180228_T4_3,Yes
+Carmel Pt,20180228,4,H_cracherodii,15,5,5,5,1,155,4,agg_Carmel Pt_20180228_T4_4,No
+Carmel Pt,20180228,4,H_cracherodii,60,5,7,9,2,156,5,agg_Carmel Pt_20180228_T4_5,No
+Carmel Pt,20180228,4,H_cracherodii,60,5,7,9,2,156,5,agg_Carmel Pt_20180228_T4_5,No
+Carmel Pt,20180228,4,H_cracherodii,35,5,14,5,3,157,6,agg_Carmel Pt_20180228_T4_6,No
+Carmel Pt,20180228,4,H_cracherodii,35,5,14,7,3,157,6,agg_Carmel Pt_20180228_T4_6,No
+Carmel Pt,20180228,4,H_cracherodii,30,7,15,5,1,158,7,agg_Carmel Pt_20180228_T4_7,No
+Carmel Pt,20180228,4,H_cracherodii,11,5,14,3.5,3,157,6,agg_Carmel Pt_20180228_T4_6,No
+Carmel Pt,20180228,4,H_cracherodii,23,15,17,6,4,159,8,agg_Carmel Pt_20180228_T4_8,Yes
+Carmel Pt,20180228,4,H_cracherodii,20,12,17,8,4,159,8,agg_Carmel Pt_20180228_T4_8,Yes
+Carmel Pt,20180228,4,H_cracherodii,20,12,17,8.5,4,159,8,agg_Carmel Pt_20180228_T4_8,Yes
+Carmel Pt,20180228,4,H_cracherodii,10,3,17,6,4,159,8,agg_Carmel Pt_20180228_T4_8,Yes
+Carmel Pt,20180228,4,H_cracherodii,35,10,18,12,1,160,9,agg_Carmel Pt_20180228_T4_9,No
+Carmel Pt,20180228,4,H_cracherodii,60,20,19,11,2,161,10,agg_Carmel Pt_20180228_T4_10,No
+Carmel Pt,20180228,4,H_cracherodii,60,20,19,9,2,161,10,agg_Carmel Pt_20180228_T4_10,No
+Carmel Pt,20180228,4,H_cracherodii,16,4,21,11,1,162,11,agg_Carmel Pt_20180228_T4_11,No
+Carmel Pt,20180228,5,H_cracherodii,36,27,16,14,1,163,1,agg_Carmel Pt_20180228_T5_1,No
+Carmel Pt,20180228,6,H_cracherodii,15,5,0,10,1,164,1,agg_Carmel Pt_20180228_T6_1,No
+Carmel Pt,20180228,6,H_cracherodii,27,6,2,8,1,165,2,agg_Carmel Pt_20180228_T6_2,No
+Carmel Pt,20180228,6,H_cracherodii,22,9,8,12,1,166,3,agg_Carmel Pt_20180228_T6_3,No
+Carmel Pt,20180228,6,H_cracherodii,27,7,18,8,1,167,4,agg_Carmel Pt_20180228_T6_4,No
+Carmel Pt,20180228,6,H_cracherodii,20,4,21,14,1,168,5,agg_Carmel Pt_20180228_T6_5,No
+Carmel Pt,20180228,6,H_cracherodii,10,4,27,13,5,170,7,agg_Carmel Pt_20180228_T6_7,Yes
+Carmel Pt,20180228,6,H_cracherodii,10,4,27,6,5,170,7,agg_Carmel Pt_20180228_T6_7,Yes
+Carmel Pt,20180228,6,H_cracherodii,10,4,27,10,5,170,7,agg_Carmel Pt_20180228_T6_7,Yes
+Carmel Pt,20180228,6,H_cracherodii,15,3,27,14,5,170,7,agg_Carmel Pt_20180228_T6_7,Yes
+Carmel Pt,20180228,6,H_cracherodii,25,5,27,10,5,170,7,agg_Carmel Pt_20180228_T6_7,Yes
+Carmel Pt,20180228,6,H_cracherodii,5,5,28,8,3,171,8,agg_Carmel Pt_20180228_T6_8,No
+Carmel Pt,20180228,6,H_cracherodii,5,5,28,6,3,171,8,agg_Carmel Pt_20180228_T6_8,No
+Carmel Pt,20180228,6,H_cracherodii,5,5,28,9,3,171,8,agg_Carmel Pt_20180228_T6_8,No
+Carmel Pt,20180228,6,H_cracherodii,13,4,29,6,4,172,9,agg_Carmel Pt_20180228_T6_9,Yes
+Carmel Pt,20180228,6,H_cracherodii,13,4,26,5,1,169,6,agg_Carmel Pt_20180228_T6_6,No
+Carmel Pt,20180228,6,H_cracherodii,18,4,29,8,4,172,9,agg_Carmel Pt_20180228_T6_9,Yes
+Carmel Pt,20180228,6,H_cracherodii,13,4,29,5,4,172,9,agg_Carmel Pt_20180228_T6_9,Yes
+Carmel Pt,20180228,6,H_cracherodii,18,4,29,4,4,172,9,agg_Carmel Pt_20180228_T6_9,Yes
+Carmel Pt,20180228,7,H_cracherodii,40,7,2,17,5,173,1,agg_Carmel Pt_20180228_T7_1,Yes
+Carmel Pt,20180228,7,H_cracherodii,40,7,2,11,5,173,1,agg_Carmel Pt_20180228_T7_1,Yes
+Carmel Pt,20180228,7,H_cracherodii,27,5,2,8,5,173,1,agg_Carmel Pt_20180228_T7_1,Yes
+Carmel Pt,20180228,7,H_cracherodii,27,5,2,12,5,173,1,agg_Carmel Pt_20180228_T7_1,Yes
+Carmel Pt,20180228,7,H_cracherodii,27,5,2,15,5,173,1,agg_Carmel Pt_20180228_T7_1,Yes
+Carmel Pt,20180228,7,H_cracherodii,11,6,18,13,1,174,2,agg_Carmel Pt_20180228_T7_2,No
+Carmel Pt,20180228,7,H_cracherodii,25,5,29,7,4,176,4,agg_Carmel Pt_20180228_T7_4,Yes
+Carmel Pt,20180228,7,H_cracherodii,25,5,29,8,4,176,4,agg_Carmel Pt_20180228_T7_4,Yes
+Carmel Pt,20180228,7,H_cracherodii,25,5,29,8,4,176,4,agg_Carmel Pt_20180228_T7_4,Yes
+Carmel Pt,20180228,7,H_cracherodii,45,10,29,14,4,176,4,agg_Carmel Pt_20180228_T7_4,Yes
+Carmel Pt,20180228,7,H_cracherodii,19,4,26,6,1,175,3,agg_Carmel Pt_20180228_T7_3,No
+Carmel Pt,20180228,7,H_cracherodii,8,4,30,10,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Carmel Pt,20180228,7,H_cracherodii,40,13,30,9,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Carmel Pt,20180228,7,H_cracherodii,12,6,30,6,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Carmel Pt,20180228,7,H_cracherodii,12,6,30,6,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Carmel Pt,20180228,7,H_cracherodii,8,4,30,7,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Carmel Pt,20180228,7,H_cracherodii,8,4,30,6,6,177,5,agg_Carmel Pt_20180228_T7_5,Yes
+Pt Pinos,20180228,4,H_cracherodii,65,21,13,15,1,537,1,agg_Pt Pinos_20180228_T4_1,No
+Carmel Pt,20180301,1,H_cracherodii,30,10,26,6,1,178,1,agg_Carmel Pt_20180301_T1_1,No
+Pt Pinos,20180301,4,H_cracherodii,65,21,13,10,1,538,1,agg_Pt Pinos_20180301_T4_1,No
+Pt Pinos,20180302,4,H_cracherodii,65,21,13,10,1,539,1,agg_Pt Pinos_20180302_T4_1,No
+Pt Pinos,20180303,4,H_cracherodii,65,21,13,8,1,540,1,agg_Pt Pinos_20180303_T4_1,No
+Pt Pinos,20180304,4,H_cracherodii,65,21,13,9,1,541,1,agg_Pt Pinos_20180304_T4_1,No
+Pt Pinos,20180305,4,H_cracherodii,65,21,13,10,1,542,1,agg_Pt Pinos_20180305_T4_1,No
+Pt Pinos,20180306,4,H_cracherodii,60,8,14,6,1,543,1,agg_Pt Pinos_20180306_T4_1,No
+Pt Pinos,20180307,4,H_cracherodii,60,8,14,10,1,544,1,agg_Pt Pinos_20180307_T4_1,No
+Pt Pinos,20180308,4,H_cracherodii,60,8,14,8,4,545,1,agg_Pt Pinos_20180308_T4_1,Yes
+Pt Pinos,20180308,4,H_cracherodii,60,8,14,7,4,545,1,agg_Pt Pinos_20180308_T4_1,Yes
+Pt Pinos,20180308,4,H_cracherodii,60,8,14,10,4,545,1,agg_Pt Pinos_20180308_T4_1,Yes
+Pt Pinos,20180308,4,H_cracherodii,60,8,14,6,4,545,1,agg_Pt Pinos_20180308_T4_1,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,6,16,7,4,546,2,agg_Pt Pinos_20180308_T4_2,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,6,16,5,4,546,2,agg_Pt Pinos_20180308_T4_2,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,6,16,7,4,546,2,agg_Pt Pinos_20180308_T4_2,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,11,16,7,4,546,2,agg_Pt Pinos_20180308_T4_2,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,10,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,8,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,4,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,3,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,7,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Pt Pinos,20180308,4,H_cracherodii,50,8,17,9,6,547,3,agg_Pt Pinos_20180308_T4_3,Yes
+Cannery Row,20180312,1,H_cracherodii,20,4,23,3.5,1,9,1,agg_Cannery Row_20180312_T1_1,No
+Cannery Row,20180312,1,H_cracherodii,18,4,25,10,2,10,2,agg_Cannery Row_20180312_T1_2,No
+Cannery Row,20180312,1,H_cracherodii,18,4,25,5,2,10,2,agg_Cannery Row_20180312_T1_2,No
+Cannery Row,20180312,3,H_cracherodii,25,7,10,8,1,11,1,agg_Cannery Row_20180312_T3_1,No
+Cannery Row,20180312,3,H_cracherodii,25,5,23,6,1,12,2,agg_Cannery Row_20180312_T3_2,No
+Cannery Row,20180312,4,H_cracherodii,30,4,5,7,1,13,1,agg_Cannery Row_20180312_T4_1,No
+Cannery Row,20180312,4,H_cracherodii,45,10,28,6,2,15,3,agg_Cannery Row_20180312_T4_3,No
+Cannery Row,20180312,4,H_cracherodii,45,10,28,10,2,15,3,agg_Cannery Row_20180312_T4_3,No
+Cannery Row,20180312,4,H_cracherodii,65,5,27,14,1,14,2,agg_Cannery Row_20180312_T4_2,No
+Cannery Row,20180312,7,H_cracherodii,15,5,29,3.5,1,20,5,agg_Cannery Row_20180312_T7_5,No
+Cannery Row,20180312,7,H_cracherodii,70,5,25,12,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,25,10,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,25,4,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,25,4,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,25,10,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,25,4,6,19,4,agg_Cannery Row_20180312_T7_4,Yes
+Cannery Row,20180312,7,H_cracherodii,70,5,24,10,1,18,3,agg_Cannery Row_20180312_T7_3,No
+Cannery Row,20180312,7,H_cracherodii,25,3,17,12,1,17,2,agg_Cannery Row_20180312_T7_2,No
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,5,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,10,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,13,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,14,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,3,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,6,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,5,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Cannery Row,20180312,7,H_cracherodii,NA,NA,16,9,8,16,1,agg_Cannery Row_20180312_T7_1,Yes
+Carmel Pt,20180315,1,H_cracherodii,10,2,30,3,1,179,1,agg_Carmel Pt_20180315_T1_1,No
+Carmel Pt,20180317,1,H_cracherodii,26,10,29,11,1,180,1,agg_Carmel Pt_20180317_T1_1,No
+Carmel Pt,20180318,1,H_cracherodii,40,5,29,8,1,181,1,agg_Carmel Pt_20180318_T1_1,No
+Hopkins,20180326,6,H_cracherodii,1,10,24,7,1,436,1,agg_Hopkins_20180326_T6_1,No
+Hopkins,20180326,7,H_cracherodii,80,11,4,10,1,437,1,agg_Hopkins_20180326_T7_1,No
+Hopkins,20190218,2,H_cracherodii,25,1.5,7,9,2,438,1,agg_Hopkins_20190218_T2_1,No
+Hopkins,20190218,2,H_cracherodii,25,1.5,7,5,2,438,1,agg_Hopkins_20190218_T2_1,No
+Hopkins,20190218,2,H_cracherodii,70,3,18,15,3,439,2,agg_Hopkins_20190218_T2_2,No
+Hopkins,20190218,2,H_cracherodii,70,3,18,15,3,439,2,agg_Hopkins_20190218_T2_2,No
+Hopkins,20190218,2,H_cracherodii,70,3,18,10,3,439,2,agg_Hopkins_20190218_T2_2,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,4,4,1,440,1,agg_Hopkins_20190218_T3_1,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,6,17,3,441,2,agg_Hopkins_20190218_T3_2,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,6,8,3,441,2,agg_Hopkins_20190218_T3_2,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,6,5,3,441,2,agg_Hopkins_20190218_T3_2,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,7,11,1,442,3,agg_Hopkins_20190218_T3_3,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,20,8,1,443,4,agg_Hopkins_20190218_T3_4,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,8,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,5,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,20,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,10,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,12,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,8,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,8,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,21,6,8,444,5,agg_Hopkins_20190218_T3_5,Yes
+Hopkins,20190218,3,H_cracherodii,NA,NA,22,11,1,445,6,agg_Hopkins_20190218_T3_6,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,23,11,3,446,7,agg_Hopkins_20190218_T3_7,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,23,10,3,446,7,agg_Hopkins_20190218_T3_7,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,23,15,3,446,7,agg_Hopkins_20190218_T3_7,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,26,10,1,447,8,agg_Hopkins_20190218_T3_8,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,28,5,2,448,9,agg_Hopkins_20190218_T3_9,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,28,5,2,448,9,agg_Hopkins_20190218_T3_9,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,30,12,3,449,10,agg_Hopkins_20190218_T3_10,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,30,12,3,449,10,agg_Hopkins_20190218_T3_10,No
+Hopkins,20190218,3,H_cracherodii,NA,NA,30,5,3,449,10,agg_Hopkins_20190218_T3_10,No
+Hopkins,20190218,5,H_cracherodii,30,10,26,11,1,450,1,agg_Hopkins_20190218_T5_1,No
+Hopkins,20190218,5,H_cracherodii,45,15,27,12,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Hopkins,20190218,5,H_cracherodii,45,15,27,8,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Hopkins,20190218,5,H_cracherodii,45,15,27,10,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Hopkins,20190218,5,H_cracherodii,45,15,27,5,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Hopkins,20190218,5,H_cracherodii,45,15,27,7,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Hopkins,20190218,5,H_cracherodii,45,15,27,9,6,451,2,agg_Hopkins_20190218_T5_2,Yes
+Pt Pinos,20190304,1,H_cracherodii,25,60,25,8,4,549,2,agg_Pt Pinos_20190304_T1_2,Yes
+Pt Pinos,20190304,1,H_cracherodii,25,60,25,8,4,549,2,agg_Pt Pinos_20190304_T1_2,Yes
+Pt Pinos,20190304,1,H_cracherodii,25,60,25,10,4,549,2,agg_Pt Pinos_20190304_T1_2,Yes
+Pt Pinos,20190304,1,H_cracherodii,25,60,25,9,4,549,2,agg_Pt Pinos_20190304_T1_2,Yes
+Pt Pinos,20190304,1,H_cracherodii,20,14,15,10,2,548,1,agg_Pt Pinos_20190304_T1_1,No
+Pt Pinos,20190304,1,H_cracherodii,20,14,15,5,2,548,1,agg_Pt Pinos_20190304_T1_1,No
+Pt Pinos,20190304,2,H_cracherodii,NA,NA,21,9,5,550,1,agg_Pt Pinos_20190304_T2_1,Yes
+Pt Pinos,20190304,2,H_cracherodii,NA,NA,21,11,5,550,1,agg_Pt Pinos_20190304_T2_1,Yes
+Pt Pinos,20190304,2,H_cracherodii,NA,NA,21,9,5,550,1,agg_Pt Pinos_20190304_T2_1,Yes
+Pt Pinos,20190304,2,H_cracherodii,NA,NA,21,11,5,550,1,agg_Pt Pinos_20190304_T2_1,Yes
+Pt Pinos,20190304,2,H_cracherodii,NA,NA,21,13,5,550,1,agg_Pt Pinos_20190304_T2_1,Yes
+Pt Pinos,20190304,3,H_cracherodii,40,10,21,8,1,552,2,agg_Pt Pinos_20190304_T3_2,No
+Pt Pinos,20190304,3,H_cracherodii,20,6,1,5.5,1,551,1,agg_Pt Pinos_20190304_T3_1,No
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,7,13,4,555,3,agg_Pt Pinos_20190304_T4_3,Yes
+Pt Pinos,20190304,4,H_cracherodii,30,5,5,12,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,30,5,5,8,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,30,5,5,10,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,30,5,5,15,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,30,5,5,12,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,5,15,6,553,1,agg_Pt Pinos_20190304_T4_1,Yes
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,6,7,1,554,2,agg_Pt Pinos_20190304_T4_2,No
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,7,10,4,555,3,agg_Pt Pinos_20190304_T4_3,Yes
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,7,13,4,555,3,agg_Pt Pinos_20190304_T4_3,Yes
+Pt Pinos,20190304,4,H_cracherodii,25,10,7,15,4,555,3,agg_Pt Pinos_20190304_T4_3,Yes
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,10,15,1,556,4,agg_Pt Pinos_20190304_T4_4,No
+Pt Pinos,20190304,4,H_cracherodii,30,15,11,7,3,557,5,agg_Pt Pinos_20190304_T4_5,No
+Pt Pinos,20190304,4,H_cracherodii,30,15,11,15,3,557,5,agg_Pt Pinos_20190304_T4_5,No
+Pt Pinos,20190304,4,H_cracherodii,NA,NA,11,13,3,557,5,agg_Pt Pinos_20190304_T4_5,No
+Pt Pinos,20190304,4,H_cracherodii,30,5,15,15,1,558,6,agg_Pt Pinos_20190304_T4_6,No
+Pt Pinos,20190304,4,H_cracherodii,50,13,22,5,1,560,8,agg_Pt Pinos_20190304_T4_8,No
+Pt Pinos,20190304,4,H_cracherodii,50,20,17,7,1,559,7,agg_Pt Pinos_20190304_T4_7,No
+Pt Pinos,20190304,5,H_cracherodii,10,10,2,10,4,561,1,agg_Pt Pinos_20190304_T5_1,Yes
+Pt Pinos,20190304,5,H_cracherodii,17,5,2,8,4,561,1,agg_Pt Pinos_20190304_T5_1,Yes
+Pt Pinos,20190304,5,H_cracherodii,17,5,2,5,4,561,1,agg_Pt Pinos_20190304_T5_1,Yes
+Pt Pinos,20190304,5,H_cracherodii,17,5,2,5,4,561,1,agg_Pt Pinos_20190304_T5_1,Yes
+Pt Pinos,20190304,5,H_cracherodii,8,5,3,11,4,562,2,agg_Pt Pinos_20190304_T5_2,Yes
+Pt Pinos,20190304,5,H_cracherodii,8,5,3,7,4,562,2,agg_Pt Pinos_20190304_T5_2,Yes
+Pt Pinos,20190304,5,H_cracherodii,8,5,3,5,4,562,2,agg_Pt Pinos_20190304_T5_2,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,8,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,8,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,145,45,4,12,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,10,15,6,5,1,565,5,agg_Pt Pinos_20190304_T5_5,No
+Pt Pinos,20190304,5,H_cracherodii,8,4,5,9,4,564,4,agg_Pt Pinos_20190304_T5_4,Yes
+Pt Pinos,20190304,5,H_cracherodii,8,4,5,7,4,564,4,agg_Pt Pinos_20190304_T5_4,Yes
+Pt Pinos,20190304,5,H_cracherodii,8,4,5,12,4,564,4,agg_Pt Pinos_20190304_T5_4,Yes
+Pt Pinos,20190304,5,H_cracherodii,7,4,3,11,4,562,2,agg_Pt Pinos_20190304_T5_2,Yes
+Pt Pinos,20190304,5,H_cracherodii,10,7,4,10,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,7,4,4,8,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,7,5,4,5,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,5,4,4,7,14,563,3,agg_Pt Pinos_20190304_T5_3,Yes
+Pt Pinos,20190304,5,H_cracherodii,87,8,5,6,4,564,4,agg_Pt Pinos_20190304_T5_4,Yes
+Pt Pinos,20190304,5,H_cracherodii,10,5,9,13,1,566,6,agg_Pt Pinos_20190304_T5_6,No
+Pt Pinos,20190304,5,H_cracherodii,15,5,29,10,1,568,8,agg_Pt Pinos_20190304_T5_8,No
+Pt Pinos,20190304,5,H_cracherodii,15,5,28,13,1,567,7,agg_Pt Pinos_20190304_T5_7,No
+Pt Pinos,20190306,6,H_cracherodii,10,10,2,10,4,569,1,agg_Pt Pinos_20190306_T6_1,Yes
+Pt Pinos,20190306,6,H_cracherodii,17,5,2,8,4,569,1,agg_Pt Pinos_20190306_T6_1,Yes
+Pt Pinos,20190306,6,H_cracherodii,17,5,2,5,4,569,1,agg_Pt Pinos_20190306_T6_1,Yes
+Pt Pinos,20190306,6,H_cracherodii,17,5,2,5,4,569,1,agg_Pt Pinos_20190306_T6_1,Yes
+Pt Pinos,20190306,6,H_cracherodii,8,5,3,11,4,570,2,agg_Pt Pinos_20190306_T6_2,Yes
+Pt Pinos,20190306,6,H_cracherodii,8,5,3,7,4,570,2,agg_Pt Pinos_20190306_T6_2,Yes
+Pt Pinos,20190306,6,H_cracherodii,8,5,3,5,4,570,2,agg_Pt Pinos_20190306_T6_2,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,8,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,8,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,145,45,4,12,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,10,5,6,5,1,573,5,agg_Pt Pinos_20190306_T6_5,No
+Pt Pinos,20190306,6,H_cracherodii,8,4,5,9,5,572,4,agg_Pt Pinos_20190306_T6_4,Yes
+Pt Pinos,20190306,6,H_cracherodii,8,4,5,7,5,572,4,agg_Pt Pinos_20190306_T6_4,Yes
+Pt Pinos,20190306,6,H_cracherodii,8,4,5,12,5,572,4,agg_Pt Pinos_20190306_T6_4,Yes
+Pt Pinos,20190306,6,H_cracherodii,7,4,3,11,4,570,2,agg_Pt Pinos_20190306_T6_2,Yes
+Pt Pinos,20190306,6,H_cracherodii,10,7,4,10,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,7,4,4,8,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,7,5,4,5,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,5,4,4,7,14,571,3,agg_Pt Pinos_20190306_T6_3,Yes
+Pt Pinos,20190306,6,H_cracherodii,7,8,5,6,5,572,4,agg_Pt Pinos_20190306_T6_4,Yes
+Pt Pinos,20190306,6,H_cracherodii,7,8,5,8,5,572,4,agg_Pt Pinos_20190306_T6_4,Yes
+Pt Pinos,20190306,6,H_cracherodii,10,5,9,13,1,574,6,agg_Pt Pinos_20190306_T6_6,No
+Pt Pinos,20190306,7,H_cracherodii,35,20,21,7,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,35,20,21,12,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,35,20,21,6,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,35,20,21,17,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,35,20,21,12,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,NA,NA,21,8,6,575,1,agg_Pt Pinos_20190306_T7_1,Yes
+Pt Pinos,20190306,7,H_cracherodii,10,25,23,12,1,576,2,agg_Pt Pinos_20190306_T7_2,No
+Pt Pinos,20190306,7,H_cracherodii,60,25,26,7,1,577,3,agg_Pt Pinos_20190306_T7_3,No
+Pt Pinos,20190306,7,H_cracherodii,40,15,29,10,1,578,4,agg_Pt Pinos_20190306_T7_4,No
+Pt Pinos,20190306,7,H_cracherodii,NA,NA,30,10,3,579,5,agg_Pt Pinos_20190306_T7_5,No
+Pt Pinos,20190306,7,H_cracherodii,NA,NA,30,8,3,579,5,agg_Pt Pinos_20190306_T7_5,No
+Pt Pinos,20190306,7,H_cracherodii,NA,NA,30,7,3,579,5,agg_Pt Pinos_20190306_T7_5,No
+Carmel Pt,20190403,2,H_cracherodii,13,9,23,10,1,187,6,agg_Carmel Pt_20190403_T2_6,No
+Carmel Pt,20190403,2,H_cracherodii,15,3,19,6,1,186,5,agg_Carmel Pt_20190403_T2_5,No
+Carmel Pt,20190403,2,H_cracherodii,15,12,10,10,2,182,1,agg_Carmel Pt_20190403_T2_1,No
+Carmel Pt,20190403,2,H_cracherodii,45,25,12,12,1,183,2,agg_Carmel Pt_20190403_T2_2,No
+Carmel Pt,20190403,2,H_cracherodii,25,10,17,9,3,185,4,agg_Carmel Pt_20190403_T2_4,No
+Carmel Pt,20190403,2,H_cracherodii,25,10,17,10,3,185,4,agg_Carmel Pt_20190403_T2_4,No
+Carmel Pt,20190403,2,H_cracherodii,25,10,17,10,3,185,4,agg_Carmel Pt_20190403_T2_4,No
+Carmel Pt,20190403,2,H_cracherodii,10,6,14,9,1,184,3,agg_Carmel Pt_20190403_T2_3,No
+Carmel Pt,20190403,2,H_cracherodii,20,10,10,10,2,182,1,agg_Carmel Pt_20190403_T2_1,No
+Carmel Pt,20190403,4,H_cracherodii,17,7,30,12,1,195,8,agg_Carmel Pt_20190403_T4_8,No
+Carmel Pt,20190403,4,H_cracherodii,15,5,29,7,1,194,7,agg_Carmel Pt_20190403_T4_7,No
+Carmel Pt,20190403,4,H_cracherodii,25,5,18,10,1,193,6,agg_Carmel Pt_20190403_T4_6,No
+Carmel Pt,20190403,4,H_cracherodii,7,3,7,6,3,192,5,agg_Carmel Pt_20190403_T4_5,No
+Carmel Pt,20190403,4,H_cracherodii,30,12,7,11,3,192,5,agg_Carmel Pt_20190403_T4_5,No
+Carmel Pt,20190403,4,H_cracherodii,30,12,7,14,3,192,5,agg_Carmel Pt_20190403_T4_5,No
+Carmel Pt,20190403,4,H_cracherodii,3,10,6,10,4,191,4,agg_Carmel Pt_20190403_T4_4,Yes
+Carmel Pt,20190403,4,H_cracherodii,12,10,6,11,4,191,4,agg_Carmel Pt_20190403_T4_4,Yes
+Carmel Pt,20190403,4,H_cracherodii,5,10,6,5,4,191,4,agg_Carmel Pt_20190403_T4_4,Yes
+Carmel Pt,20190403,4,H_cracherodii,20,5,6,10,4,191,4,agg_Carmel Pt_20190403_T4_4,Yes
+Carmel Pt,20190403,4,H_cracherodii,7,10,5,15,3,190,3,agg_Carmel Pt_20190403_T4_3,No
+Carmel Pt,20190403,4,H_cracherodii,10,10,5,8,3,190,3,agg_Carmel Pt_20190403_T4_3,No
+Carmel Pt,20190403,4,H_cracherodii,10,10,5,7,3,190,3,agg_Carmel Pt_20190403_T4_3,No
+Carmel Pt,20190403,4,H_cracherodii,7,10,4,9,1,189,2,agg_Carmel Pt_20190403_T4_2,No
+Carmel Pt,20190403,4,H_cracherodii,15,10,1,10,2,188,1,agg_Carmel Pt_20190403_T4_1,No
+Carmel Pt,20190403,4,H_cracherodii,15,10,1,8,2,188,1,agg_Carmel Pt_20190403_T4_1,No
+Carmel Pt,20190403,5,H_cracherodii,NA,NA,3,1.5,1,196,1,agg_Carmel Pt_20190403_T5_1,No
+Carmel Pt,20190403,5,H_cracherodii,50,25,18,0.5,1,197,2,agg_Carmel Pt_20190403_T5_2,No
+Carmel Pt,20190403,5,H_cracherodii,50,25,19,2,1,198,3,agg_Carmel Pt_20190403_T5_3,No
+Carmel Pt,20190403,5,H_cracherodii,NA,NA,20,3,1,199,4,agg_Carmel Pt_20190403_T5_4,No
+Carmel Pt,20190403,5,H_cracherodii,40,20,23,1,2,200,5,agg_Carmel Pt_20190403_T5_5,No
+Carmel Pt,20190403,5,H_cracherodii,40,20,23,11,2,200,5,agg_Carmel Pt_20190403_T5_5,No
+Carmel Pt,20190403,6,H_cracherodii,20,10,22,8,1,201,1,agg_Carmel Pt_20190403_T6_1,No
+Carmel Pt,20190403,7,H_cracherodii,38,3,30,8,5,212,11,agg_Carmel Pt_20190403_T7_11,Yes
+Carmel Pt,20190403,7,H_cracherodii,38,3,30,6,5,212,11,agg_Carmel Pt_20190403_T7_11,Yes
+Carmel Pt,20190403,7,H_cracherodii,38,3,30,5,5,212,11,agg_Carmel Pt_20190403_T7_11,Yes
+Carmel Pt,20190403,7,H_cracherodii,25,4,30,6,5,212,11,agg_Carmel Pt_20190403_T7_11,Yes
+Carmel Pt,20190403,7,H_cracherodii,25,4,30,6,5,212,11,agg_Carmel Pt_20190403_T7_11,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,8,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,7,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,6,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,8,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,7,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,50,10,29,5,6,211,10,agg_Carmel Pt_20190403_T7_10,Yes
+Carmel Pt,20190403,7,H_cracherodii,15,7,28,11,2,210,9,agg_Carmel Pt_20190403_T7_9,No
+Carmel Pt,20190403,7,H_cracherodii,15,7,28,14,2,210,9,agg_Carmel Pt_20190403_T7_9,No
+Carmel Pt,20190403,7,H_cracherodii,60,15,27,13,1,209,8,agg_Carmel Pt_20190403_T7_8,No
+Carmel Pt,20190403,7,H_cracherodii,15,7,26,7,2,208,7,agg_Carmel Pt_20190403_T7_7,No
+Carmel Pt,20190403,7,H_cracherodii,37,8,22,12,1,207,6,agg_Carmel Pt_20190403_T7_6,No
+Carmel Pt,20190403,7,H_cracherodii,30,5,26,10,2,208,7,agg_Carmel Pt_20190403_T7_7,No
+Carmel Pt,20190403,7,H_cracherodii,25,4,21,15,1,206,5,agg_Carmel Pt_20190403_T7_5,No
+Carmel Pt,20190403,7,H_cracherodii,50,15,16,10,2,203,2,agg_Carmel Pt_20190403_T7_2,No
+Carmel Pt,20190403,7,H_cracherodii,40,10,16,9,2,203,2,agg_Carmel Pt_20190403_T7_2,No
+Carmel Pt,20190403,7,H_cracherodii,40,10,17,14,1,204,3,agg_Carmel Pt_20190403_T7_3,No
+Carmel Pt,20190403,7,H_cracherodii,30,4,19,8,1,205,4,agg_Carmel Pt_20190403_T7_4,No
+Carmel Pt,20190403,7,H_cracherodii,12,3,6,6,2,202,1,agg_Carmel Pt_20190403_T7_1,No
+Carmel Pt,20190403,7,H_cracherodii,25,5,6,10,2,202,1,agg_Carmel Pt_20190403_T7_1,No
+Cannery Row,20190415,2,H_cracherodii,70,20,24,8,1,21,1,agg_Cannery Row_20190415_T2_1,No
+Cannery Row,20190415,2,H_cracherodii,35,10,26,5,1,22,2,agg_Cannery Row_20190415_T2_2,No
+Cannery Row,20190415,3,H_cracherodii,NA,NA,28,12,1,23,1,agg_Cannery Row_20190415_T3_1,No
+Cannery Row,20190415,4,H_cracherodii,25,5,5,7,1,24,1,agg_Cannery Row_20190415_T4_1,No
+Cannery Row,20190415,4,H_cracherodii,9,5,13,7,2,25,2,agg_Cannery Row_20190415_T4_2,No
+Cannery Row,20190415,4,H_cracherodii,9,5,13,7,2,25,2,agg_Cannery Row_20190415_T4_2,No
+Cannery Row,20190415,5,H_cracherodii,NA,NA,27,8,1,26,1,agg_Cannery Row_20190415_T5_1,No
+Cannery Row,20190415,6,H_cracherodii,40,5,5,7,1,27,1,agg_Cannery Row_20190415_T6_1,No
+Cannery Row,20190415,6,H_cracherodii,60,5,24,8,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,60,5,24,6,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,60,5,24,7,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,5,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,3,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,10,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,6,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,6,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,6,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,10,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,11,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,10,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,6,H_cracherodii,160,5,24,7,13,28,2,agg_Cannery Row_20190415_T6_2,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,4,8,1,31,3,agg_Cannery Row_20190415_T7_3,No
+Cannery Row,20190415,7,H_cracherodii,160,75,2,12,1,30,2,agg_Cannery Row_20190415_T7_2,No
+Cannery Row,20190415,7,H_cracherodii,160,75,1,7,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,4,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,5,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,7,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,7,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,5,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,7,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Cannery Row,20190415,7,H_cracherodii,160,75,1,3,8,29,1,agg_Cannery Row_20190415_T7_1,Yes
+Hopkins,20200210,4,H_cracherodii,7,7,2,8,1,454,1,agg_Hopkins_20200210_T4_1,No
+Hopkins,20200210,4,H_cracherodii,25,5,3,9,4,455,2,agg_Hopkins_20200210_T4_2,Yes
+Hopkins,20200210,4,H_cracherodii,30,15,3,9,4,455,2,agg_Hopkins_20200210_T4_2,Yes
+Hopkins,20200210,4,H_cracherodii,30,15,3,6,4,455,2,agg_Hopkins_20200210_T4_2,Yes
+Hopkins,20200210,4,H_cracherodii,25,5,3,3,4,455,2,agg_Hopkins_20200210_T4_2,Yes
+Hopkins,20200210,4,H_cracherodii,0,0,8,11,1,456,3,agg_Hopkins_20200210_T4_3,No
+Hopkins,20200210,2,H_cracherodii,55,5,8,15.15,2,452,1,agg_Hopkins_20200210_T2_1,No
+Hopkins,20200210,2,H_cracherodii,NA,NA,8,12,2,452,1,agg_Hopkins_20200210_T2_1,No
+Hopkins,20200210,5,H_cracherodii,35,55,0,7,4,457,1,agg_Hopkins_20200210_T5_1,Yes
+Hopkins,20200210,5,H_cracherodii,35,55,0,20,4,457,1,agg_Hopkins_20200210_T5_1,Yes
+Hopkins,20200210,5,H_cracherodii,35,55,0,10,4,457,1,agg_Hopkins_20200210_T5_1,Yes
+Hopkins,20200210,5,H_cracherodii,35,55,0,10,4,457,1,agg_Hopkins_20200210_T5_1,Yes
+Hopkins,20200210,5,H_cracherodii,85,100,3,N/A,4,458,2,agg_Hopkins_20200210_T5_2,Yes
+Hopkins,20200210,5,H_cracherodii,85,100,3,N/A,4,458,2,agg_Hopkins_20200210_T5_2,Yes
+Hopkins,20200210,5,H_cracherodii,85,100,3,N/A,4,458,2,agg_Hopkins_20200210_T5_2,Yes
+Hopkins,20200210,5,H_cracherodii,85,100,3,N/A,4,458,2,agg_Hopkins_20200210_T5_2,Yes
+Hopkins,20200210,5,H_cracherodii,35,15,18,NA,1,459,3,agg_Hopkins_20200210_T5_3,No
+Hopkins,20200210,3,H_cracherodii,40,10,3,3,2,453,1,agg_Hopkins_20200210_T3_1,No
+Hopkins,20200210,3,H_cracherodii,40,10,3,5.5,2,453,1,agg_Hopkins_20200210_T3_1,No
+Carmel Pt,20200219,3,H_cracherodii,55,10,3,7,4,228,2,agg_Carmel Pt_20200219_T3_2,Yes
+Carmel Pt,20200219,3,H_cracherodii,55,10,3,10,4,228,2,agg_Carmel Pt_20200219_T3_2,Yes
+Carmel Pt,20200219,3,H_cracherodii,25,15,3,13,4,228,2,agg_Carmel Pt_20200219_T3_2,Yes
+Carmel Pt,20200219,3,H_cracherodii,25,15,3,7,4,228,2,agg_Carmel Pt_20200219_T3_2,Yes
+Carmel Pt,20200219,3,H_cracherodii,50,7,4,6,4,229,3,agg_Carmel Pt_20200219_T3_3,Yes
+Carmel Pt,20200219,3,H_cracherodii,50,7,4,8,4,229,3,agg_Carmel Pt_20200219_T3_3,Yes
+Carmel Pt,20200219,3,H_cracherodii,50,7,4,6,4,229,3,agg_Carmel Pt_20200219_T3_3,Yes
+Carmel Pt,20200219,3,H_cracherodii,50,7,4,8,4,229,3,agg_Carmel Pt_20200219_T3_3,Yes
+Carmel Pt,20200219,3,H_cracherodii,30,10,2,14,1,227,1,agg_Carmel Pt_20200219_T3_1,No
+Carmel Pt,20200219,3,H_cracherodii,30,5,5,7,3,230,4,agg_Carmel Pt_20200219_T3_4,No
+Carmel Pt,20200219,3,H_cracherodii,30,5,5,16,3,230,4,agg_Carmel Pt_20200219_T3_4,No
+Carmel Pt,20200219,3,H_cracherodii,30,5,5,16,3,230,4,agg_Carmel Pt_20200219_T3_4,No
+Carmel Pt,20200219,3,H_cracherodii,20,5,6,5,2,231,5,agg_Carmel Pt_20200219_T3_5,No
+Carmel Pt,20200219,3,H_cracherodii,25,7,6,10,2,231,5,agg_Carmel Pt_20200219_T3_5,No
+Carmel Pt,20200219,3,H_cracherodii,15,10,18,8,2,232,6,agg_Carmel Pt_20200219_T3_6,No
+Carmel Pt,20200219,3,H_cracherodii,1,4,18,5,2,232,6,agg_Carmel Pt_20200219_T3_6,No
+Carmel Pt,20200219,3,H_cracherodii,20,15,23,9,4,233,7,agg_Carmel Pt_20200219_T3_7,Yes
+Carmel Pt,20200219,3,H_cracherodii,25,7,23,7,4,233,7,agg_Carmel Pt_20200219_T3_7,Yes
+Carmel Pt,20200219,3,H_cracherodii,25,7,23,4.5,4,233,7,agg_Carmel Pt_20200219_T3_7,Yes
+Carmel Pt,20200219,3,H_cracherodii,3,5,23,12,4,233,7,agg_Carmel Pt_20200219_T3_7,Yes
+Carmel Pt,20200219,3,H_cracherodii,0,0,25,9,1,234,8,agg_Carmel Pt_20200219_T3_8,No
+Carmel Pt,20200219,3,H_cracherodii,10,10,26,9,2,235,9,agg_Carmel Pt_20200219_T3_9,No
+Carmel Pt,20200219,3,H_cracherodii,5,4,26,6,2,235,9,agg_Carmel Pt_20200219_T3_9,No
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,15,15,10,2,251,2,agg_Carmel Pt_20200219_T6_2,No
+Carmel Pt,20200219,6,H_cracherodii,15,3,21,9,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,8,21,10,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,55,10,21,15,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,20,5,21,15,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,10,5,21,12,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,25,20,21,10,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,40,25,21,13,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,40,25,21,9,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,45,15,23,10,4,255,6,agg_Carmel Pt_20200219_T6_6,Yes
+Carmel Pt,20200219,6,H_cracherodii,45,15,23,7,4,255,6,agg_Carmel Pt_20200219_T6_6,Yes
+Carmel Pt,20200219,6,H_cracherodii,40,20,16,14,1,252,3,agg_Carmel Pt_20200219_T6_3,No
+Carmel Pt,20200219,6,H_cracherodii,35,10,18,10,1,253,4,agg_Carmel Pt_20200219_T6_4,No
+Carmel Pt,20200219,6,H_cracherodii,35,7,30,10,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,7,30,8,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,11,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,11,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,12,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,12,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,12,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,14,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,14,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,45,35,29,23,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,NA,NA,29,13,9,218,6,agg_Carmel Pt_20200219_T1_6,Yes
+Carmel Pt,20200219,1,H_cracherodii,20,20,22,7,2,217,5,agg_Carmel Pt_20200219_T1_5,No
+Carmel Pt,20200219,1,H_cracherodii,20,20,22,10,2,217,5,agg_Carmel Pt_20200219_T1_5,No
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,10,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,10,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,14,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,9,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,10,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,7,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,40,100,21,9,7,216,4,agg_Carmel Pt_20200219_T1_4,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,100,5,15,4,215,3,agg_Carmel Pt_20200219_T1_3,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,100,5,7,4,215,3,agg_Carmel Pt_20200219_T1_3,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,100,5,10,4,215,3,agg_Carmel Pt_20200219_T1_3,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,100,5,15,4,215,3,agg_Carmel Pt_20200219_T1_3,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,14,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,15,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,10,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,20,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,20,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,7,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,50,40,3,10,7,213,1,agg_Carmel Pt_20200219_T1_1,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,11,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,6,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,7,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,6,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,11,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,12,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,1,H_cracherodii,28,60,4,11,7,214,2,agg_Carmel Pt_20200219_T1_2,Yes
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,65,15,13,15,6,250,1,agg_Carmel Pt_20200219_T6_1,Yes
+Carmel Pt,20200219,6,H_cracherodii,15,35,15,10,2,251,2,agg_Carmel Pt_20200219_T6_2,No
+Carmel Pt,20200219,6,H_cracherodii,3,15,21,9,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,8,21,10,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,55,10,21,15,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,20,5,21,15,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,10,5,21,12,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,25,20,21,10,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,40,25,21,13,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,40,25,21,9,16,254,5,agg_Carmel Pt_20200219_T6_5,Yes
+Carmel Pt,20200219,6,H_cracherodii,15,45,23,10,4,255,6,agg_Carmel Pt_20200219_T6_6,Yes
+Carmel Pt,20200219,6,H_cracherodii,15,45,23,7,4,255,6,agg_Carmel Pt_20200219_T6_6,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,7,30,10,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,6,H_cracherodii,35,7,30,8,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,6,H_cracherodii,30,10,30,10,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,6,H_cracherodii,25,7,30,8,6,256,7,agg_Carmel Pt_20200219_T6_7,Yes
+Carmel Pt,20200219,4,H_cracherodii,20,3,2,10,1,236,1,agg_Carmel Pt_20200219_T4_1,No
+Carmel Pt,20200219,4,H_cracherodii,25,9,3,8.5,1,237,2,agg_Carmel Pt_20200219_T4_2,No
+Carmel Pt,20200219,4,H_cracherodii,20,8,5,10,2,238,3,agg_Carmel Pt_20200219_T4_3,No
+Carmel Pt,20200219,4,H_cracherodii,20,8,5,10,2,238,3,agg_Carmel Pt_20200219_T4_3,No
+Carmel Pt,20200219,4,H_cracherodii,28,7,27,7,1,240,5,agg_Carmel Pt_20200219_T4_5,No
+Carmel Pt,20200219,4,H_cracherodii,50,13,30,12,1,241,6,agg_Carmel Pt_20200219_T4_6,No
+Carmel Pt,20200219,4,H_cracherodii,14,9,21,7,1,239,4,agg_Carmel Pt_20200219_T4_4,No
+Carmel Pt,20200219,2,H_cracherodii,20,27,29,8,1,226,8,agg_Carmel Pt_20200219_T2_8,No
+Carmel Pt,20200219,2,H_cracherodii,15,5,27,8,2,225,7,agg_Carmel Pt_20200219_T2_7,No
+Carmel Pt,20200219,2,H_cracherodii,25,10,23,12,2,224,6,agg_Carmel Pt_20200219_T2_6,No
+Carmel Pt,20200219,2,H_cracherodii,20,7,22,16,1,223,5,agg_Carmel Pt_20200219_T2_5,No
+Carmel Pt,20200219,2,H_cracherodii,25,5,20,12,1,222,4,agg_Carmel Pt_20200219_T2_4,No
+Carmel Pt,20200219,2,H_cracherodii,25,10,23,16,2,224,6,agg_Carmel Pt_20200219_T2_6,No
+Carmel Pt,20200219,2,H_cracherodii,15,5,27,12,2,225,7,agg_Carmel Pt_20200219_T2_7,No
+Carmel Pt,20200219,2,H_cracherodii,NA,NA,7,NA,3,219,1,agg_Carmel Pt_20200219_T2_1,No
+Carmel Pt,20200219,2,H_cracherodii,40,55,7,6,3,219,1,agg_Carmel Pt_20200219_T2_1,No
+Carmel Pt,20200219,2,H_cracherodii,10,20,7,8,3,219,1,agg_Carmel Pt_20200219_T2_1,No
+Carmel Pt,20200219,2,H_cracherodii,30,45,9,6,1,220,2,agg_Carmel Pt_20200219_T2_2,No
+Carmel Pt,20200219,2,H_cracherodii,NA,NA,11,NA,1,221,3,agg_Carmel Pt_20200219_T2_3,No
+Carmel Pt,20200219,5,H_cracherodii,30,10,25,10,1,249,8,agg_Carmel Pt_20200219_T5_8,No
+Carmel Pt,20200219,5,H_cracherodii,20,5,20,12,1,248,7,agg_Carmel Pt_20200219_T5_7,No
+Carmel Pt,20200219,5,H_cracherodii,20,10,17,NA,1,247,6,agg_Carmel Pt_20200219_T5_6,No
+Carmel Pt,20200219,5,H_cracherodii,40,10,14,12,3,246,5,agg_Carmel Pt_20200219_T5_5,No
+Carmel Pt,20200219,5,H_cracherodii,40,10,14,15,3,246,5,agg_Carmel Pt_20200219_T5_5,No
+Carmel Pt,20200219,5,H_cracherodii,40,10,14,20,3,246,5,agg_Carmel Pt_20200219_T5_5,No
+Carmel Pt,20200219,5,H_cracherodii,15,10,11,10,4,245,4,agg_Carmel Pt_20200219_T5_4,Yes
+Carmel Pt,20200219,5,H_cracherodii,15,10,11,13,4,245,4,agg_Carmel Pt_20200219_T5_4,Yes
+Carmel Pt,20200219,5,H_cracherodii,25,5,11,10,4,245,4,agg_Carmel Pt_20200219_T5_4,Yes
+Carmel Pt,20200219,5,H_cracherodii,25,5,11,15,4,245,4,agg_Carmel Pt_20200219_T5_4,Yes
+Carmel Pt,20200219,5,H_cracherodii,10,5,9,10,1,244,3,agg_Carmel Pt_20200219_T5_3,No
+Carmel Pt,20200219,5,H_cracherodii,30,10,7,20,4,243,2,agg_Carmel Pt_20200219_T5_2,Yes
+Carmel Pt,20200219,5,H_cracherodii,30,10,7,20,4,243,2,agg_Carmel Pt_20200219_T5_2,Yes
+Carmel Pt,20200219,5,H_cracherodii,30,10,7,NA,4,243,2,agg_Carmel Pt_20200219_T5_2,Yes
+Carmel Pt,20200219,5,H_cracherodii,30,10,7,NA,4,243,2,agg_Carmel Pt_20200219_T5_2,Yes
+Carmel Pt,20200219,5,H_cracherodii,25,10,6,NA,2,242,1,agg_Carmel Pt_20200219_T5_1,No
+Carmel Pt,20200219,5,H_cracherodii,25,10,6,NA,2,242,1,agg_Carmel Pt_20200219_T5_1,No
+Carmel Pt,20200224,1,H_cracherodii,35,20,2,15,1,257,1,agg_Carmel Pt_20200224_T1_1,No
+Carmel Pt,20200224,1,H_cracherodii,25,5,3,7,1,258,2,agg_Carmel Pt_20200224_T1_2,No
+Carmel Pt,20200224,1,H_cracherodii,2,3,4,12,1,259,3,agg_Carmel Pt_20200224_T1_3,No
+Carmel Pt,20200224,1,H_cracherodii,13,4,9,9,1,260,4,agg_Carmel Pt_20200224_T1_4,No
+Carmel Pt,20200224,1,H_cracherodii,17,7,13,6,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,7,6,13,4,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,6,13,11,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,6,13,5,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,6,13,4,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,6,13,6,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,6,13,4,7,261,5,agg_Carmel Pt_20200224_T1_5,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,10,17,8,4,263,7,agg_Carmel Pt_20200224_T1_7,Yes
+Carmel Pt,20200224,1,H_cracherodii,15,10,17,4,4,263,7,agg_Carmel Pt_20200224_T1_7,Yes
+Carmel Pt,20200224,1,H_cracherodii,18,10,17,4,4,263,7,agg_Carmel Pt_20200224_T1_7,Yes
+Carmel Pt,20200224,1,H_cracherodii,18,10,17,6,4,263,7,agg_Carmel Pt_20200224_T1_7,Yes
+Carmel Pt,20200224,1,H_cracherodii,25,11,16,15,2,262,6,agg_Carmel Pt_20200224_T1_6,No
+Carmel Pt,20200224,1,H_cracherodii,30,11,16,4,2,262,6,agg_Carmel Pt_20200224_T1_6,No
+Carmel Pt,20200224,1,H_cracherodii,NA,NA,18,15,1,264,8,agg_Carmel Pt_20200224_T1_8,No
+Carmel Pt,20200224,1,H_cracherodii,10,15,25,7,2,265,9,agg_Carmel Pt_20200224_T1_9,No
+Carmel Pt,20200224,1,H_cracherodii,10,15,25,7,2,265,9,agg_Carmel Pt_20200224_T1_9,No
+Cannery Row,20200309,3,H_cracherodii,NA,NA,23,6,1,35,1,agg_Cannery Row_20200309_T3_1,No
+Cannery Row,20200309,7,H_cracherodii,10,5,25,15,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,10,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,15,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,10,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,12,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,7,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,7,H_cracherodii,10,5,25,15,7,36,1,agg_Cannery Row_20200309_T7_1,Yes
+Cannery Row,20200309,1,H_cracherodii,NA,NA,19,7,1,32,1,agg_Cannery Row_20200309_T1_1,No
+Cannery Row,20200309,1,H_cracherodii,13,4,24,5,1,33,2,agg_Cannery Row_20200309_T1_2,No
+Cannery Row,20200309,2,"H_cracherodii
+",50,60,11,11,1,34,1,agg_Cannery Row_20200309_T2_1,No
+Pt Pinos,20210624,3,H_cracherodii,30,5,9,9,1,588,1,agg_Pt Pinos_20210624_T3_1,No
+Pt Pinos,20210624,4,H_cracherodii,15,18,8,12,2,589,1,agg_Pt Pinos_20210624_T4_1,No
+Pt Pinos,20210624,4,H_cracherodii,15,10,8,14,2,589,1,agg_Pt Pinos_20210624_T4_1,No
+Pt Pinos,20210624,4,H_cracherodii,7,23,16,12,1,590,2,agg_Pt Pinos_20210624_T4_2,No
+Pt Pinos,20210624,4,H_cracherodii,16,3,17,7,4,591,3,agg_Pt Pinos_20210624_T4_3,Yes
+Pt Pinos,20210624,4,H_cracherodii,10,19,19,14,3,593,5,agg_Pt Pinos_20210624_T4_5,No
+Pt Pinos,20210624,4,H_cracherodii,8,100,19,16,3,593,5,agg_Pt Pinos_20210624_T4_5,No
+Pt Pinos,20210624,4,H_cracherodii,10,100,19,12,3,593,5,agg_Pt Pinos_20210624_T4_5,No
+Pt Pinos,20210624,4,H_cracherodii,10,100,18,12,3,592,4,agg_Pt Pinos_20210624_T4_4,No
+Pt Pinos,20210624,4,H_cracherodii,7,30,18,8,3,592,4,agg_Pt Pinos_20210624_T4_4,No
+Pt Pinos,20210624,4,H_cracherodii,7,30,18,10,3,592,4,agg_Pt Pinos_20210624_T4_4,No
+Pt Pinos,20210624,4,H_cracherodii,7,55,17,13,4,591,3,agg_Pt Pinos_20210624_T4_3,Yes
+Pt Pinos,20210624,4,H_cracherodii,5,55,17,10,4,591,3,agg_Pt Pinos_20210624_T4_3,Yes
+Pt Pinos,20210624,4,H_cracherodii,3,55,17,4,4,591,3,agg_Pt Pinos_20210624_T4_3,Yes
+Pt Pinos,20210624,2,H_cracherodii,30,7,1,9,2,584,1,agg_Pt Pinos_20210624_T2_1,No
+Pt Pinos,20210624,2,H_cracherodii,25,5,1,7,2,584,1,agg_Pt Pinos_20210624_T2_1,No
+Pt Pinos,20210624,2,H_cracherodii,25,18,2,8,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,60,10,2,12,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,60,10,2,11,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,60,10,2,11,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,60,10,2,11,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,60,10,2,11,6,585,2,agg_Pt Pinos_20210624_T2_2,Yes
+Pt Pinos,20210624,2,H_cracherodii,20,10,4,11,1,586,3,agg_Pt Pinos_20210624_T2_3,No
+Pt Pinos,20210624,2,H_cracherodii,50,7.1,8,9,1,587,4,agg_Pt Pinos_20210624_T2_4,No
+Pt Pinos,20210624,1,H_cracherodii,3,0.5,1,4.5,1,580,1,agg_Pt Pinos_20210624_T1_1,No
+Pt Pinos,20210624,1,H_cracherodii,20,9,17,10,3,581,2,agg_Pt Pinos_20210624_T1_2,No
+Pt Pinos,20210624,1,H_cracherodii,20,9,17,10,3,581,2,agg_Pt Pinos_20210624_T1_2,No
+Pt Pinos,20210624,1,H_cracherodii,30,10,17,11,3,581,2,agg_Pt Pinos_20210624_T1_2,No
+Pt Pinos,20210624,1,H_cracherodii,15,5,18,6,1,582,3,agg_Pt Pinos_20210624_T1_3,No
+Pt Pinos,20210624,1,H_cracherodii,3.8,10,19,13,1,583,4,agg_Pt Pinos_20210624_T1_4,No
+Cannery Row,20210628,5,H_cracherodii,NM,NM,20,9,1,37,1,agg_Cannery Row_20210628_T5_1,No
+Cannery Row,20210628,6,H_cracherodii,45,15,19,10,1,38,1,agg_Cannery Row_20210628_T6_1,No
+Pt Pinos,20210629,5,H_cracherodii,35,10,18,11,1,596,3,agg_Pt Pinos_20210629_T5_3,No
+Pt Pinos,20210629,5,H_cracherodii,40,5,13,8,2,594,1,agg_Pt Pinos_20210629_T5_1,No
+Pt Pinos,20210629,5,H_cracherodii,40,5,13,7,2,594,1,agg_Pt Pinos_20210629_T5_1,No
+Pt Pinos,20210629,5,H_cracherodii,20,9,15,7,2,595,2,agg_Pt Pinos_20210629_T5_2,No
+Pt Pinos,20210629,5,H_cracherodii,40,4,15,12,2,595,2,agg_Pt Pinos_20210629_T5_2,No
+Pt Pinos,20210629,5,H_cracherodii,100,7,20,6,5,598,5,agg_Pt Pinos_20210629_T5_5,Yes
+Pt Pinos,20210629,5,H_cracherodii,100,7,20,6,5,598,5,agg_Pt Pinos_20210629_T5_5,Yes
+Pt Pinos,20210629,5,H_cracherodii,100,7,20,4,5,598,5,agg_Pt Pinos_20210629_T5_5,Yes
+Pt Pinos,20210629,5,H_cracherodii,100,7,20,7,5,598,5,agg_Pt Pinos_20210629_T5_5,Yes
+Pt Pinos,20210629,5,H_cracherodii,100,7,20,16,5,598,5,agg_Pt Pinos_20210629_T5_5,Yes
+Pt Pinos,20210629,5,H_cracherodii,10,3,19,4,1,597,4,agg_Pt Pinos_20210629_T5_4,No
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,8,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,9,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,3,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,8,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,11,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,12,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,50,10,6,7,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,20,10,6,9,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,20,10,6,12,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,20,10,6,7,10,266,1,agg_Carmel Pt_20210710_T1_1,Yes
+Carmel Pt,20210710,1,H_cracherodii,20,10,7,14,3,267,2,agg_Carmel Pt_20210710_T1_2,No
+Carmel Pt,20210710,1,H_cracherodii,20,10,7,12,3,267,2,agg_Carmel Pt_20210710_T1_2,No
+Carmel Pt,20210710,1,H_cracherodii,20,10,7,11,3,267,2,agg_Carmel Pt_20210710_T1_2,No
+Carmel Pt,20210710,1,H_cracherodii,10,5,8,14,5,268,3,agg_Carmel Pt_20210710_T1_3,Yes
+Carmel Pt,20210710,1,H_cracherodii,10,5,8,6,5,268,3,agg_Carmel Pt_20210710_T1_3,Yes
+Carmel Pt,20210710,1,H_cracherodii,10,5,8,10,5,268,3,agg_Carmel Pt_20210710_T1_3,Yes
+Carmel Pt,20210710,1,H_cracherodii,10,5,8,8,5,268,3,agg_Carmel Pt_20210710_T1_3,Yes
+Carmel Pt,20210710,1,H_cracherodii,10,5,8,8,5,268,3,agg_Carmel Pt_20210710_T1_3,Yes
+Carmel Pt,20210710,1,H_cracherodii,15,5,12,12,1,269,4,agg_Carmel Pt_20210710_T1_4,No
+Carmel Pt,20210710,2,H_cracherodii,20,5,22,10,1,270,1,agg_Carmel Pt_20210710_T2_1,No
+Carmel Pt,20210710,3,H_cracherodii,19,5,1,7,2,271,1,agg_Carmel Pt_20210710_T3_1,No
+Carmel Pt,20210710,3,H_cracherodii,25,9,5,10,1,272,2,agg_Carmel Pt_20210710_T3_2,No
+Carmel Pt,20210710,3,H_cracherodii,15,7,1,6,2,271,1,agg_Carmel Pt_20210710_T3_1,No
+Carmel Pt,20210710,3,H_cracherodii,20,17,6,8,1,273,3,agg_Carmel Pt_20210710_T3_3,No
+Carmel Pt,20210711,5,H_cracherodii,30,10,5,9,2,274,1,agg_Carmel Pt_20210711_T5_1,No
+Carmel Pt,20210711,5,H_cracherodii,30,8,5,9,2,274,1,agg_Carmel Pt_20210711_T5_1,No
+Carmel Pt,20210711,5,H_cracherodii,12,4,13,10,1,275,2,agg_Carmel Pt_20210711_T5_2,No
+Carmel Pt,20210711,6,H_cracherodii,25,15,12,7,1,277,2,agg_Carmel Pt_20210711_T6_2,No
+Carmel Pt,20210711,6,H_cracherodii,20,6,4,11,2,276,1,agg_Carmel Pt_20210711_T6_1,No
+Carmel Pt,20210711,6,H_cracherodii,25,5,4,10,2,276,1,agg_Carmel Pt_20210711_T6_1,No
+Carmel Pt,20210711,6,H_cracherodii,10,4,20,8,2,278,3,agg_Carmel Pt_20210711_T6_3,No
+Carmel Pt,20210711,6,H_cracherodii,20,7,20,11,2,278,3,agg_Carmel Pt_20210711_T6_3,No
+Carmel Pt,20210714,4,H_cracherodii,20,15,13,NA,1,279,1,agg_Carmel Pt_20210714_T4_1,No
+Hopkins,20210723,1,H_cracherodii,5,3,6,3,1,460,1,agg_Hopkins_20210723_T1_1,No
+Hopkins,20210723,1,H_cracherodii,30,5,20,10,1,461,2,agg_Hopkins_20210723_T1_2,No
+Hopkins,20210723,2,H_cracherodii,30,10,2,12,1,462,1,agg_Hopkins_20210723_T2_1,No
+Hopkins,20210723,3,H_cracherodii,10,5,20,3,3,463,1,agg_Hopkins_20210723_T3_1,No
+Hopkins,20210723,3,H_cracherodii,10,5,20,6,3,463,1,agg_Hopkins_20210723_T3_1,No
+Hopkins,20210723,3,H_cracherodii,10,5,20,7,3,463,1,agg_Hopkins_20210723_T3_1,No
+Hopkins,20210723,3,H_cracherodii,60,2,23,7,5,464,2,agg_Hopkins_20210723_T3_2,Yes
+Hopkins,20210723,3,H_cracherodii,60,2,23,10,5,464,2,agg_Hopkins_20210723_T3_2,Yes
+Hopkins,20210723,3,H_cracherodii,60,2,23,11,5,464,2,agg_Hopkins_20210723_T3_2,Yes
+Hopkins,20210723,3,H_cracherodii,60,2,23,7,5,464,2,agg_Hopkins_20210723_T3_2,Yes
+Hopkins,20210723,3,H_cracherodii,60,2,23,12,5,464,2,agg_Hopkins_20210723_T3_2,Yes
+Hopkins,20210724,6,H_cracherodii,40,11,20,13,1,465,1,agg_Hopkins_20210724_T6_1,No
+Hopkins,20210724,8,H_cracherodii,30,15,15,9,2,466,1,agg_Hopkins_20210724_T8_1,No
+Hopkins,20210724,8,H_cracherodii,30,15,15,11,2,466,1,agg_Hopkins_20210724_T8_1,No
+Pt Pinos,20220214,2,H_cracherodii,85,25,14,10,1,602,4,agg_Pt Pinos_20220214_T2_4,No
+Pt Pinos,20220214,2,H_cracherodii,25,10,11,7,1,601,3,agg_Pt Pinos_20220214_T2_3,No
+Pt Pinos,20220214,2,H_cracherodii,15,10,3,15,1,600,2,agg_Pt Pinos_20220214_T2_2,No
+Pt Pinos,20220214,2,H_cracherodii,25,10,2,15,2,599,1,agg_Pt Pinos_20220214_T2_1,No
+Pt Pinos,20220214,2,H_cracherodii,55,10,2,15,2,599,1,agg_Pt Pinos_20220214_T2_1,No
+Pt Pinos,20220214,4,H_cracherodii,13,8,7,8,1,603,1,agg_Pt Pinos_20220214_T4_1,No
+Pt Pinos,20220214,4,H_cracherodii,10,25,10,8,2,604,2,agg_Pt Pinos_20220214_T4_2,No
+Pt Pinos,20220214,4,H_cracherodii,35,5,10,12,2,604,2,agg_Pt Pinos_20220214_T4_2,No
+Carmel Pt,20220216,1,H_cracherodii,35,20,18,5,4,285,6,agg_Carmel Pt_20220216_T1_6,Yes
+Carmel Pt,20220216,1,H_cracherodii,35,20,18,4.3,4,285,6,agg_Carmel Pt_20220216_T1_6,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,6,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,6,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,6,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,8,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,5,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,20,5,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,4,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,8,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,8,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,6,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,8,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,19,9,6,286,7,agg_Carmel Pt_20220216_T1_7,Yes
+Carmel Pt,20220216,1,H_cracherodii,20,5,18,4,4,285,6,agg_Carmel Pt_20220216_T1_6,Yes
+Carmel Pt,20220216,1,H_cracherodii,40,5,20,5,7,287,8,agg_Carmel Pt_20220216_T1_8,Yes
+Carmel Pt,20220216,1,H_cracherodii,15,40,15,12,2,283,4,agg_Carmel Pt_20220216_T1_4,No
+Carmel Pt,20220216,1,H_cracherodii,45,30,18,3,4,285,6,agg_Carmel Pt_20220216_T1_6,Yes
+Carmel Pt,20220216,1,H_cracherodii,0,0,16,6,4,284,5,agg_Carmel Pt_20220216_T1_5,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,16,5,4,284,5,agg_Carmel Pt_20220216_T1_5,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,16,7,4,284,5,agg_Carmel Pt_20220216_T1_5,Yes
+Carmel Pt,20220216,1,H_cracherodii,45,20,16,12,4,284,5,agg_Carmel Pt_20220216_T1_5,Yes
+Carmel Pt,20220216,1,H_cracherodii,35,10,14,10,1,282,3,agg_Carmel Pt_20220216_T1_3,No
+Carmel Pt,20220216,1,H_cracherodii,30,15,15,10,2,283,4,agg_Carmel Pt_20220216_T1_4,No
+Carmel Pt,20220216,1,H_cracherodii,60,5,10,8,1,281,2,agg_Carmel Pt_20220216_T1_2,No
+Carmel Pt,20220216,1,H_cracherodii,5,4,0,8,1,280,1,agg_Carmel Pt_20220216_T1_1,No
+Carmel Pt,20220216,2,H_cracherodii,6,20,4,6,1,288,1,agg_Carmel Pt_20220216_T2_1,No
+Carmel Pt,20220216,2,H_cracherodii,25,15,12,12,1,289,2,agg_Carmel Pt_20220216_T2_2,No
+Carmel Pt,20220216,2,H_cracherodii,15,7,16,13,1,291,4,agg_Carmel Pt_20220216_T2_4,No
+Carmel Pt,20220216,2,H_cracherodii,15,35,17,10,2,292,5,agg_Carmel Pt_20220216_T2_5,No
+Carmel Pt,20220216,2,H_cracherodii,20,10,15,8,1,290,3,agg_Carmel Pt_20220216_T2_3,No
+Carmel Pt,20220216,2,H_cracherodii,15,35,20,11,1,293,6,agg_Carmel Pt_20220216_T2_6,No
+Carmel Pt,20220216,2,H_cracherodii,15,35,17,10,2,292,5,agg_Carmel Pt_20220216_T2_5,No
+Carmel Pt,20220216,3,H_cracherodii,45,5,2,11,1,294,1,agg_Carmel Pt_20220216_T3_1,No
+Carmel Pt,20220216,3,H_cracherodii,65,25,6,12,1,295,2,agg_Carmel Pt_20220216_T3_2,No
+Carmel Pt,20220216,3,H_cracherodii,60,5,17,10,5,299,6,agg_Carmel Pt_20220216_T3_6,Yes
+Carmel Pt,20220216,3,H_cracherodii,45,2,17,12,5,299,6,agg_Carmel Pt_20220216_T3_6,Yes
+Carmel Pt,20220216,3,H_cracherodii,50,3,17,10,5,299,6,agg_Carmel Pt_20220216_T3_6,Yes
+Carmel Pt,20220216,3,H_cracherodii,60,5,17,11,5,299,6,agg_Carmel Pt_20220216_T3_6,Yes
+Carmel Pt,20220216,3,H_cracherodii,60,8,17,11,5,299,6,agg_Carmel Pt_20220216_T3_6,Yes
+Carmel Pt,20220216,3,H_cracherodii,35,20,12,11,1,298,5,agg_Carmel Pt_20220216_T3_5,No
+Carmel Pt,20220216,3,H_cracherodii,60,11,11,15,1,297,4,agg_Carmel Pt_20220216_T3_4,No
+Carmel Pt,20220216,3,H_cracherodii,27,16,7,11,1,296,3,agg_Carmel Pt_20220216_T3_3,No
+Carmel Pt,20220216,4,H_cracherodii,20,5,17,14,2,305,6,agg_Carmel Pt_20220216_T4_6,No
+Carmel Pt,20220216,4,H_cracherodii,15,5,17,14,2,305,6,agg_Carmel Pt_20220216_T4_6,No
+Carmel Pt,20220216,4,H_cracherodii,50,17.5,15,12,5,304,5,agg_Carmel Pt_20220216_T4_5,Yes
+Carmel Pt,20220216,4,H_cracherodii,50,17.5,15,12,5,304,5,agg_Carmel Pt_20220216_T4_5,Yes
+Carmel Pt,20220216,4,H_cracherodii,50,17.5,15,8,5,304,5,agg_Carmel Pt_20220216_T4_5,Yes
+Carmel Pt,20220216,4,H_cracherodii,50,17.5,15,12,5,304,5,agg_Carmel Pt_20220216_T4_5,Yes
+Carmel Pt,20220216,4,H_cracherodii,7,5,15,10,5,304,5,agg_Carmel Pt_20220216_T4_5,Yes
+Carmel Pt,20220216,4,H_cracherodii,5,5,13,8,2,303,4,agg_Carmel Pt_20220216_T4_4,No
+Carmel Pt,20220216,4,H_cracherodii,40,20,13,14,2,303,4,agg_Carmel Pt_20220216_T4_4,No
+Carmel Pt,20220216,4,H_cracherodii,5,5,3,9,3,301,2,agg_Carmel Pt_20220216_T4_2,No
+Carmel Pt,20220216,4,H_cracherodii,5,5,3,9,3,301,2,agg_Carmel Pt_20220216_T4_2,No
+Carmel Pt,20220216,4,H_cracherodii,45,5,3,10,3,301,2,agg_Carmel Pt_20220216_T4_2,No
+Carmel Pt,20220216,4,H_cracherodii,10,3,2,7,2,300,1,agg_Carmel Pt_20220216_T4_1,No
+Carmel Pt,20220216,4,H_cracherodii,15,5,7,13,1,302,3,agg_Carmel Pt_20220216_T4_3,No
+Carmel Pt,20220216,4,H_cracherodii,10,3,2,12,2,300,1,agg_Carmel Pt_20220216_T4_1,No
+Cannery Row,20220228,2,H_cracherodii,10,15,10,9.5,1,41,3,agg_Cannery Row_20220228_T2_3,No
+Cannery Row,20220228,2,H_cracherodii,20,3,3,4,1,39,1,agg_Cannery Row_20220228_T2_1,No
+Cannery Row,20220228,2,H_cracherodii,0,0,16,4,1,42,4,agg_Cannery Row_20220228_T2_4,No
+Cannery Row,20220228,2,H_cracherodii,75,1,6,10,4,40,2,agg_Cannery Row_20220228_T2_2,Yes
+Cannery Row,20220228,2,H_cracherodii,60,3,6,3.5,4,40,2,agg_Cannery Row_20220228_T2_2,Yes
+Cannery Row,20220228,2,H_cracherodii,80,3,6,3,4,40,2,agg_Cannery Row_20220228_T2_2,Yes
+Cannery Row,20220228,2,H_cracherodii,50,3,6,5,4,40,2,agg_Cannery Row_20220228_T2_2,Yes
+Pt Pinos,20220302,5,H_cracherodii,15,7,8,14,1,605,1,agg_Pt Pinos_20220302_T5_1,No
+Pt Pinos,20220302,6,H_cracherodii,10,6,7,8,1,606,1,agg_Pt Pinos_20220302_T6_1,No
+Pt Pinos,20220302,6,H_cracherodii,50,4,11,6,2,607,2,agg_Pt Pinos_20220302_T6_2,No
+Pt Pinos,20220302,6,H_cracherodii,60,12,11,10,2,607,2,agg_Pt Pinos_20220302_T6_2,No
+Hopkins,20220314,2,H_cracherodii,120,7,20,13,2,467,1,agg_Hopkins_20220314_T2_1,No
+Hopkins,20220314,2,H_cracherodii,120,7,20,8,2,467,1,agg_Hopkins_20220314_T2_1,No
+Hopkins,20220314,5,H_cracherodii,8,4,14,5,1,471,4,agg_Hopkins_20220314_T5_4,No
+Hopkins,20220314,5,H_cracherodii,18,5,10,10,1,470,3,agg_Hopkins_20220314_T5_3,No
+Hopkins,20220314,5,H_cracherodii,35,7,8,10,1,469,2,agg_Hopkins_20220314_T5_2,No
+Hopkins,20220314,5,H_cracherodii,10,5,7,6,1,468,1,agg_Hopkins_20220314_T5_1,No
+Carmel Pt,20220411,5,H_cracherodii,37,25,17,7.5,1,308,3,agg_Carmel Pt_20220411_T5_3,No
+Carmel Pt,20220411,5,H_cracherodii,5,3,6,5,3,306,1,agg_Carmel Pt_20220411_T5_1,No
+Carmel Pt,20220411,5,H_cracherodii,10,4,6,5,3,306,1,agg_Carmel Pt_20220411_T5_1,No
+Carmel Pt,20220411,5,H_cracherodii,15,7,6,6,3,306,1,agg_Carmel Pt_20220411_T5_1,No
+Carmel Pt,20220411,5,H_cracherodii,10,6,8,12,1,307,2,agg_Carmel Pt_20220411_T5_2,No
+Carmel Pt,20220411,6,H_cracherodii,15,10,11,7,1,309,1,agg_Carmel Pt_20220411_T6_1,No
+Carmel Pt,20220411,6,H_cracherodii,5,3,18,11,2,310,2,agg_Carmel Pt_20220411_T6_2,No
+Carmel Pt,20220411,6,H_cracherodii,15,4,18,13,2,310,2,agg_Carmel Pt_20220411_T6_2,No
+Carmel Pt,20220411,6,H_cracherodii,15,3,19,11,2,311,3,agg_Carmel Pt_20220411_T6_3,No
+Carmel Pt,20220411,6,H_cracherodii,15,4,19,13.5,2,311,3,agg_Carmel Pt_20220411_T6_3,No
+Pt Pinos,20220613,1,H_cracherodii,50,7,6,14,1,608,1,agg_Pt Pinos_20220613_T1_1,No
+Pt Pinos,20220613,1,H_cracherodii,50,5,7,13,1,609,2,agg_Pt Pinos_20220613_T1_2,No
+Pt Pinos,20220613,1,H_cracherodii,15,4,20,6,1,611,4,agg_Pt Pinos_20220613_T1_4,No
+Pt Pinos,20220613,1,H_cracherodii,55,6,19,6,1,610,3,agg_Pt Pinos_20220613_T1_3,No
+Pt Pinos,20220614,3,H_cracherodii,40,22,6,9,1,612,1,agg_Pt Pinos_20220614_T3_1,No
+Cannery Row,20220615,3,H_cracherodii,22,4,25,8,4,44,2,agg_Cannery Row_20220615_T3_2,Yes
+Cannery Row,20220615,3,H_cracherodii,20,4,25,9,4,44,2,agg_Cannery Row_20220615_T3_2,Yes
+Cannery Row,20220615,3,H_cracherodii,10,4,25,3,4,44,2,agg_Cannery Row_20220615_T3_2,Yes
+Cannery Row,20220615,3,H_cracherodii,50,3,25,4,4,44,2,agg_Cannery Row_20220615_T3_2,Yes
+Cannery Row,20220615,3,H_cracherodii,26,5,24,7,4,43,1,agg_Cannery Row_20220615_T3_1,Yes
+Cannery Row,20220615,3,H_cracherodii,26,5,24,6,4,43,1,agg_Cannery Row_20220615_T3_1,Yes
+Cannery Row,20220615,3,H_cracherodii,26,5,24,4,4,43,1,agg_Cannery Row_20220615_T3_1,Yes
+Cannery Row,20220615,3,H_cracherodii,26,3,24,5,4,43,1,agg_Cannery Row_20220615_T3_1,Yes
+Cannery Row,20220616,5,H_cracherodii,25,5,20,9,1,45,1,agg_Cannery Row_20220616_T5_1,No
+Pt Pinos,20220618,4,H_cracherodii,15,5,8,10,1,613,1,agg_Pt Pinos_20220618_T4_1,No
+Pt Pinos,20220618,4,H_cracherodii,10,9,16,7,1,614,2,agg_Pt Pinos_20220618_T4_2,No
+Pt Pinos,20220627,6,H_cracherodii,30,15,17,10,1,617,3,agg_Pt Pinos_20220627_T6_3,No
+Pt Pinos,20220627,6,H_cracherodii,20,40,14,11,1,616,2,agg_Pt Pinos_20220627_T6_2,No
+Pt Pinos,20220627,6,H_cracherodii,48,5,3,15,1,615,1,agg_Pt Pinos_20220627_T6_1,No
+Hopkins,20220630,6,H_cracherodii,20,4,2,8,2,474,1,agg_Hopkins_20220630_T6_1,No
+Hopkins,20220630,6,H_cracherodii,20,4,2,12,2,474,1,agg_Hopkins_20220630_T6_1,No
+Hopkins,20220630,6,H_cracherodii,55,5,3,5,1,475,2,agg_Hopkins_20220630_T6_2,No
+Hopkins,20220630,6,H_cracherodii,30,7,4,12,1,476,3,agg_Hopkins_20220630_T6_3,No
+Hopkins,20220630,4,H_cracherodii,25,4,8,7,2,473,2,agg_Hopkins_20220630_T4_2,No
+Hopkins,20220630,4,H_cracherodii,35,4,8,6,2,473,2,agg_Hopkins_20220630_T4_2,No
+Hopkins,20220630,4,H_cracherodii,120,10,7,11,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,12,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,8,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,12,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,9,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,6,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,11,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220630,4,H_cracherodii,120,10,7,8,8,472,1,agg_Hopkins_20220630_T4_1,Yes
+Hopkins,20220701,7,H_cracherodii,25,15,7,10,1,477,1,agg_Hopkins_20220701_T7_1,No
+Carmel Pt,20220717,1,H_cracherodii,15,10,3,13,2,312,1,agg_Carmel Pt_20220717_T1_1,No
+Carmel Pt,20220717,1,H_cracherodii,15,10,3,10,2,312,1,agg_Carmel Pt_20220717_T1_1,No
+Carmel Pt,20220717,1,H_cracherodii,55,5,4,10,1,313,2,agg_Carmel Pt_20220717_T1_2,No
+Carmel Pt,20220717,1,H_cracherodii,50,5,8,8,3,314,3,agg_Carmel Pt_20220717_T1_3,No
+Carmel Pt,20220717,1,H_cracherodii,50,5,8,10,3,314,3,agg_Carmel Pt_20220717_T1_3,No
+Carmel Pt,20220717,1,H_cracherodii,20,8,8,15,3,314,3,agg_Carmel Pt_20220717_T1_3,No
+Carmel Pt,20220717,1,H_cracherodii,80,10,9,16,5,315,4,agg_Carmel Pt_20220717_T1_4,Yes
+Carmel Pt,20220717,1,H_cracherodii,30,10,9,7,5,315,4,agg_Carmel Pt_20220717_T1_4,Yes
+Carmel Pt,20220717,1,H_cracherodii,30,10,9,15,5,315,4,agg_Carmel Pt_20220717_T1_4,Yes
+Carmel Pt,20220717,1,H_cracherodii,20,5,9,10,5,315,4,agg_Carmel Pt_20220717_T1_4,Yes
+Carmel Pt,20220717,1,H_cracherodii,20,5,9,6,5,315,4,agg_Carmel Pt_20220717_T1_4,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,15,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,15,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,12,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,13,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,10,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,14,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,15,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,13,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,20,10,13,10,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,90,12,13,14,10,316,5,agg_Carmel Pt_20220717_T1_5,Yes
+Carmel Pt,20220717,1,H_cracherodii,30,4,15,16,1,317,6,agg_Carmel Pt_20220717_T1_6,No
+Carmel Pt,20220717,1,H_cracherodii,25,10,20,11,1,318,7,agg_Carmel Pt_20220717_T1_7,No
+Carmel Pt,20220717,2,H_cracherodii,10,4,2,10,3,319,1,agg_Carmel Pt_20220717_T2_1,No
+Carmel Pt,20220717,2,H_cracherodii,15,4,2,13,3,319,1,agg_Carmel Pt_20220717_T2_1,No
+Carmel Pt,20220717,2,H_cracherodii,20,4,2,8,3,319,1,agg_Carmel Pt_20220717_T2_1,No
+Carmel Pt,20220717,2,H_cracherodii,15,4,4,11,1,320,2,agg_Carmel Pt_20220717_T2_2,No
+Carmel Pt,20220717,2,H_cracherodii,75,8,12,12,1,321,3,agg_Carmel Pt_20220717_T2_3,No
+Carmel Pt,20220717,2,H_cracherodii,5,6,14,8,1,322,4,agg_Carmel Pt_20220717_T2_4,No
+Carmel Pt,20220727,3,H_cracherodii,50,5,2,10,1,323,1,agg_Carmel Pt_20220727_T3_1,No
+Carmel Pt,20220727,3,H_cracherodii,50,9,3,15,1,324,2,agg_Carmel Pt_20220727_T3_2,No
+Carmel Pt,20220728,4,H_cracherodii,4,6,2,10,3,325,1,agg_Carmel Pt_20220728_T4_1,No
+Carmel Pt,20220728,4,H_cracherodii,5,6,2,7,3,325,1,agg_Carmel Pt_20220728_T4_1,No
+Carmel Pt,20220728,4,H_cracherodii,5,6,2,7,3,325,1,agg_Carmel Pt_20220728_T4_1,No
+Carmel Pt,20220728,4,H_cracherodii,15,7,8,11,3,327,3,agg_Carmel Pt_20220728_T4_3,No
+Carmel Pt,20220728,4,H_cracherodii,20,7,8,12,3,327,3,agg_Carmel Pt_20220728_T4_3,No
+Carmel Pt,20220728,4,H_cracherodii,22,7,8,9,3,327,3,agg_Carmel Pt_20220728_T4_3,No
+Carmel Pt,20220728,4,H_cracherodii,15,12,5,5,1,326,2,agg_Carmel Pt_20220728_T4_2,No
+Carmel Pt,20220730,5,H_cracherodii,20,4,19,7,1,330,3,agg_Carmel Pt_20220730_T5_3,No
+Carmel Pt,20220730,5,H_cracherodii,10,5,8,10,1,329,2,agg_Carmel Pt_20220730_T5_2,No
+Carmel Pt,20220730,5,H_cracherodii,10,4,5,9,1,328,1,agg_Carmel Pt_20220730_T5_1,No
+Soberanes,20220810,1,H_cracherodii,NA,NA,11,8,2,668,3,agg_Soberanes_20220810_T1_3,No
+Soberanes,20220810,1,H_cracherodii,10,5,11,5,2,668,3,agg_Soberanes_20220810_T1_3,No
+Soberanes,20220810,1,H_cracherodii,NA,5,4,10,1,666,1,agg_Soberanes_20220810_T1_1,No
+Soberanes,20220810,1,H_cracherodii,10,NA,5,10,1,667,2,agg_Soberanes_20220810_T1_2,No
+Soberanes,20220814,4,H_cracherodii,19,3,3,5,1,669,1,agg_Soberanes_20220814_T4_1,No
+Pt Pinos,20230306,2,H_cracherodii,10,7,19,8,1,621,1,agg_Pt Pinos_20230306_T2_1,No
+Pt Pinos,20230306,1,H_cracherodii,5,2.5,17,6,3,619,2,agg_Pt Pinos_20230306_T1_2,No
+Pt Pinos,20230306,1,H_cracherodii,45,7,15,11,3,618,1,agg_Pt Pinos_20230306_T1_1,No
+Pt Pinos,20230306,1,H_cracherodii,55,6,17,7,3,619,2,agg_Pt Pinos_20230306_T1_2,No
+Pt Pinos,20230306,1,H_cracherodii,55,6,17,10,3,619,2,agg_Pt Pinos_20230306_T1_2,No
+Pt Pinos,20230306,1,H_cracherodii,15,5,15,6,3,618,1,agg_Pt Pinos_20230306_T1_1,No
+Pt Pinos,20230306,1,H_cracherodii,15,5,15,7,3,618,1,agg_Pt Pinos_20230306_T1_1,No
+Pt Pinos,20230306,1,H_cracherodii,15,2,19,4,1,620,3,agg_Pt Pinos_20230306_T1_3,No
+Cannery Row,20230319,2,H_cracherodii,35,60,12,15,3,46,1,agg_Cannery Row_20230319_T2_1,No
+Cannery Row,20230319,2,H_cracherodii,35,60,12,15,3,46,1,agg_Cannery Row_20230319_T2_1,No
+Cannery Row,20230319,2,H_cracherodii,20,15,12,20,3,46,1,agg_Cannery Row_20230319_T2_1,No
+Cannery Row,20230319,3,H_cracherodii,35,15,5,4,5,48,2,agg_Cannery Row_20230319_T3_2,Yes
+Cannery Row,20230319,3,H_cracherodii,35,15,5,8,5,48,2,agg_Cannery Row_20230319_T3_2,Yes
+Cannery Row,20230319,3,H_cracherodii,35,15,5,6,5,48,2,agg_Cannery Row_20230319_T3_2,Yes
+Cannery Row,20230319,3,H_cracherodii,35,15,5,4,5,48,2,agg_Cannery Row_20230319_T3_2,Yes
+Cannery Row,20230319,3,H_cracherodii,35,15,5,5,5,48,2,agg_Cannery Row_20230319_T3_2,Yes
+Cannery Row,20230319,3,H_cracherodii,40,10,1,6,2,47,1,agg_Cannery Row_20230319_T3_1,No
+Cannery Row,20230319,3,H_cracherodii,40,10,1,11,2,47,1,agg_Cannery Row_20230319_T3_1,No
+Cannery Row,20230319,3,H_cracherodii,20,5,12,12,1,49,3,agg_Cannery Row_20230319_T3_3,No
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,6,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,6,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,5,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Pt Pinos,20230320,4,H_cracherodii,16,4,16,10.5,1,623,1,agg_Pt Pinos_20230320_T4_1,No
+Pt Pinos,20230320,4,H_cracherodii,30,15,17,10,1,624,2,agg_Pt Pinos_20230320_T4_2,No
+Pt Pinos,20230320,6,H_cracherodii,5,5,17,10,4,625,1,agg_Pt Pinos_20230320_T6_1,Yes
+Pt Pinos,20230320,6,H_cracherodii,10,5,17,5,4,625,1,agg_Pt Pinos_20230320_T6_1,Yes
+Pt Pinos,20230320,6,H_cracherodii,10,5,17,5,4,625,1,agg_Pt Pinos_20230320_T6_1,Yes
+Pt Pinos,20230320,6,H_cracherodii,10,5,17,15,4,625,1,agg_Pt Pinos_20230320_T6_1,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,10,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,15,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,8,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,8,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,8,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,6,H_cracherodii,150,7,19,8,6,626,2,agg_Pt Pinos_20230320_T6_2,Yes
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,6,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,6,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Pt Pinos,20230320,3,H_cracherodii,20,8,14,5,6,622,1,agg_Pt Pinos_20230320_T3_1,Yes
+Hopkins,20230412,2,H_cracherodii,25,20,1,7,1,478,1,agg_Hopkins_20230412_T2_1,No
+Hopkins,20230412,3,H_cracherodii,80,15,7,5,4,479,1,agg_Hopkins_20230412_T3_1,Yes
+Hopkins,20230412,3,H_cracherodii,80,15,7,8,4,479,1,agg_Hopkins_20230412_T3_1,Yes
+Hopkins,20230412,3,H_cracherodii,80,15,7,4,4,479,1,agg_Hopkins_20230412_T3_1,Yes
+Hopkins,20230412,3,H_cracherodii,80,15,7,13,4,479,1,agg_Hopkins_20230412_T3_1,Yes
+Hopkins,20230412,3,H_cracherodii,50,10,13,14,1,480,2,agg_Hopkins_20230412_T3_2,No
+Hopkins,20230412,3,H_cracherodii,50,10,14,10,1,481,3,agg_Hopkins_20230412_T3_3,No
+Hopkins,20230412,3,H_cracherodii,80,20,17,12,2,482,4,agg_Hopkins_20230412_T3_4,No
+Hopkins,20230412,3,H_cracherodii,80,20,17,14,2,482,4,agg_Hopkins_20230412_T3_4,No
+Hopkins,20230412,3,H_cracherodii,90,20,18,8,1,483,5,agg_Hopkins_20230412_T3_5,No
+Hopkins,20230416,5,H_cracherodii,15,26,4,7,2,485,1,agg_Hopkins_20230416_T5_1,No
+Hopkins,20230416,5,H_cracherodii,15,26,4,10,2,485,1,agg_Hopkins_20230416_T5_1,No
+Hopkins,20230416,4,H_cracherodii,40,6,16,1.9,1,484,1,agg_Hopkins_20230416_T4_1,No
+Carmel Pt,20230417,1,H_cracherodii,20,5,2,8,4,331,1,agg_Carmel Pt_20230417_T1_1,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,2,8,4,331,1,agg_Carmel Pt_20230417_T1_1,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,2,11,4,331,1,agg_Carmel Pt_20230417_T1_1,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,3,4,7,1,332,2,agg_Carmel Pt_20230417_T1_2,No
+Carmel Pt,20230417,1,H_cracherodii,15,3,2,10,4,331,1,agg_Carmel Pt_20230417_T1_1,Yes
+Carmel Pt,20230417,1,H_cracherodii,30,10,9,11,5,333,3,agg_Carmel Pt_20230417_T1_3,Yes
+Carmel Pt,20230417,1,H_cracherodii,30,10,9,8,5,333,3,agg_Carmel Pt_20230417_T1_3,Yes
+Carmel Pt,20230417,1,H_cracherodii,40,10,9,15,5,333,3,agg_Carmel Pt_20230417_T1_3,Yes
+Carmel Pt,20230417,1,H_cracherodii,40,10,9,10,5,333,3,agg_Carmel Pt_20230417_T1_3,Yes
+Carmel Pt,20230417,1,H_cracherodii,40,10,9,6,5,333,3,agg_Carmel Pt_20230417_T1_3,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,15,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,14,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,12,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,16,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,11,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,11,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,12,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,6,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,20,5,13,3,9,334,4,agg_Carmel Pt_20230417_T1_4,Yes
+Carmel Pt,20230417,1,H_cracherodii,25,5,14,6,2,335,5,agg_Carmel Pt_20230417_T1_5,No
+Carmel Pt,20230417,1,H_cracherodii,25,5,14,7,2,335,5,agg_Carmel Pt_20230417_T1_5,No
+Carmel Pt,20230417,2,H_cracherodii,23,15,3,10,4,336,1,agg_Carmel Pt_20230417_T2_1,Yes
+Carmel Pt,20230417,2,H_cracherodii,23,15,3,11,4,336,1,agg_Carmel Pt_20230417_T2_1,Yes
+Carmel Pt,20230417,2,H_cracherodii,23,15,3,12,4,336,1,agg_Carmel Pt_20230417_T2_1,Yes
+Carmel Pt,20230417,2,H_cracherodii,23,15,3,12,4,336,1,agg_Carmel Pt_20230417_T2_1,Yes
+Carmel Pt,20230417,2,H_cracherodii,24,15,5,12,3,337,2,agg_Carmel Pt_20230417_T2_2,No
+Carmel Pt,20230417,2,H_cracherodii,24,15,5,13,3,337,2,agg_Carmel Pt_20230417_T2_2,No
+Carmel Pt,20230417,2,H_cracherodii,24,15,5,11,3,337,2,agg_Carmel Pt_20230417_T2_2,No
+Carmel Pt,20230417,2,H_cracherodii,NA,NA,8,9,1,338,3,agg_Carmel Pt_20230417_T2_3,No
+Carmel Pt,20230417,2,H_cracherodii,15,6,10,10,2,339,4,agg_Carmel Pt_20230417_T2_4,No
+Carmel Pt,20230417,2,H_cracherodii,10,7,10,7,2,339,4,agg_Carmel Pt_20230417_T2_4,No
+Carmel Pt,20230417,2,H_cracherodii,7.5,3.5,11,3,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,7.5,3.5,11,2.5,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,7.5,3.5,11,2.5,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,7.5,3.5,11,2.5,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,10,1.5,11,2.5,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,10,1.5,11,1.5,6,340,5,agg_Carmel Pt_20230417_T2_5,Yes
+Carmel Pt,20230417,2,H_cracherodii,25,2.5,14,2,2,341,6,agg_Carmel Pt_20230417_T2_6,No
+Carmel Pt,20230417,2,H_cracherodii,15,6,14,7,2,341,6,agg_Carmel Pt_20230417_T2_6,No
+Carmel Pt,20230417,2,H_cracherodii,20,15,19,10,1,342,7,agg_Carmel Pt_20230417_T2_7,No
+Carmel Pt,20230417,3,H_cracherodii,15,10,3,10,3,344,2,agg_Carmel Pt_20230417_T3_2,No
+Carmel Pt,20230417,3,H_cracherodii,15,10,3,15,3,344,2,agg_Carmel Pt_20230417_T3_2,No
+Carmel Pt,20230417,3,H_cracherodii,15,10,3,15,3,344,2,agg_Carmel Pt_20230417_T3_2,No
+Carmel Pt,20230417,3,H_cracherodii,60,20,4,10,4,345,3,agg_Carmel Pt_20230417_T3_3,Yes
+Carmel Pt,20230417,3,H_cracherodii,60,20,4,10,4,345,3,agg_Carmel Pt_20230417_T3_3,Yes
+Carmel Pt,20230417,3,H_cracherodii,60,20,4,15,4,345,3,agg_Carmel Pt_20230417_T3_3,Yes
+Carmel Pt,20230417,3,H_cracherodii,60,20,4,15,4,345,3,agg_Carmel Pt_20230417_T3_3,Yes
+Carmel Pt,20230417,3,H_cracherodii,15,10,2,15,2,343,1,agg_Carmel Pt_20230417_T3_1,No
+Carmel Pt,20230417,3,H_cracherodii,55,20,2,15,2,343,1,agg_Carmel Pt_20230417_T3_1,No
+Carmel Pt,20230417,3,H_cracherodii,25,10,20,12,1,346,4,agg_Carmel Pt_20230417_T3_4,No
+Carmel Pt,20230417,4,H_cracherodii,30,5,19,10,1,348,2,agg_Carmel Pt_20230417_T4_2,No
+Carmel Pt,20230417,4,H_cracherodii,5,3,15,5,1,347,1,agg_Carmel Pt_20230417_T4_1,No
+Soberanes,20230422,1,H_cracherodii,10,15,6,10,2,670,1,agg_Soberanes_20230422_T1_1,No
+Soberanes,20230422,1,H_cracherodii,10,10,6,6,2,670,1,agg_Soberanes_20230422_T1_1,No
+Soberanes,20230422,3,H_cracherodii,10,7,4,5,1,671,1,agg_Soberanes_20230422_T3_1,No
+Soberanes,20230422,3,H_cracherodii,11,10,6,7,1,672,2,agg_Soberanes_20230422_T3_2,No
+Soberanes,20230422,3,H_cracherodii,7,10,7,4,1,673,3,agg_Soberanes_20230422_T3_3,No
+Soberanes,20230422,3,H_cracherodii,6,6,9,4,5,674,4,agg_Soberanes_20230422_T3_4,Yes
+Soberanes,20230422,3,H_cracherodii,15,10,9,8,5,674,4,agg_Soberanes_20230422_T3_4,Yes
+Soberanes,20230422,3,H_cracherodii,15,10,9,9,5,674,4,agg_Soberanes_20230422_T3_4,Yes
+Soberanes,20230422,3,H_cracherodii,15,10,9,8,5,674,4,agg_Soberanes_20230422_T3_4,Yes
+Soberanes,20230422,3,H_cracherodii,15,10,9,3,5,674,4,agg_Soberanes_20230422_T3_4,Yes
+Soberanes,20230422,3,H_cracherodii,15,18,11,8,1,675,5,agg_Soberanes_20230422_T3_5,No
+Soberanes,20230422,3,H_cracherodii,25,20,14,5,2,676,6,agg_Soberanes_20230422_T3_6,No
+Soberanes,20230422,3,H_cracherodii,8,15,14,7,2,676,6,agg_Soberanes_20230422_T3_6,No
+Soberanes,20230422,3,H_cracherodii,30,20,15,9,5,677,7,agg_Soberanes_20230422_T3_7,Yes
+Soberanes,20230422,3,H_cracherodii,30,20,15,9,5,677,7,agg_Soberanes_20230422_T3_7,Yes
+Soberanes,20230422,3,H_cracherodii,30,20,15,10,5,677,7,agg_Soberanes_20230422_T3_7,Yes
+Soberanes,20230422,3,H_cracherodii,30,20,15,5,5,677,7,agg_Soberanes_20230422_T3_7,Yes
+Soberanes,20230422,3,H_cracherodii,5,5,15,5,5,677,7,agg_Soberanes_20230422_T3_7,Yes
+Soberanes,20230422,3,H_cracherodii,NA,NA,16,8,1,678,8,agg_Soberanes_20230422_T3_8,No
+Soberanes,20230422,3,H_cracherodii,10,10,19,9,1,679,9,agg_Soberanes_20230422_T3_9,No
+Soberanes,20230422,3,H_cracherodii,10,5,20,12,2,680,10,agg_Soberanes_20230422_T3_10,No
+Soberanes,20230422,3,H_cracherodii,10,5,20,11,2,680,10,agg_Soberanes_20230422_T3_10,No
+Soberanes,20230422,4,H_cracherodii,25,17,1,7,1,681,1,agg_Soberanes_20230422_T4_1,No
+Soberanes,20230422,4,H_cracherodii,5,10,5,10,1,682,2,agg_Soberanes_20230422_T4_2,No
+Soberanes,20230422,4,H_cracherodii,13,5,7,10,5,683,3,agg_Soberanes_20230422_T4_3,Yes
+Soberanes,20230422,4,H_cracherodii,13,5,7,7,5,683,3,agg_Soberanes_20230422_T4_3,Yes
+Soberanes,20230422,4,H_cracherodii,13,5,7,2,5,683,3,agg_Soberanes_20230422_T4_3,Yes
+Soberanes,20230422,4,H_cracherodii,12,10,7,6,5,683,3,agg_Soberanes_20230422_T4_3,Yes
+Soberanes,20230422,4,H_cracherodii,10,12,7,8,5,683,3,agg_Soberanes_20230422_T4_3,Yes
+Soberanes,20230422,4,H_cracherodii,10,4,12,8,3,684,4,agg_Soberanes_20230422_T4_4,No
+Soberanes,20230422,4,H_cracherodii,25,7,12,11,3,684,4,agg_Soberanes_20230422_T4_4,No
+Soberanes,20230422,4,H_cracherodii,25,7,12,2,3,684,4,agg_Soberanes_20230422_T4_4,No
+Soberanes,20230422,4,H_cracherodii,5,7,15,3,2,685,5,agg_Soberanes_20230422_T4_5,No
+Soberanes,20230422,4,H_cracherodii,15,7,15,3,2,685,5,agg_Soberanes_20230422_T4_5,No
+Soberanes,20230422,4,H_cracherodii,10,9,17,9,1,686,6,agg_Soberanes_20230422_T4_6,No
+Carmel Pt,20230703,1,H_cracherodii,50,10,3,12,2,349,1,agg_Carmel Pt_20230703_T1_1,No
+Carmel Pt,20230703,1,H_cracherodii,50,10,3,9,2,349,1,agg_Carmel Pt_20230703_T1_1,No
+Carmel Pt,20230703,1,H_cracherodii,65,21,7,11,3,350,2,agg_Carmel Pt_20230703_T1_2,No
+Carmel Pt,20230703,1,H_cracherodii,65,21,7,7,3,350,2,agg_Carmel Pt_20230703_T1_2,No
+Carmel Pt,20230703,1,H_cracherodii,65,21,7,6,3,350,2,agg_Carmel Pt_20230703_T1_2,No
+Carmel Pt,20230703,1,H_cracherodii,0,0,9,10,5,352,4,agg_Carmel Pt_20230703_T1_4,Yes
+Carmel Pt,20230703,1,H_cracherodii,20,15,8,5,2,351,3,agg_Carmel Pt_20230703_T1_3,No
+Carmel Pt,20230703,1,H_cracherodii,20,15,8,12,2,351,3,agg_Carmel Pt_20230703_T1_3,No
+Carmel Pt,20230703,1,H_cracherodii,25,8,9,11,5,352,4,agg_Carmel Pt_20230703_T1_4,Yes
+Carmel Pt,20230703,1,H_cracherodii,25,8,9,10,5,352,4,agg_Carmel Pt_20230703_T1_4,Yes
+Carmel Pt,20230703,1,H_cracherodii,25,8,9,13,5,352,4,agg_Carmel Pt_20230703_T1_4,Yes
+Carmel Pt,20230703,1,H_cracherodii,25,8,9,7,5,352,4,agg_Carmel Pt_20230703_T1_4,Yes
+Soberanes,20230704,2,H_cracherodii,20,20,3,4,2,688,2,agg_Soberanes_20230704_T2_2,No
+Soberanes,20230704,2,H_cracherodii,20,20,3,6,2,688,2,agg_Soberanes_20230704_T2_2,No
+Soberanes,20230704,2,H_cracherodii,10,3,2,8,1,687,1,agg_Soberanes_20230704_T2_1,No
+Soberanes,20230704,2,H_cracherodii,0,0,4,7,1,689,3,agg_Soberanes_20230704_T2_3,No
+Soberanes,20230704,2,H_cracherodii,0,0,5,7,1,690,4,agg_Soberanes_20230704_T2_4,No
+Soberanes,20230704,2,H_cracherodii,0,0,8,10,3,691,5,agg_Soberanes_20230704_T2_5,No
+Soberanes,20230704,2,H_cracherodii,10,25,8,7,3,691,5,agg_Soberanes_20230704_T2_5,No
+Soberanes,20230704,2,H_cracherodii,0,0,8,10,3,691,5,agg_Soberanes_20230704_T2_5,No
+Soberanes,20230704,2,H_cracherodii,0,0,9,6,1,692,6,agg_Soberanes_20230704_T2_6,No
+Soberanes,20230704,2,H_cracherodii,20,30,10,10,5,693,7,agg_Soberanes_20230704_T2_7,Yes
+Soberanes,20230704,2,H_cracherodii,20,30,10,12,5,693,7,agg_Soberanes_20230704_T2_7,Yes
+Soberanes,20230704,2,H_cracherodii,20,30,10,5,5,693,7,agg_Soberanes_20230704_T2_7,Yes
+Soberanes,20230704,2,H_cracherodii,20,30,10,7,5,693,7,agg_Soberanes_20230704_T2_7,Yes
+Soberanes,20230704,2,H_cracherodii,10,10,10,4,5,693,7,agg_Soberanes_20230704_T2_7,Yes
+Soberanes,20230704,3,H_cracherodii,25,11,7,7,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,11,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,11,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,11,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,3,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,2,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,2,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,2,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,10,7,2,12,694,1,agg_Soberanes_20230704_T3_1,Yes
+Soberanes,20230704,3,H_cracherodii,25,12,11,6,4,695,2,agg_Soberanes_20230704_T3_2,Yes
+Soberanes,20230704,3,H_cracherodii,25,12,11,7,4,695,2,agg_Soberanes_20230704_T3_2,Yes
+Soberanes,20230704,3,H_cracherodii,25,12,11,8,4,695,2,agg_Soberanes_20230704_T3_2,Yes
+Soberanes,20230704,3,H_cracherodii,20,3,11,8,4,695,2,agg_Soberanes_20230704_T3_2,Yes
+Soberanes,20230704,3,H_cracherodii,20,6,13,8,2,696,3,agg_Soberanes_20230704_T3_3,No
+Soberanes,20230704,3,H_cracherodii,20,6,13,5,2,696,3,agg_Soberanes_20230704_T3_3,No
+Soberanes,20230704,3,H_cracherodii,15,17,15,10,1,697,4,agg_Soberanes_20230704_T3_4,No
+Soberanes,20230704,3,H_cracherodii,55,5,17,7,3,698,5,agg_Soberanes_20230704_T3_5,No
+Soberanes,20230704,3,H_cracherodii,55,5,17,14,3,698,5,agg_Soberanes_20230704_T3_5,No
+Soberanes,20230704,3,H_cracherodii,55,5,17,8,3,698,5,agg_Soberanes_20230704_T3_5,No
+Soberanes,20230704,3,H_cracherodii,30,3,20,7,2,699,6,agg_Soberanes_20230704_T3_6,No
+Soberanes,20230704,3,H_cracherodii,30,3,20,9,2,699,6,agg_Soberanes_20230704_T3_6,No
+Soberanes,20230704,4,H_cracherodii,4,7,17,8,1,708,9,agg_Soberanes_20230704_T4_9,No
+Soberanes,20230704,4,H_cracherodii,16,7,14,11,2,707,8,agg_Soberanes_20230704_T4_8,No
+Soberanes,20230704,4,H_cracherodii,20,7,14,8,2,707,8,agg_Soberanes_20230704_T4_8,No
+Soberanes,20230704,4,H_cracherodii,0,0,3,8,4,700,1,agg_Soberanes_20230704_T4_1,Yes
+Soberanes,20230704,4,H_cracherodii,25,8,3,8,4,700,1,agg_Soberanes_20230704_T4_1,Yes
+Soberanes,20230704,4,H_cracherodii,25,8,3,9,4,700,1,agg_Soberanes_20230704_T4_1,Yes
+Soberanes,20230704,4,H_cracherodii,25,8,3,10,4,700,1,agg_Soberanes_20230704_T4_1,Yes
+Soberanes,20230704,4,H_cracherodii,0,0,8,10,1,701,2,agg_Soberanes_20230704_T4_2,No
+Soberanes,20230704,4,H_cracherodii,10,5,10,4,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,3,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,4,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,3,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,3,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,3,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,2,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,10,5,10,2,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,15,5,9,3,3,702,3,agg_Soberanes_20230704_T4_3,No
+Soberanes,20230704,4,H_cracherodii,15,5,9,4,3,702,3,agg_Soberanes_20230704_T4_3,No
+Soberanes,20230704,4,H_cracherodii,15,5,9,3,3,702,3,agg_Soberanes_20230704_T4_3,No
+Soberanes,20230704,4,H_cracherodii,15,12,11,11,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230704,4,H_cracherodii,15,12,11,10,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230704,4,H_cracherodii,10,8,12,7,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,10,8,12,12,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,13,5,10,3,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,13,5,10,4,10,703,4,agg_Soberanes_20230704_T4_4,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,12,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,8,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,6,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,9,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,8,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,6,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,14,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,12,7,10,705,6,agg_Soberanes_20230704_T4_6,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,13,9,5,706,7,agg_Soberanes_20230704_T4_7,Yes
+Soberanes,20230704,4,H_cracherodii,20,20,13,10,5,706,7,agg_Soberanes_20230704_T4_7,Yes
+Soberanes,20230704,4,H_cracherodii,20,10,13,14,5,706,7,agg_Soberanes_20230704_T4_7,Yes
+Soberanes,20230704,4,H_cracherodii,20,10,13,11,5,706,7,agg_Soberanes_20230704_T4_7,Yes
+Soberanes,20230704,4,H_cracherodii,20,10,13,10,5,706,7,agg_Soberanes_20230704_T4_7,Yes
+Soberanes,20230704,4,H_cracherodii,15,15,11,10,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230704,4,H_cracherodii,15,15,11,6,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230704,4,H_cracherodii,15,15,11,6,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230704,4,H_cracherodii,15,15,11,6,6,704,5,agg_Soberanes_20230704_T4_5,Yes
+Soberanes,20230705,5,H_cracherodii,0,0,4,8,1,709,1,agg_Soberanes_20230705_T5_1,No
+Soberanes,20230705,6,H_cracherodii,0,0,5,2,1,710,1,agg_Soberanes_20230705_T6_1,No
+Soberanes,20230705,6,H_cracherodii,25,7,20,11,1,711,2,agg_Soberanes_20230705_T6_2,No
+Soberanes,20230705,7,H_cracherodii,0,0,1,7,1,712,1,agg_Soberanes_20230705_T7_1,No
+Soberanes,20230705,7,H_cracherodii,0,0,4,6.5,3,714,3,agg_Soberanes_20230705_T7_3,No
+Soberanes,20230705,7,H_cracherodii,0,0,4,6,3,714,3,agg_Soberanes_20230705_T7_3,No
+Soberanes,20230705,7,H_cracherodii,15,10,4,7,3,714,3,agg_Soberanes_20230705_T7_3,No
+Soberanes,20230705,7,H_cracherodii,10,5,3,2,1,713,2,agg_Soberanes_20230705_T7_2,No
+Soberanes,20230705,7,H_cracherodii,15,10,5,5,2,715,4,agg_Soberanes_20230705_T7_4,No
+Soberanes,20230705,7,H_cracherodii,10,5,5,3,2,715,4,agg_Soberanes_20230705_T7_4,No
+Soberanes,20230705,7,H_cracherodii,15,5,8,8,1,716,5,agg_Soberanes_20230705_T7_5,No
+Soberanes,20230705,7,H_cracherodii,6,5,11,8,1,717,6,agg_Soberanes_20230705_T7_6,No
+Carmel Pt,20230708,2,H_cracherodii,5,4,1,9,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,15,4,1,12,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,8,1,10,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,8,1,11,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,25,10,1,13,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,35,10,1,14,6,353,1,agg_Carmel Pt_20230708_T2_1,Yes
+Carmel Pt,20230708,2,H_cracherodii,15,8,5,10,1,354,2,agg_Carmel Pt_20230708_T2_2,No
+Carmel Pt,20230708,2,H_cracherodii,5,3,6,8,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,5,3,6,6,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,5,6,9,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,25,12,6,9,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,25,12,6,7,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,25,12,6,12,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,10,6,6,8,7,355,3,agg_Carmel Pt_20230708_T2_3,Yes
+Carmel Pt,20230708,2,H_cracherodii,5,3,7,5,2,356,4,agg_Carmel Pt_20230708_T2_4,No
+Carmel Pt,20230708,2,H_cracherodii,30,12,7,10,2,356,4,agg_Carmel Pt_20230708_T2_4,No
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,3,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,6,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,7,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,10,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,9,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,8,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,12,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,7,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,20,6,8,4,9,357,5,agg_Carmel Pt_20230708_T2_5,Yes
+Carmel Pt,20230708,2,H_cracherodii,15,6,9,9,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230708,2,H_cracherodii,15,6,9,13,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230708,2,H_cracherodii,15,6,9,9,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230708,2,H_cracherodii,10,5,9,11,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230708,2,H_cracherodii,10,5,9,5,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230708,2,H_cracherodii,5,3,9,7,6,358,6,agg_Carmel Pt_20230708_T2_6,Yes
+Carmel Pt,20230717,3,H_cracherodii,20,30,12,13,1,359,1,agg_Carmel Pt_20230717_T3_1,No
+Carmel Pt,20230717,3,H_cracherodii,20,10,13,12,1,360,2,agg_Carmel Pt_20230717_T3_2,No
+Carmel Pt,20230717,3,H_cracherodii,15,13,14,19,1,361,3,agg_Carmel Pt_20230717_T3_3,No
+Carmel Pt,20230717,3,H_cracherodii,5,18,17,6,2,362,4,agg_Carmel Pt_20230717_T3_4,No
+Carmel Pt,20230717,3,H_cracherodii,10,5,17,11,2,362,4,agg_Carmel Pt_20230717_T3_4,No
+Carmel Pt,20230717,3,H_cracherodii,5,3,18,3,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,20,28,19,11,2,364,6,agg_Carmel Pt_20230717_T3_6,No
+Carmel Pt,20230717,3,H_cracherodii,30,18,19,16,2,364,6,agg_Carmel Pt_20230717_T3_6,No
+Carmel Pt,20230717,3,H_cracherodii,30,7,20,14,3,365,7,agg_Carmel Pt_20230717_T3_7,No
+Carmel Pt,20230717,3,H_cracherodii,19,11,20,16,3,365,7,agg_Carmel Pt_20230717_T3_7,No
+Carmel Pt,20230717,3,H_cracherodii,30,20,18,9,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,35,20,18,3,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,40,15,18,12,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,70,10,18,11,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,75,10,18,13,6,363,5,agg_Carmel Pt_20230717_T3_5,Yes
+Carmel Pt,20230717,3,H_cracherodii,25,14,20,14.9,3,365,7,agg_Carmel Pt_20230717_T3_7,No
+Carmel Pt,20230718,4,H_cracherodii,19,16,4,13,3,366,1,agg_Carmel Pt_20230718_T4_1,No
+Carmel Pt,20230718,4,H_cracherodii,6,5,4,9,3,366,1,agg_Carmel Pt_20230718_T4_1,No
+Carmel Pt,20230718,4,H_cracherodii,5,18,4,10,3,366,1,agg_Carmel Pt_20230718_T4_1,No
+Carmel Pt,20230718,4,H_cracherodii,25,6,12,11,2,367,2,agg_Carmel Pt_20230718_T4_2,No
+Carmel Pt,20230718,4,H_cracherodii,45,12,12,12,2,367,2,agg_Carmel Pt_20230718_T4_2,No
+Carmel Pt,20230718,4,H_cracherodii,14,14,14,8,2,368,3,agg_Carmel Pt_20230718_T4_3,No
+Carmel Pt,20230718,4,H_cracherodii,29,13,14,13,2,368,3,agg_Carmel Pt_20230718_T4_3,No
+Carmel Pt,20230718,5,H_cracherodii,0,0,6,2,1,369,1,agg_Carmel Pt_20230718_T5_1,No
+Carmel Pt,20230718,5,H_cracherodii,19,9,10,8,1,370,2,agg_Carmel Pt_20230718_T5_2,No
+Carmel Pt,20230718,5,H_cracherodii,25,20,14,10,2,371,3,agg_Carmel Pt_20230718_T5_3,No
+Carmel Pt,20230718,5,H_cracherodii,30,20,14,9,2,371,3,agg_Carmel Pt_20230718_T5_3,No
+Carmel Pt,20230718,5,H_cracherodii,30,8,15,19,1,372,4,agg_Carmel Pt_20230718_T5_4,No
+Carmel Pt,20230718,5,H_cracherodii,5,4,16,18,1,373,5,agg_Carmel Pt_20230718_T5_5,No
+Carmel Pt,20230718,5,H_cracherodii,35,11,18,12,1,374,6,agg_Carmel Pt_20230718_T5_6,No
+Pt Pinos,20230719,2,H_cracherodii,10,4,6,5,1,627,1,agg_Pt Pinos_20230719_T2_1,No
+Pt Pinos,20230719,3,H_cracherodii,15,13,18,10,1,628,1,agg_Pt Pinos_20230719_T3_1,No
+Pt Pinos,20230720,4,H_cracherodii,17,5,16,9,1,629,1,agg_Pt Pinos_20230720_T4_1,No
+Pt Pinos,20230720,5,H_cracherodii,15,4,20,6,1,630,1,agg_Pt Pinos_20230720_T5_1,No
+Carmel Pt,20230806,6,H_cracherodii,50,7,1,8,3,375,1,agg_Carmel Pt_20230806_T6_1,No
+Carmel Pt,20230806,6,H_cracherodii,50,7,1,8,3,375,1,agg_Carmel Pt_20230806_T6_1,No
+Carmel Pt,20230806,6,H_cracherodii,35,12,1,8,3,375,1,agg_Carmel Pt_20230806_T6_1,No
+Carmel Pt,20230806,6,H_cracherodii,55,22,15,8,1,376,2,agg_Carmel Pt_20230806_T6_2,No
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,8,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,16,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,15,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,3,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,3,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,7,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,24,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,10,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,6,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,40,17,1,15,10,377,1,agg_Carmel Pt_20240306_T1_1,Yes
+Carmel Pt,20240306,1,H_cracherodii,30,5,3,10,5,378,2,agg_Carmel Pt_20240306_T1_2,Yes
+Carmel Pt,20240306,1,H_cracherodii,30,5,3,12,5,378,2,agg_Carmel Pt_20240306_T1_2,Yes
+Carmel Pt,20240306,1,H_cracherodii,30,5,3,10,5,378,2,agg_Carmel Pt_20240306_T1_2,Yes
+Carmel Pt,20240306,1,H_cracherodii,30,5,3,6,5,378,2,agg_Carmel Pt_20240306_T1_2,Yes
+Carmel Pt,20240306,1,H_cracherodii,30,5,3,12,5,378,2,agg_Carmel Pt_20240306_T1_2,Yes
+Carmel Pt,20240306,1,H_cracherodii,50,15,19,13,3,379,3,agg_Carmel Pt_20240306_T1_3,No
+Carmel Pt,20240306,1,H_cracherodii,50,15,19,10,3,379,3,agg_Carmel Pt_20240306_T1_3,No
+Carmel Pt,20240306,1,H_cracherodii,50,15,19,7,3,379,3,agg_Carmel Pt_20240306_T1_3,No
+Carmel Pt,20240306,2,H_cracherodii,30,11,20,14,2,383,4,agg_Carmel Pt_20240306_T2_4,No
+Carmel Pt,20240306,2,H_cracherodii,37,12,20,15,2,383,4,agg_Carmel Pt_20240306_T2_4,No
+Carmel Pt,20240306,2,H_cracherodii,20,20,18,7,2,382,3,agg_Carmel Pt_20240306_T2_3,No
+Carmel Pt,20240306,2,H_cracherodii,17,5,18,5,2,382,3,agg_Carmel Pt_20240306_T2_3,No
+Carmel Pt,20240306,2,H_cracherodii,11,4,17,9,1,381,2,agg_Carmel Pt_20240306_T2_2,No
+Carmel Pt,20240306,2,H_cracherodii,20,10,4,9,2,380,1,agg_Carmel Pt_20240306_T2_1,No
+Carmel Pt,20240306,2,H_cracherodii,10,10,4,17,2,380,1,agg_Carmel Pt_20240306_T2_1,No
+Carmel Pt,20240306,3,H_cracherodii,20,5,20,10,1,386,3,agg_Carmel Pt_20240306_T3_3,No
+Carmel Pt,20240306,3,H_cracherodii,20,5,19,13,1,385,2,agg_Carmel Pt_20240306_T3_2,No
+Carmel Pt,20240306,3,H_cracherodii,30,20,1,9,1,384,1,agg_Carmel Pt_20240306_T3_1,No
+Pt Pinos,20240309,6,H_cracherodii,30,12,20,15,1,631,1,agg_Pt Pinos_20240309_T6_1,No
+Hopkins,20240318,1,H_cracherodii,65,30,4,20,3,487,2,agg_Hopkins_20240318_T1_2,No
+Hopkins,20240318,1,H_cracherodii,60,30,4,15,3,487,2,agg_Hopkins_20240318_T1_2,No
+Hopkins,20240318,1,H_cracherodii,60,30,4,10,3,487,2,agg_Hopkins_20240318_T1_2,No
+Hopkins,20240318,1,H_cracherodii,20,15.5,3,13,1,486,1,agg_Hopkins_20240318_T1_1,No
+Carmel Pt,20240412,5,H_cracherodii,50,60,18,15,1,390,4,agg_Carmel Pt_20240412_T5_4,No
+Carmel Pt,20240412,5,H_cracherodii,80,40,8,17,1,389,3,agg_Carmel Pt_20240412_T5_3,No
+Carmel Pt,20240412,5,H_cracherodii,35,6,5,15,2,388,2,agg_Carmel Pt_20240412_T5_2,No
+Carmel Pt,20240412,5,H_cracherodii,35,6,5,30,2,388,2,agg_Carmel Pt_20240412_T5_2,No
+Carmel Pt,20240412,5,H_cracherodii,40,20,4,10,1,387,1,agg_Carmel Pt_20240412_T5_1,No
+Carmel Pt,20240412,6,H_cracherodii,7.5,20,3,10,1,391,1,agg_Carmel Pt_20240412_T6_1,No
+Cannery Row,20250326,3,H_cracherodii,15,N/A,3,10,2,50,1,agg_Cannery Row_20250326_T3_1,No
+Cannery Row,20250326,3,H_cracherodii,15,N/A,3,N/A,2,50,1,agg_Cannery Row_20250326_T3_1,No
+Cannery Row,20250326,3,H_cracherodii,35,2,7,3,2,51,2,agg_Cannery Row_20250326_T3_2,No
+Cannery Row,20250326,3,H_cracherodii,34,3,7,7,2,51,2,agg_Cannery Row_20250326_T3_2,No
+Carmel Pt,20250224,1,H_cracherodii,25,6,8,5,1,392,1,agg_Carmel Pt_20250224_T1_1,No
+Carmel Pt,20250224,2,H_cracherodii,30,10,7,10,2,394,2,agg_Carmel Pt_20250224_T2_2,No
+Carmel Pt,20250224,2,H_cracherodii,25,10,7,10,2,394,2,agg_Carmel Pt_20250224_T2_2,No
+Carmel Pt,20250224,2,H_cracherodii,25,6,2,10,1,393,1,agg_Carmel Pt_20250224_T2_1,No
+Carmel Pt,20250224,3,H_cracherodii,10,7,3,9,1,395,1,agg_Carmel Pt_20250224_T3_1,No
+Carmel Pt,20250224,4,H_cracherodii,25,10,15,11,4,399,4,agg_Carmel Pt_20250224_T4_4,Yes
+Carmel Pt,20250224,4,H_cracherodii,25,8,15,10,4,399,4,agg_Carmel Pt_20250224_T4_4,Yes
+Carmel Pt,20250224,4,H_cracherodii,30,4,15,5,4,399,4,agg_Carmel Pt_20250224_T4_4,Yes
+Carmel Pt,20250224,4,H_cracherodii,20,10,15,14,4,399,4,agg_Carmel Pt_20250224_T4_4,Yes
+Carmel Pt,20250224,4,H_cracherodii,15,5,14,7,1,398,3,agg_Carmel Pt_20250224_T4_3,No
+Carmel Pt,20250224,4,H_cracherodii,15,10,12,10,3,397,2,agg_Carmel Pt_20250224_T4_2,No
+Carmel Pt,20250224,4,H_cracherodii,13,10,12,8,3,397,2,agg_Carmel Pt_20250224_T4_2,No
+Carmel Pt,20250224,4,H_cracherodii,20,25,12,13,3,397,2,agg_Carmel Pt_20250224_T4_2,No
+Carmel Pt,20250224,4,H_cracherodii,45,6,11,12,3,396,1,agg_Carmel Pt_20250224_T4_1,No
+Carmel Pt,20250224,4,H_cracherodii,50,7,11,9,3,396,1,agg_Carmel Pt_20250224_T4_1,No
+Carmel Pt,20250224,4,H_cracherodii,65,7,11,10,3,396,1,agg_Carmel Pt_20250224_T4_1,No
+Carmel Pt,20250224,6,H_cracherodii,45,5,2,10,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,35,6,2,10,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,40,7,2,7,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,45,7,2,9,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,45,7,2,9,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,20,3,2,5,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,20,3,2,6,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Carmel Pt,20250224,6,H_cracherodii,20,3,2,13,8,400,1,agg_Carmel Pt_20250224_T6_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,20,7,8,8,1,634,3,agg_Pt Pinos_20250324_T4_3,No
+Pt Pinos,20250324,4,H_cracherodii,90,15,5,8,3,633,2,agg_Pt Pinos_20250324_T4_2,No
+Pt Pinos,20250324,4,H_cracherodii,90,15,5,12,3,633,2,agg_Pt Pinos_20250324_T4_2,No
+Pt Pinos,20250324,4,H_cracherodii,90,15,5,9,3,633,2,agg_Pt Pinos_20250324_T4_2,No
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,14,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,13,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,7,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,10,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,14,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,10,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,6,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,8,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,4,H_cracherodii,115,20,0,5,9,632,1,agg_Pt Pinos_20250324_T4_1,Yes
+Pt Pinos,20250324,5,H_cracherodii,15,4,2,10,1,635,1,agg_Pt Pinos_20250324_T5_1,No
+Hopkins,20250310,1,H. rufescens,80,15,1,12,1,488,1,agg_Hopkins_20250310_T1_1,No
+Soberanes,20250501,2,H_cracherodii,27,45,6,7,2,721,4,agg_Soberanes_20250501_T2_4,No
+Soberanes,20250501,2,H_cracherodii,5,15,6,7,2,721,4,agg_Soberanes_20250501_T2_4,No
+Soberanes,20250501,2,H_cracherodii,18,3,5,5,2,720,3,agg_Soberanes_20250501_T2_3,No
+Soberanes,20250501,2,H_cracherodii,10,5,5,6,2,720,3,agg_Soberanes_20250501_T2_3,No
+Soberanes,20250501,2,H_cracherodii,15,9,2,6,1,719,2,agg_Soberanes_20250501_T2_2,No
+Soberanes,20250501,2,H_cracherodii,30,8,1,10,5,718,1,agg_Soberanes_20250501_T2_1,Yes
+Soberanes,20250501,2,H_cracherodii,30,8,1,10,5,718,1,agg_Soberanes_20250501_T2_1,Yes
+Soberanes,20250501,2,H_cracherodii,23,8,1,13,5,718,1,agg_Soberanes_20250501_T2_1,Yes
+Soberanes,20250501,2,H_cracherodii,23,8,1,8,5,718,1,agg_Soberanes_20250501_T2_1,Yes
+Soberanes,20250501,2,H_cracherodii,23,8,1,8,5,718,1,agg_Soberanes_20250501_T2_1,Yes
+Soberanes,20250501,2,H_cracherodii,9,7,15,6,1,727,10,agg_Soberanes_20250501_T2_10,No
+Soberanes,20250501,2,H_cracherodii,30,15,12,4,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,3,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,15,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,11,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,16,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,10,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,8,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,30,15,12,8,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,45,6,12,14,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,15,9,12,5,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,10,6,12,5,11,726,9,agg_Soberanes_20250501_T2_9,Yes
+Soberanes,20250501,2,H_cracherodii,15,9,10,6,2,725,8,agg_Soberanes_20250501_T2_8,No
+Soberanes,20250501,2,H_cracherodii,25,15,10,4,2,725,8,agg_Soberanes_20250501_T2_8,No
+Soberanes,20250501,2,H_cracherodii,8,14,9,4,2,724,7,agg_Soberanes_20250501_T2_7,No
+Soberanes,20250501,2,H_cracherodii,3,25,9,6,2,724,7,agg_Soberanes_20250501_T2_7,No
+Soberanes,20250501,2,H_cracherodii,7,10,7,5,1,722,5,agg_Soberanes_20250501_T2_5,No
+Soberanes,20250501,2,H_cracherodii,10,5,8,10,2,723,6,agg_Soberanes_20250501_T2_6,No
+Soberanes,20250501,2,H_cracherodii,10,5,8,5,2,723,6,agg_Soberanes_20250501_T2_6,No
+Soberanes,20250501,4,H_cracherodii,10,10,3,11,1,735,1,agg_Soberanes_20250501_T4_1,No
+Soberanes,20250501,4,H_cracherodii,14,11,4,11,2,736,2,agg_Soberanes_20250501_T4_2,No
+Soberanes,20250501,4,H_cracherodii,4,6,4,5,2,736,2,agg_Soberanes_20250501_T4_2,No
+Soberanes,20250501,4,H_cracherodii,10,9,6,14,3,737,3,agg_Soberanes_20250501_T4_3,No
+Soberanes,20250501,4,H_cracherodii,10,9,6,10,3,737,3,agg_Soberanes_20250501_T4_3,No
+Soberanes,20250501,4,H_cracherodii,10,9,6,12,3,737,3,agg_Soberanes_20250501_T4_3,No
+Soberanes,20250501,4,H_cracherodii,6,7,7,6,1,738,4,agg_Soberanes_20250501_T4_4,No
+Soberanes,20250501,4,H_cracherodii,4,5,12,7,4,739,5,agg_Soberanes_20250501_T4_5,Yes
+Soberanes,20250501,4,H_cracherodii,7,11,12,6,4,739,5,agg_Soberanes_20250501_T4_5,Yes
+Soberanes,20250501,4,H_cracherodii,7,11,12,4,4,739,5,agg_Soberanes_20250501_T4_5,Yes
+Soberanes,20250501,4,H_cracherodii,17,12,12,8,4,739,5,agg_Soberanes_20250501_T4_5,Yes
+Soberanes,20250501,4,H_cracherodii,10,20,14,11,2,740,6,agg_Soberanes_20250501_T4_6,No
+Soberanes,20250501,4,H_cracherodii,10,20,14,11,2,740,6,agg_Soberanes_20250501_T4_6,No
+Soberanes,20250501,5,H_cracherodii,17,6,8,4,2,743,3,agg_Soberanes_20250501_T5_3,No
+Soberanes,20250501,5,H_cracherodii,34,3,10,11,5,744,4,agg_Soberanes_20250501_T5_4,Yes
+Soberanes,20250501,5,H_cracherodii,28,10,10,8,5,744,4,agg_Soberanes_20250501_T5_4,Yes
+Soberanes,20250501,5,H_cracherodii,28,10,10,8,5,744,4,agg_Soberanes_20250501_T5_4,Yes
+Soberanes,20250501,5,H_cracherodii,28,10,10,3,5,744,4,agg_Soberanes_20250501_T5_4,Yes
+Soberanes,20250501,5,H_cracherodii,28,10,10,5,5,744,4,agg_Soberanes_20250501_T5_4,Yes
+Soberanes,20250501,5,H_cracherodii,0,100,11,4,1,745,5,agg_Soberanes_20250501_T5_5,No
+Soberanes,20250501,5,H_cracherodii,0,100,14,4,1,746,6,agg_Soberanes_20250501_T5_6,No
+Soberanes,20250501,5,H_cracherodii,0,100,16,5,5,747,7,agg_Soberanes_20250501_T5_7,Yes
+Soberanes,20250501,5,H_cracherodii,3,2,16,1.5,5,747,7,agg_Soberanes_20250501_T5_7,Yes
+Soberanes,20250501,5,H_cracherodii,7,6,8,10,2,743,3,agg_Soberanes_20250501_T5_3,No
+Soberanes,20250501,5,H_cracherodii,0,100,4,3,1,741,1,agg_Soberanes_20250501_T5_1,No
+Soberanes,20250501,5,H_cracherodii,7,6,5,2,1,742,2,agg_Soberanes_20250501_T5_2,No
+Soberanes,20250501,5,H_cracherodii,0,100,18,3,1,749,9,agg_Soberanes_20250501_T5_9,No
+Soberanes,20250501,5,H_cracherodii,0,100,17,5,2,748,8,agg_Soberanes_20250501_T5_8,No
+Soberanes,20250501,5,H_cracherodii,0,100,17,4,2,748,8,agg_Soberanes_20250501_T5_8,No
+Soberanes,20250501,5,H_cracherodii,0,100,16,7,5,747,7,agg_Soberanes_20250501_T5_7,Yes
+Soberanes,20250501,5,H_cracherodii,0,100,16,7,5,747,7,agg_Soberanes_20250501_T5_7,Yes
+Soberanes,20250501,5,H_cracherodii,0,100,16,6,5,747,7,agg_Soberanes_20250501_T5_7,Yes
+Soberanes,20250501,3,H_cracherodii,10,6,11,4,2,729,2,agg_Soberanes_20250501_T3_2,No
+Soberanes,20250501,3,H_cracherodii,8,7,17,5,1,731,4,agg_Soberanes_20250501_T3_4,No
+Soberanes,20250501,3,H_cracherodii,6,7,16,4,4,730,3,agg_Soberanes_20250501_T3_3,Yes
+Soberanes,20250501,3,H_cracherodii,11,4,16,6,4,730,3,agg_Soberanes_20250501_T3_3,Yes
+Soberanes,20250501,3,H_cracherodii,11,4,16,3,4,730,3,agg_Soberanes_20250501_T3_3,Yes
+Soberanes,20250501,3,H_cracherodii,14,6,16,5,4,730,3,agg_Soberanes_20250501_T3_3,Yes
+Soberanes,20250501,3,H_cracherodii,19,5,18,10,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,5,18,4,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,5,18,4,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,18,4,18,8,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,7,18,6,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,7,18,11,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,7,18,19,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,19,7,18,3,8,732,5,agg_Soberanes_20250501_T3_5,Yes
+Soberanes,20250501,3,H_cracherodii,7,6,19,5,1,733,6,agg_Soberanes_20250501_T3_6,No
+Soberanes,20250501,3,H_cracherodii,16,17,21,11,1,734,7,agg_Soberanes_20250501_T3_7,No
+Soberanes,20250501,3,H_cracherodii,0,100,1,5,1,728,1,agg_Soberanes_20250501_T3_1,No
+Soberanes,20250501,3,H_cracherodii,0,100,11,3,2,729,2,agg_Soberanes_20250501_T3_2,No

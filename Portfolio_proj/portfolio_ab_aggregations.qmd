@@ -1,6 +1,7 @@
 ---
 title: "Abalone Aggregations"
 format: html
+image: 
 execute: 
   echo: false
   warning: false
@@ -12,12 +13,100 @@ embed-resources: true
 #| label: setup
 #| include: false
 library(tidyverse)
+library(janitor)
+#Credit: Nathaniel Fletcher
 ```
 
 ## Data Description
 
+Black abalone (Haliotis cracherodii) are an ecologically and culturally important species found in the rocky intertidal, but have experienced severe population declines due to overharvesting and predation. Aggregation behavior is common in many species to increase fitness and survival in low population densities, yet little is known about what habitat features facilitate viable aggregation sizes. 
 
+The projects in Marine Ecology Course at CSU- Monterey Bay utilized invertebrate swaths and quadrat percent coverage data collected along transects from five rocky intertidal sites along the bay. Historic data between 2002 and 2025 is used to asses environmental drivers of black abalone aggregations. 
+
+Aggregations were categorized “successful” if they contained four or more individuals as this was stated within existing literature to contribute to reproductive success. We measured crevice depth and width, and competitive purple sea urchin (Strongylocentrotus purpuratus) density to assess their influence on abalone aggregation sizes. 
 
 ## Data Cleaning 
 
+We determined aggregation sizes as the sum of abalones within a meter position of each other—aggregations with more than four abalones were considered as having aggregations present, while aggregations with fewer than four abalones were not considered as viable aggregations.
+
+
+```{r}
+#|label: clean transect data
+#| include: false
+all_unclean <- read_csv("data/Transects - all.csv")
+all_unclean <- all_unclean|>
+  clean_names() #cleans the names
+
+all_unclean$position_m <- ceiling(all_unclean$position_m)#rounds position up to the nearest m if they are a meter apart they can still reproduce
+
+#clean site names
+all <- all_unclean|>
+  mutate(site = case_when(
+    site %in% c("Carmel Bay", "Carmel Pt.", "Carmel Pt","Carmel Point", "Carmel") ~ "Carmel Pt",TRUE ~ site))|>
+  mutate(site = case_when(site %in% c("Pt. Pinos","Point Pinos") ~ "Pt Pinos", TRUE ~ site))|>
+  mutate(site = case_when(site %in% c("HMS","Hopkins") ~ "Hopkins", TRUE ~ site))|>
+  mutate(site = case_when(site %in% c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|>
+  filter(!site %in% c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|> #take out unwanted sites
+  select(-c(start_lat, start_long,end_lat,end_long,notes,habitat)) # get rid of variables dont need
+
+```
+
+```{r}
+#| label: make the aggrigation variable
+#| include: false
+
+all <- all%>%
+  group_by(site, date, transect, position_m)|>
+  mutate(agg_counts = n())|> # creating the counts for how many abalone are per aggreagtion
+  ungroup()|>
+  group_by(site, date, transect, position_m)|> #naming the unique groups
+  mutate(agg_id = cur_group_id())|>  # unique ID per aggregation group
+  ungroup()|>
+  group_by(site, date, transect)|>
+  mutate(
+    agg_number = dense_rank(agg_id),  # assign 1, 2, 3... within each transect
+    agg_name = paste0("agg_", site, "_", date, "_T", transect, "_", agg_number))|>
+  ungroup()|>
+  mutate(presence = case_when( agg_counts <= 3 ~ "No",#creating presence variable
+                                agg_counts >= 4 ~ "Yes"))#4 is based on lit
+#printing to a .csv
+write_csv(all, "data/clean_transects.csv")
+```
+
+```{r}
+#|label: clean urchin data
+#|include: false
+urchin <- read_csv("data/urchin - urchin.csv")
+urchin <- urchin|>
+  clean_names() #cleans the names
+
+
+urchin <- urchin|>
+  mutate(site = case_when(site %in% 
+                            c("Carmel Bay", "Carmel Pt.", "Carmel Pt","Carmel Point", "Carmel") ~ "Carmel Pt",TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("Pt. Pinos","Point Pinos") ~ "Pt Pinos", TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("HMS","Hopkins") ~ "Hopkins", TRUE ~ site))|>
+  mutate(site = case_when(site %in% 
+                            c("Pescadero", "Pescadero Point") ~ "Pescadero", TRUE ~ site))|>#clean site names
+  mutate(species = case_when(
+    species %in% 
+            c("S. purpuratus", "S.purpuratus", "S. purpurarus","S_purpuratus") ~ "S_purpuratus",TRUE ~ species))|> #clean species variable
+  filter(!site %in% 
+           c("China Rock", "Malpaso", "Lobos","Sea Palm", "Pescadero", "Pt Lobos"))|>#take out unwanted sites
+  select(-c(start_lat, start_long,end_lat,end_long,x11))#rid of variables dont need
+
+```
+
+```{r}
+#| label: make urchin variables
+#| include: false
+
+urchin <- urchin|>
+  mutate(transect_area_m = transect_length_m *2)|> #make transect area transect length x2 (1m on both sides)
+  mutate(density = number/transect_area_m)  #density variable
+
+write_csv(urchin, "data/clean_urchin.csv")#save clean urchin data set as a .csv
+```
 

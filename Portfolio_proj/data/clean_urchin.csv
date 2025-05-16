@@ -1,0 +1,297 @@
+site,date,transect,transect_length_m,species,number,transect_area_m,density
+Cannery Row,20021116,1,30,S_purpuratus,6,60,0.1
+Cannery Row,20021116,2,30,S_purpuratus,4,60,0.06666666666666667
+Cannery Row,20021116,3,30,S_purpuratus,11,60,0.18333333333333332
+Cannery Row,20021116,4,30,S_purpuratus,0,60,0
+Cannery Row,20021116,5,30,S_purpuratus,1,60,0.016666666666666666
+Carmel Pt,20021118,1,30,S_purpuratus,0,60,0
+Carmel Pt,20021118,2,30,S_purpuratus,1,60,0.016666666666666666
+Carmel Pt,20021118,3,30,S_purpuratus,1,60,0.016666666666666666
+Carmel Pt,20021118,4,30,S_purpuratus,2,60,0.03333333333333333
+Carmel Pt,20021118,5,30,S_purpuratus,4,60,0.06666666666666667
+Carmel Pt,20021118,6,30,S_purpuratus,8,60,0.13333333333333333
+Carmel Pt,20021118,7,30,S_purpuratus,2,60,0.03333333333333333
+Hopkins,20020908,1,30,S_purpuratus,4,60,0.06666666666666667
+Hopkins,20020908,2,30,S_purpuratus,0,60,0
+Hopkins,20020908,3,30,S_purpuratus,31,60,0.5166666666666667
+Hopkins,20020908,4,30,S_purpuratus,6,60,0.1
+Hopkins,20020908,5,30,S_purpuratus,5,60,0.08333333333333333
+Hopkins,20020908,6,30,S_purpuratus,0,60,0
+Hopkins,20020908,7,30,S_purpuratus,0,60,0
+Pt Pinos,20021103,1,30,S_purpuratus,8,60,0.13333333333333333
+Pt Pinos,20021103,2,30,S_purpuratus,1,60,0.016666666666666666
+Pt Pinos,20021103,3,30,S_purpuratus,4,60,0.06666666666666667
+Pt Pinos,20021103,4,30,S_purpuratus,7,60,0.11666666666666667
+Pt Pinos,20021103,5,30,S_purpuratus,8,60,0.13333333333333333
+Pt Pinos,20021103,6,30,S_purpuratus,13,60,0.21666666666666667
+Pt Pinos,20021103,7,30,S_purpuratus,21,60,0.35
+Soberanes,20021005,1,30,S_purpuratus,5,60,0.08333333333333333
+Soberanes,20021005,2,30,S_purpuratus,8,60,0.13333333333333333
+Soberanes,20021005,3,30,S_purpuratus,16,60,0.26666666666666666
+Soberanes,20021005,4,30,S_purpuratus,12,60,0.2
+Soberanes,20021005,5,30,S_purpuratus,7,60,0.11666666666666667
+Soberanes,20021005,6,30,S_purpuratus,6,60,0.1
+Soberanes,20021005,7,30,S_purpuratus,3,60,0.05
+Pt Pinos,20170310,1,30,S_purpuratus,12,60,0.2
+Cannery Row,20170404,1,30,S_purpuratus,69,60,1.15
+Cannery Row,20170404,2,30,S_purpuratus,11,60,0.18333333333333332
+Cannery Row,20170404,3,30,S_purpuratus,11,60,0.18333333333333332
+Cannery Row,20170404,4,30,S_purpuratus,6,60,0.1
+Cannery Row,20170404,5,30,S_purpuratus,0,60,0
+Cannery Row,20170404,6,30,S_purpuratus,4,60,0.06666666666666667
+Cannery Row,20170404,7,30,S_purpuratus,200,60,3.3333333333333335
+Carmel Pt,20170226,1,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,3,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,4,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,5,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,6,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,7,30,S_purpuratus,0,60,0
+Carmel Pt,20170226,8,30,S_purpuratus,0,60,0
+Carmel Pt,20170307,9,30,S_purpuratus,5,60,0.08333333333333333
+Carmel Pt,20170226,2,30,S_purpuratus,0,60,0
+Hopkins,20170210,1,30,S_purpuratus,8,60,0.13333333333333333
+Hopkins,20170210,2,30,S_purpuratus,27,60,0.45
+Hopkins,20170210,3,30,S_purpuratus,0,60,0
+Hopkins,20170210,4,30,S_purpuratus,0,60,0
+Hopkins,20170210,5,30,S_purpuratus,1,60,0.016666666666666666
+Hopkins,20170210,6,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,2,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,3,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,4,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,5,30,S_purpuratus,9,60,0.15
+Pt Pinos,20170310,6,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,7,30,S_purpuratus,0,60,0
+Pt Pinos,20170310,8,30,S_purpuratus,4,60,0.06666666666666667
+Pt Pinos,20170310,9,30,S_purpuratus,6,60,0.1
+Hopkins,20170210,7,30,S_purpuratus,15,60,0.25
+Hopkins,20170210,8,30,S_purpuratus,0,60,0
+Hopkins,20180212,1,30,S_purpuratus,22,60,0.36666666666666664
+Hopkins,20180212,2,30,S_purpuratus,3,60,0.05
+Hopkins,20180212,3,30,S_purpuratus,5,60,0.08333333333333333
+Hopkins,20180212,4,30,S_purpuratus,2,60,0.03333333333333333
+Hopkins,20180212,5,30,S_purpuratus,12,60,0.2
+Pt Pinos,20180226,1,30,S_purpuratus,21,60,0.35
+Pt Pinos,20180226,2,30,S_purpuratus,22,60,0.36666666666666664
+Pt Pinos,20180226,3,30,S_purpuratus,14,60,0.23333333333333334
+Pt Pinos,20180226,4,30,S_purpuratus,106,60,1.7666666666666666
+Pt Pinos,20180226,5,30,S_purpuratus,41,60,0.6833333333333333
+Pt Pinos,20180226,6,30,S_purpuratus,0,60,0
+Pt Pinos,20180226,7,30,S_purpuratus,3,60,0.05
+Carmel Pt,20180228,1,30,S_purpuratus,78,60,1.3
+Carmel Pt,20180228,2,30,S_purpuratus,67,60,1.1166666666666667
+Carmel Pt,20180228,3,30,S_purpuratus,28,60,0.4666666666666667
+Carmel Pt,20180228,4,30,S_purpuratus,32,60,0.5333333333333333
+Carmel Pt,20180228,5,30,S_purpuratus,13,60,0.21666666666666667
+Carmel Pt,20180228,6,30,S_purpuratus,21,60,0.35
+Carmel Pt,20180228,7,30,S_purpuratus,1,60,0.016666666666666666
+Cannery Row,20180312,4,30,S_purpuratus,77,60,1.2833333333333334
+Cannery Row,20180312,2,22,S_purpuratus,46,44,1.0454545454545454
+Cannery Row,20180312,1,25,S_purpuratus,46,50,0.92
+Cannery Row,20180312,5,30,S_purpuratus,50,60,0.8333333333333334
+Cannery Row,20180312,3,30,S_purpuratus,11,60,0.18333333333333332
+Hopkins,20180326,7,30,S_purpuratus,33,60,0.55
+Hopkins,20180326,6,30,S_purpuratus,28,60,0.4666666666666667
+Cannery Row,20190415,1,30,S_purpuratus,251,60,4.183333333333334
+Cannery Row,20190415,2,30,S_purpuratus,305,60,5.083333333333333
+Cannery Row,20190415,3,30,S_purpuratus,99,60,1.65
+Cannery Row,20190417,4,30,S_purpuratus,402,60,6.7
+Cannery Row,20190415,5,30,S_purpuratus,100,60,1.6666666666666667
+Cannery Row,20190415,6,30,S_purpuratus,259,60,4.316666666666666
+Cannery Row,20190415,7,22.5,S_purpuratus,49,45,1.0888888888888888
+Carmel Pt,20190403,1,30,S_purpuratus,1,60,0.016666666666666666
+Carmel Pt,20190403,2,30,S_purpuratus,0,60,0
+Carmel Pt,20190403,3,30,S_purpuratus,0,60,0
+Carmel Pt,20190403,4,30,S_purpuratus,0,60,0
+Carmel Pt,20190403,5,30,S_purpuratus,5,60,0.08333333333333333
+Carmel Pt,20190403,6,30,S_purpuratus,0,60,0
+Carmel Pt,20190403,7,30,S_purpuratus,71,60,1.1833333333333333
+Hopkins,20190218,1,30,S_purpuratus,5,60,0.08333333333333333
+Hopkins,20190218,2,30,S_purpuratus,42,60,0.7
+Hopkins,20190218,3,30,S_purpuratus,44,60,0.7333333333333333
+Hopkins,20190218,4,30,S_purpuratus,281,60,4.683333333333334
+Hopkins,20190218,5,30,S_purpuratus,91,60,1.5166666666666666
+Hopkins,20190220,8,30,S_purpuratus,60,60,1
+Pt Pinos,20190304,1,30,S_purpuratus,53,60,0.8833333333333333
+Pt Pinos,20190304,2,30,S_purpuratus,33,60,0.55
+Pt Pinos,20190304,3,30,S_purpuratus,245,60,4.083333333333333
+Pt Pinos,20190304,4,30,S_purpuratus,87,60,1.45
+Pt Pinos,20190304,5,30,S_purpuratus,66,60,1.1
+Pt Pinos,20190306,6,30,S_purpuratus,10,60,0.16666666666666666
+Pt Pinos,20190306,7,30,S_purpuratus,49,60,0.8166666666666667
+Carmel Pt,20200224,1,30,S_purpuratus,262,60,4.366666666666666
+Carmel Pt,20200219,3,30,S_purpuratus,599,60,9.983333333333333
+Carmel Pt,20200219,4,30,S_purpuratus,42,60,0.7
+Hopkins,20200210,4,30,S_purpuratus,6,60,0.1
+Cannery Row,20200309,3,30,S_purpuratus,414,60,6.9
+Cannery Row,20200309,4,30,S_purpuratus,651,60,10.85
+Cannery Row,20200309,1,30,S_purpuratus,1928,60,32.13333333333333
+Cannery Row,20200309,5,30,S_purpuratus,1139,60,18.983333333333334
+Cannery Row,20200309,7,30,S_purpuratus,834,60,13.9
+Cannery Row,20200309,6,30,S_purpuratus,1422,60,23.7
+Carmel Pt,20200219,2,30,S_purpuratus,213,60,3.55
+Carmel Pt,20200224,2,30,S_purpuratus,450,60,7.5
+Carmel Pt,20209219,5,30,S_purpuratus,225,60,3.75
+Carmel Pt,20200219,1,30,S_purpuratus,773,60,12.883333333333333
+Hopkins,20200210,1,30,S_purpuratus,198,60,3.3
+Hopkins,20200210,2,30,S_purpuratus,19,60,0.31666666666666665
+Hopkins,20200210,3,30,S_purpuratus,18,60,0.3
+Hopkins,20200210,5,26,S_purpuratus,36,52,0.6923076923076923
+Hopkins,20200210,6,30,S_purpuratus,119,60,1.9833333333333334
+Cannery Row,20200309,2,30,S_purpuratus,838,60,13.966666666666667
+Carmel Pt,20200219,6,30,S_purpuratus,95,60,1.5833333333333333
+Carmel Pt,20200219,5,30,S_purpuratus,216,60,3.6
+Cannery Row,20210626,1,20,S_purpuratus,858,40,21.45
+Cannery Row,20210626,2,20,S_purpuratus,1249,40,31.225
+Cannery Row,20210626,3,20,S_purpuratus,4139,40,103.475
+Cannery Row,20210626,4,20,S_purpuratus,2622,40,65.55
+Cannery Row,20210628,5,20,S_purpuratus,1585,40,39.625
+Cannery Row,20210628,6,20,S_purpuratus,2889,40,72.225
+Carmel Pt,20210710,1,20,S_purpuratus,979,40,24.475
+Carmel Pt,20210710,2,20,S_purpuratus,637,40,15.925
+Carmel Pt,201210710,3,20,S_purpuratus,254,40,6.35
+Carmel Pt,20210714,4,20,S_purpuratus,1410,40,35.25
+Carmel Pt,20210711,5,20,S_purpuratus,1521,40,38.025
+Carmel Pt,20210711,6,20,S_purpuratus,637,40,15.925
+Hopkins,20210723,1,20,S_purpuratus,103,40,2.575
+Hopkins,20210723,2,20,S_purpuratus,6,40,0.15
+Hopkins,20210723,3,25,S_purpuratus,32,50,0.64
+Hopkins,20210723,4,20,S_purpuratus,0,40,0
+Hopkins,20210724,5,20,S_purpuratus,109,40,2.725
+Hopkins,20210724,6,20,S_purpuratus,291,40,7.275
+Hopkins,20210724,7,20,S_purpuratus,1777,40,44.425
+Hopkins,20210724,8,20,S_purpuratus,149,40,3.725
+Pt Pinos,20210624,1,20,S_purpuratus,196,40,4.9
+Pt Pinos,20210624,2,20,S_purpuratus,507,40,12.675
+Pt Pinos,20210624,3,20,S_purpuratus,678,40,16.95
+Pt Pinos,20210624,4,20,S_purpuratus,837,40,20.925
+Pt Pinos,20210629,5,20,S_purpuratus,454,40,11.35
+Pt Pinos,20210629,6,20,S_purpuratus,126,40,3.15
+Cannery Row,20220615,1,20,S_purpuratus,2975,40,74.375
+Cannery Row,20220615,2,20,S_purpuratus,1931,40,48.275
+Cannery Row,20220615,3,20,S_purpuratus,757,40,18.925
+Cannery Row,20220616,4,20,S_purpuratus,1281,40,32.025
+Cannery Row,20220616,5,20,S_purpuratus,6028,40,150.7
+Cannery Row,20220617,6,20,S_purpuratus,2439,40,60.975
+Carmel Pt,20220717,1,20,S_purpuratus,1751,40,43.775
+Carmel Pt,20220717,2,20,S_purpuratus,3803,40,95.075
+Carmel Pt,20220727,3,20,S_purpuratus,1500,40,37.5
+Carmel Pt,20220728,4,20,S_purpuratus,1818,40,45.45
+Carmel Pt,20220730,5,20,S_purpuratus,2302,40,57.55
+Hopkins,20220628,1,20,S_purpuratus,32,40,0.8
+Hopkins,20220629,2,20,S_purpuratus,17,40,0.425
+Hopkins,20220629,3,20,S_purpuratus,1533,40,38.325
+Hopkins,20220630,4,20,S_purpuratus,629,40,15.725
+Hopkins,20220630,5,20,S_purpuratus,1656,40,41.4
+Hopkins,20220630,6,20,S_purpuratus,695,40,17.375
+Hopkins,20220701,7,20,S_purpuratus,44,40,1.1
+Hopkins,20220701,8,20,S_purpuratus,2826,40,70.65
+Pt Pinos,20220613,1,20,S_purpuratus,1354,40,33.85
+Pt Pinos,20220614,2,20,S_purpuratus,662,40,16.55
+Pt Pinos,20220614,3,20,S_purpuratus,213,40,5.325
+Pt Pinos,20220618,4,20,S_purpuratus,330,40,8.25
+Pt Pinos,20220619,5,20,S_purpuratus,63,40,1.575
+Pt Pinos,20220627,6,20,S_purpuratus,133,40,3.325
+Soberanes,20220810,1,20,S_purpuratus,1689,40,42.225
+Soberanes,20220811,2,20,S_purpuratus,3079,40,76.975
+Soberanes,20220813,3,20,S_purpuratus,2429,40,60.725
+Soberanes,20220814,4,20,S_purpuratus,563,40,14.075
+Cannery Row,20220228,1,20,S_purpuratus,1668,40,41.7
+Cannery Row,20220228,2,20,S_purpuratus,1689,40,42.225
+Cannery Row,20220228,3,20,S_purpuratus,1078,40,26.95
+Cannery Row,20220228,4,20,S_purpuratus,1017,40,25.425
+Cannery Row,20220228,5,20,S_purpuratus,2835,40,70.875
+Cannery Row,20220228,6,20,S_purpuratus,1514,40,37.85
+Carmel Pt,20220216,1,20,S_purpuratus,870,40,21.75
+Carmel Pt,20220216,2,20,S_purpuratus,118,40,2.95
+Carmel Pt,20220216,3,20,S_purpuratus,219,40,5.475
+Carmel Pt,20220216,4,20,S_purpuratus,348,40,8.7
+Carmel Pt,20220411,5,20,S_purpuratus,792,40,19.8
+Carmel Pt,20220411,6,20,S_purpuratus,640,40,16
+Hopkins,20220314,1,20,S_purpuratus,1,40,0.025
+Hopkins,20220314,2,20,S_purpuratus,9,40,0.225
+Hopkins,20220314,3,20,S_purpuratus,135,40,3.375
+Hopkins,20220314,4,20,S_purpuratus,383,40,9.575
+Hopkins,20220314,5,20,S_purpuratus,312,40,7.8
+Hopkins,20220314,6,20,S_purpuratus,0,40,0
+Pt Pinos,20220214,1,20,S_purpuratus,339,40,8.475
+Pt Pinos,20220214,2,20,S_purpuratus,627,40,15.675
+Pt Pinos,20220214,3,20,S_purpuratus,397,40,9.925
+Pt Pinos,20220214,4,20,S_purpuratus,406,40,10.15
+Pt Pinos,20220302,5,20,S_purpuratus,1168,40,29.2
+Pt Pinos,20220302,6,20,S_purpuratus,384,40,9.6
+Cannery Row,20230419,2,20,S_purpuratus,175,40,4.375
+Cannery Row,20230319,1,20,S_purpuratus,181,40,4.525
+Cannery Row,20230319,3,20,S_purpuratus,599,40,14.975
+Cannery Row,20230421,6,20,S_purpuratus,2325,40,58.125
+Cannery Row,20230421,4,20,S_purpuratus,215,40,5.375
+Cannery Row,20230421,5,20,S_purpuratus,414,40,10.35
+Carmel Pt,20230417,2,20,S_purpuratus,456,40,11.4
+Carmel Pt,20230417,3,20,S_purpuratus,111,40,2.775
+Carmel Pt,20230417,1,20,S_purpuratus,1250,40,31.25
+Carmel Pt,20230417,4,20,S_purpuratus,667,40,16.675
+Hopkins,20230412,2,20,S_purpuratus,1,40,0.025
+Hopkins,20230412,1,20,S_purpuratus,96,40,2.4
+Hopkins,20230416,6,20,S_purpuratus,423,40,10.575
+Hopkins,20230416,5,20,S_purpuratus,22,40,0.55
+Hopkins,20230412,3,20,S_purpuratus,206,40,5.15
+Hopkins,20230416,4,20,S_purpuratus,13,40,0.325
+Pt Pinos,20230306,2,20,S_purpuratus,85,40,2.125
+Pt Pinos,20230306,1,20,S_purpuratus,65,40,1.625
+Pt Pinos,20230320,3,20,S_purpuratus,89,40,2.225
+Pt Pinos,20230320,4,20,S_purpuratus,19,40,0.475
+Pt Pinos,20230320,6,20,S_purpuratus,106,40,2.65
+Pt Pinos,20230320,5,20,S_purpuratus,3,40,0.075
+Pt Pinos,20230320,7,20,S_purpuratus,7,40,0.175
+Pt Pinos,20230320,3,20,S_purpuratus,89,40,2.225
+Soberanes,20230422,1,20,S_purpuratus,1492,40,37.3
+Soberanes,20230422,3,20,S_purpuratus,229,40,5.725
+Soberanes,20230422,2,20,S_purpuratus,1364,40,34.1
+Soberanes,20230422,4,20,S_purpuratus,957,40,23.925
+Cannery Row,20240411,1,20,S_purpuratus,360,40,9
+Cannery Row,20240410,2,20,S_purpuratus,234,40,5.85
+Cannery Row,20240411,3,20,S_purpuratus,204,40,5.1
+Cannery Row,20240410,4,20,S_purpuratus,58,40,1.45
+Cannery Row,20240410,5,20,S_purpuratus,460,40,11.5
+Carmel Pt,20240306,1,20,S_purpuratus,1734,40,43.35
+Carmel Pt,20240306,2,20,S_purpuratus,3827,40,95.675
+Carmel Pt,20240306,3,20,S_purpuratus,2221,40,55.525
+Carmel Pt,20240412,4,20,S_purpuratus,1859,40,46.475
+Carmel Pt,20240412,5,20,S_purpuratus,1054,40,26.35
+Carmel Pt,20240412,6,20,S_purpuratus,270,40,6.75
+Hopkins,20240318,1,20,S_purpuratus,26,40,0.65
+Hopkins,20240318,2,20,S_purpuratus,12,40,0.3
+Hopkins,20240318,3,20,S_purpuratus,2,40,0.05
+Hopkins,20240318,4,20,S_purpuratus,1,40,0.025
+Hopkins,20240320,5,20,S_purpuratus,9,40,0.225
+Hopkins,20240320,6,20,S_purpuratus,2,40,0.05
+Hopkins,20240320,7,20,S_purpuratus,1,40,0.025
+Pt Pinos,20240221,1,20,S_purpuratus,64,40,1.6
+Pt Pinos,20240221,2,20,S_purpuratus,59,40,1.475
+Pt Pinos,20240310,3,20,S_purpuratus,11,40,0.275
+Pt Pinos,20240221,4,20,S_purpuratus,189,40,4.725
+Pt Pinos,20240309,5,20,S_purpuratus,89,40,2.225
+Pt Pinos,20240309,6,20,S_purpuratus,158,40,3.95
+Cannery Row,20250326,2,20,S_purpuratus,18,40,0.45
+Cannery Row,20250326,3,20,S_purpuratus,76,40,1.9
+Cannery Row,20250326,4,20,S_purpuratus,128,40,3.2
+Carmel Pt,20250224,1,20,S_purpuratus,942,40,23.55
+Carmel Pt,20250224,2,20,S_purpuratus,249,40,6.225
+Carmel Pt,20250224,3,20,S_purpuratus,1073,40,26.825
+Carmel Pt,20250224,4,20,S_purpuratus,1090,40,27.25
+Carmel Pt,20250224,6,20,S_purpuratus,1268,40,31.7
+Hopkins,20250310,1,20,S_purpuratus,2,40,0.05
+Hopkins,20250310,2,20,S_purpuratus,76,40,1.9
+Hopkins,20250226,3,20,S_purpuratus,72,40,1.8
+Hopkins,20250310,4,20,S_purpuratus,40,40,1
+Hopkins,20250310,5,20,S_purpuratus,38,40,0.95
+Pt Pinos,20250212,1,20,S_purpuratus,72,40,1.8
+Pt Pinos,20250212,2,20,S_purpuratus,21,40,0.525
+Pt Pinos,20250212,3,20,S_purpuratus,39,40,0.975
+Pt Pinos,20250324,4,20,S_purpuratus,105,40,2.625
+Pt Pinos,20250324,5,20,S_purpuratus,3,40,0.075
+Soberanes,20250501,2,20,S_purpuratus,165,40,4.125
+Soberanes,20250501,4,20,S_purpuratus,250,40,6.25
+Soberanes,20250501,5,20,S_purpuratus,450,40,11.25
+Hopkins,20250502,6,20,S_purpuratus,47,40,1.175
+Soberanes,20250501,1,20,S_purpuratus,164,40,4.1
+Soberanes,20250501,3,20,S_purpuratus,405,40,10.125
