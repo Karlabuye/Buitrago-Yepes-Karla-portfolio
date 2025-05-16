@@ -1,5 +1,5 @@
 ---
-title: "Project: Example for Class"
+title: "Abalone Aggregations"
 format: html
 execute: 
   echo: false
@@ -13,4 +13,11 @@ embed-resources: true
 #| include: false
 library(tidyverse)
 ```
----
+
+## Data Description
+
+
+
+## Data Cleaning 
+
+
